@@ -7,8 +7,7 @@ library(stringdist)
 
 
 all <- read_csv("data/MDSF_latest.csv")
-test <- read_csv("data/test.csv")
-write.csv(test, "data/testCI.csv")
+
 
 #check changes
 

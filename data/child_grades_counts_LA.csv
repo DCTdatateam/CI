@@ -1,160 +1,160 @@
 "Council_Area_Name","question","Adequate","Excellent","Good","No grade","Unsatisfactory","Very good","Weak"
-"Aberdeen City","Care and support",0,0,0,251,0,1,0
-"Aberdeen City","Leadership",18,3,103,30,0,95,3
-"Aberdeen City","Play and learning",23,3,81,31,0,110,4
-"Aberdeen City","Setting",13,5,92,31,0,108,3
-"Aberdeen City","Staffing",11,3,63,90,0,80,5
-"Aberdeen City","Wellbeing support",0,0,1,251,0,0,0
-"Aberdeenshire","Care and support",0,0,0,416,0,0,0
-"Aberdeenshire","Leadership",32,4,219,38,0,118,5
-"Aberdeenshire","Play and learning",19,11,178,38,0,169,1
-"Aberdeenshire","Setting",14,6,169,38,0,189,0
-"Aberdeenshire","Staffing",11,7,138,112,0,147,1
-"Aberdeenshire","Wellbeing support",0,0,0,416,0,0,0
-"Angus","Care and support",0,0,0,173,0,0,0
-"Angus","Leadership",13,5,72,11,0,72,0
-"Angus","Play and learning",6,6,57,11,0,93,0
-"Angus","Setting",3,6,59,11,0,94,0
-"Angus","Staffing",8,4,46,34,0,81,0
-"Angus","Wellbeing support",0,0,0,173,0,0,0
-"Argyll & Bute","Care and support",0,0,0,135,0,0,0
-"Argyll & Bute","Leadership",8,3,66,14,0,44,0
-"Argyll & Bute","Play and learning",7,7,52,14,0,55,0
-"Argyll & Bute","Setting",7,5,65,14,0,44,0
-"Argyll & Bute","Staffing",3,2,52,37,0,40,1
-"Argyll & Bute","Wellbeing support",0,0,0,135,0,0,0
-"City of Edinburgh","Care and support",0,0,3,530,0,1,0
-"City of Edinburgh","Leadership",58,23,238,48,1,160,6
-"City of Edinburgh","Play and learning",36,25,208,52,1,206,6
-"City of Edinburgh","Setting",40,25,204,52,1,207,5
-"City of Edinburgh","Staffing",38,16,169,159,1,145,6
-"City of Edinburgh","Wellbeing support",1,0,3,530,0,0,0
-"Clackmannanshire","Care and support",0,0,0,52,0,0,0
-"Clackmannanshire","Leadership",4,0,24,2,0,22,0
-"Clackmannanshire","Play and learning",1,0,17,2,0,31,1
-"Clackmannanshire","Setting",1,0,15,2,0,34,0
-"Clackmannanshire","Staffing",1,0,19,13,0,19,0
-"Clackmannanshire","Wellbeing support",0,0,0,52,0,0,0
-"Dumfries & Galloway","Care and support",0,0,0,155,0,0,0
-"Dumfries & Galloway","Leadership",8,1,71,15,0,58,2
-"Dumfries & Galloway","Play and learning",7,2,69,15,0,61,1
-"Dumfries & Galloway","Setting",10,1,64,15,0,65,0
-"Dumfries & Galloway","Staffing",8,1,50,28,0,67,1
-"Dumfries & Galloway","Wellbeing support",0,0,0,155,0,0,0
+"Aberdeen City","Care and support",0,0,0,252,0,1,0
+"Aberdeen City","Leadership",18,3,104,29,0,96,3
+"Aberdeen City","Play and learning",22,3,84,30,0,110,4
+"Aberdeen City","Setting",13,6,94,30,0,107,3
+"Aberdeen City","Staffing",10,3,66,87,0,83,4
+"Aberdeen City","Wellbeing support",0,0,1,252,0,0,0
+"Aberdeenshire","Care and support",0,0,0,414,0,0,0
+"Aberdeenshire","Leadership",30,4,220,39,0,116,5
+"Aberdeenshire","Play and learning",18,10,177,39,0,169,1
+"Aberdeenshire","Setting",14,6,168,39,0,187,0
+"Aberdeenshire","Staffing",10,6,135,113,0,149,1
+"Aberdeenshire","Wellbeing support",0,0,0,414,0,0,0
+"Angus","Care and support",0,0,0,171,0,0,0
+"Angus","Leadership",12,5,72,11,0,71,0
+"Angus","Play and learning",5,6,58,11,0,91,0
+"Angus","Setting",3,6,59,11,0,92,0
+"Angus","Staffing",7,4,47,34,0,79,0
+"Angus","Wellbeing support",0,0,0,171,0,0,0
+"Argyll & Bute","Care and support",0,0,0,136,0,0,0
+"Argyll & Bute","Leadership",8,3,67,15,0,43,0
+"Argyll & Bute","Play and learning",7,7,53,15,0,54,0
+"Argyll & Bute","Setting",7,5,65,15,0,44,0
+"Argyll & Bute","Staffing",3,2,52,37,0,41,1
+"Argyll & Bute","Wellbeing support",0,0,0,136,0,0,0
+"City of Edinburgh","Care and support",0,0,3,534,0,1,0
+"City of Edinburgh","Leadership",55,22,241,52,1,161,6
+"City of Edinburgh","Play and learning",36,25,210,56,1,204,6
+"City of Edinburgh","Setting",40,24,206,56,1,206,5
+"City of Edinburgh","Staffing",37,16,170,162,1,146,6
+"City of Edinburgh","Wellbeing support",1,0,3,534,0,0,0
+"Clackmannanshire","Care and support",0,0,0,53,0,0,0
+"Clackmannanshire","Leadership",4,0,24,3,0,22,0
+"Clackmannanshire","Play and learning",2,0,17,3,0,31,0
+"Clackmannanshire","Setting",1,0,14,3,0,34,1
+"Clackmannanshire","Staffing",0,0,19,14,0,19,1
+"Clackmannanshire","Wellbeing support",0,0,0,53,0,0,0
+"Dumfries & Galloway","Care and support",0,0,0,158,0,0,0
+"Dumfries & Galloway","Leadership",7,1,74,15,0,59,2
+"Dumfries & Galloway","Play and learning",7,2,70,15,0,63,1
+"Dumfries & Galloway","Setting",9,1,66,15,0,67,0
+"Dumfries & Galloway","Staffing",7,1,51,29,0,69,1
+"Dumfries & Galloway","Wellbeing support",0,0,0,158,0,0,0
 "Dundee City","Care and support",0,0,0,148,0,1,0
-"Dundee City","Leadership",15,3,58,6,0,65,2
-"Dundee City","Play and learning",9,5,42,7,1,84,1
-"Dundee City","Setting",11,5,47,7,1,78,0
-"Dundee City","Staffing",10,2,39,29,0,68,1
+"Dundee City","Leadership",13,3,60,6,0,65,2
+"Dundee City","Play and learning",8,5,42,7,1,85,1
+"Dundee City","Setting",9,5,48,7,1,79,0
+"Dundee City","Staffing",9,2,39,29,0,69,1
 "Dundee City","Wellbeing support",0,0,0,148,0,1,0
 "East Ayrshire","Care and support",0,0,1,164,0,0,0
-"East Ayrshire","Leadership",8,5,78,12,0,61,1
-"East Ayrshire","Play and learning",5,5,56,13,0,85,1
-"East Ayrshire","Setting",5,3,72,13,0,71,1
+"East Ayrshire","Leadership",8,4,77,12,0,62,2
+"East Ayrshire","Play and learning",5,4,57,13,0,84,2
+"East Ayrshire","Setting",4,3,73,13,0,71,1
 "East Ayrshire","Staffing",3,1,61,58,0,42,0
 "East Ayrshire","Wellbeing support",0,0,1,164,0,0,0
 "East Dunbartonshire","Care and support",0,0,0,149,0,0,0
-"East Dunbartonshire","Leadership",12,3,54,6,0,73,1
-"East Dunbartonshire","Play and learning",10,15,38,6,0,79,1
-"East Dunbartonshire","Setting",9,8,38,6,0,83,5
-"East Dunbartonshire","Staffing",11,4,28,49,0,56,1
+"East Dunbartonshire","Leadership",12,3,55,5,0,73,1
+"East Dunbartonshire","Play and learning",10,14,39,5,0,80,1
+"East Dunbartonshire","Setting",9,8,40,5,0,82,5
+"East Dunbartonshire","Staffing",11,4,29,46,0,58,1
 "East Dunbartonshire","Wellbeing support",0,0,0,149,0,0,0
-"East Lothian","Care and support",0,0,1,160,0,0,0
-"East Lothian","Leadership",12,9,82,16,0,41,1
-"East Lothian","Play and learning",11,6,75,17,0,52,0
-"East Lothian","Setting",6,8,79,17,0,51,0
-"East Lothian","Staffing",10,3,59,55,0,34,0
-"East Lothian","Wellbeing support",0,0,1,160,0,0,0
-"East Renfrewshire","Care and support",0,0,0,144,0,1,0
-"East Renfrewshire","Leadership",0,8,57,12,0,66,2
-"East Renfrewshire","Play and learning",3,11,30,13,0,87,1
-"East Renfrewshire","Setting",1,9,36,13,0,85,1
-"East Renfrewshire","Staffing",1,4,33,63,0,42,2
-"East Renfrewshire","Wellbeing support",0,0,0,144,0,1,0
-"Falkirk","Care and support",0,0,0,217,0,0,0
-"Falkirk","Leadership",14,2,99,12,0,90,0
-"Falkirk","Play and learning",5,3,74,12,0,123,0
-"Falkirk","Setting",8,2,73,12,0,122,0
-"Falkirk","Staffing",8,2,63,57,0,87,0
-"Falkirk","Wellbeing support",0,0,0,217,0,0,0
-"Fife","Care and support",0,0,0,460,0,0,0
-"Fife","Leadership",33,7,197,28,1,190,4
-"Fife","Play and learning",15,16,168,28,1,231,1
-"Fife","Setting",21,4,153,28,1,252,1
-"Fife","Staffing",21,9,125,111,0,193,1
-"Fife","Wellbeing support",0,0,0,460,0,0,0
-"Glasgow City","Care and support",0,0,0,443,0,0,0
-"Glasgow City","Leadership",22,25,194,30,0,169,3
-"Glasgow City","Play and learning",22,35,161,30,0,191,4
-"Glasgow City","Setting",19,19,182,30,0,189,4
-"Glasgow City","Staffing",21,20,116,98,0,183,5
-"Glasgow City","Wellbeing support",0,0,0,443,0,0,0
-"Highland","Care and support",0,0,0,358,0,0,0
-"Highland","Leadership",36,2,146,26,0,144,4
-"Highland","Play and learning",27,5,125,26,0,174,1
-"Highland","Setting",28,2,142,26,0,160,0
-"Highland","Staffing",20,2,99,99,0,134,4
-"Highland","Wellbeing support",0,0,0,358,0,0,0
+"East Lothian","Care and support",0,0,1,159,0,0,0
+"East Lothian","Leadership",12,9,82,16,0,41,0
+"East Lothian","Play and learning",10,6,75,17,0,52,0
+"East Lothian","Setting",5,8,79,17,0,51,0
+"East Lothian","Staffing",9,3,59,55,0,34,0
+"East Lothian","Wellbeing support",0,0,1,159,0,0,0
+"East Renfrewshire","Care and support",0,0,0,146,0,1,0
+"East Renfrewshire","Leadership",1,8,57,11,0,68,2
+"East Renfrewshire","Play and learning",3,11,31,12,0,89,1
+"East Renfrewshire","Setting",1,9,38,12,0,86,1
+"East Renfrewshire","Staffing",2,4,34,61,0,44,2
+"East Renfrewshire","Wellbeing support",0,0,0,146,0,1,0
+"Falkirk","Care and support",0,0,0,214,0,0,0
+"Falkirk","Leadership",14,2,97,11,0,90,0
+"Falkirk","Play and learning",5,3,73,11,0,122,0
+"Falkirk","Setting",8,2,71,11,0,122,0
+"Falkirk","Staffing",7,2,63,54,0,88,0
+"Falkirk","Wellbeing support",0,0,0,214,0,0,0
+"Fife","Care and support",0,0,0,456,0,0,0
+"Fife","Leadership",32,7,198,25,0,190,4
+"Fife","Play and learning",15,16,169,25,0,230,1
+"Fife","Setting",20,4,153,25,0,253,1
+"Fife","Staffing",21,9,126,106,0,194,0
+"Fife","Wellbeing support",0,0,0,456,0,0,0
+"Glasgow City","Care and support",0,0,0,444,0,0,0
+"Glasgow City","Leadership",18,24,198,31,0,170,3
+"Glasgow City","Play and learning",19,35,164,31,0,192,3
+"Glasgow City","Setting",17,19,187,31,0,188,2
+"Glasgow City","Staffing",20,20,118,99,0,183,4
+"Glasgow City","Wellbeing support",0,0,0,444,0,0,0
+"Highland","Care and support",0,0,0,357,0,0,0
+"Highland","Leadership",37,1,147,26,0,142,4
+"Highland","Play and learning",29,4,124,26,0,173,1
+"Highland","Setting",25,2,146,26,0,158,0
+"Highland","Staffing",15,2,105,95,0,135,5
+"Highland","Wellbeing support",0,0,0,357,0,0,0
 "Inverclyde","Care and support",0,0,0,68,0,0,0
-"Inverclyde","Leadership",1,1,30,4,0,32,0
+"Inverclyde","Leadership",2,1,29,4,0,32,0
 "Inverclyde","Play and learning",1,1,23,4,0,39,0
 "Inverclyde","Setting",1,1,29,4,0,33,0
-"Inverclyde","Staffing",1,1,17,24,0,25,0
+"Inverclyde","Staffing",2,1,16,24,0,25,0
 "Inverclyde","Wellbeing support",0,0,0,68,0,0,0
-"Midlothian","Care and support",0,0,0,133,0,0,0
-"Midlothian","Leadership",2,4,59,12,0,55,1
-"Midlothian","Play and learning",2,3,52,12,0,62,2
-"Midlothian","Setting",3,4,56,12,0,58,0
-"Midlothian","Staffing",2,2,41,37,0,50,1
-"Midlothian","Wellbeing support",0,0,0,133,0,0,0
+"Midlothian","Care and support",0,0,0,132,0,0,0
+"Midlothian","Leadership",2,3,60,11,0,55,1
+"Midlothian","Play and learning",2,3,52,11,0,62,2
+"Midlothian","Setting",3,3,56,11,0,59,0
+"Midlothian","Staffing",2,2,40,36,0,51,1
+"Midlothian","Wellbeing support",0,0,0,132,0,0,0
 "Moray","Care and support",0,0,0,158,0,0,0
-"Moray","Leadership",15,2,81,19,0,39,2
-"Moray","Play and learning",8,3,61,19,0,67,0
-"Moray","Setting",7,3,61,19,0,68,0
-"Moray","Staffing",4,2,53,61,0,37,1
+"Moray","Leadership",17,2,80,17,0,40,2
+"Moray","Play and learning",9,3,62,17,0,67,0
+"Moray","Setting",7,3,61,17,0,70,0
+"Moray","Staffing",4,2,56,57,0,38,1
 "Moray","Wellbeing support",0,0,0,158,0,0,0
 "Na h-Eileanan Siar","Care and support",0,0,0,31,0,0,0
-"Na h-Eileanan Siar","Leadership",0,0,11,2,0,17,1
+"Na h-Eileanan Siar","Leadership",2,0,10,2,0,16,1
 "Na h-Eileanan Siar","Play and learning",0,2,11,2,0,15,1
-"Na h-Eileanan Siar","Setting",3,4,10,2,0,12,0
-"Na h-Eileanan Siar","Staffing",0,2,9,7,0,12,1
+"Na h-Eileanan Siar","Setting",2,4,11,2,0,12,0
+"Na h-Eileanan Siar","Staffing",1,2,8,7,0,12,1
 "Na h-Eileanan Siar","Wellbeing support",0,0,0,31,0,0,0
-"North Ayrshire","Care and support",0,0,0,182,0,0,0
-"North Ayrshire","Leadership",9,4,95,9,0,65,0
-"North Ayrshire","Play and learning",8,16,55,9,0,94,0
-"North Ayrshire","Setting",7,4,63,9,0,98,1
-"North Ayrshire","Staffing",10,4,45,78,0,45,0
-"North Ayrshire","Wellbeing support",0,0,0,182,0,0,0
-"North Lanarkshire","Care and support",0,0,0,362,0,0,0
-"North Lanarkshire","Leadership",20,7,151,19,0,164,1
-"North Lanarkshire","Play and learning",9,14,131,19,0,188,1
-"North Lanarkshire","Setting",7,14,147,19,0,174,1
-"North Lanarkshire","Staffing",12,13,102,104,0,131,0
-"North Lanarkshire","Wellbeing support",0,0,0,362,0,0,0
-"Orkney Islands","Care and support",0,0,0,42,0,0,0
-"Orkney Islands","Leadership",2,1,21,4,0,14,0
-"Orkney Islands","Play and learning",1,0,12,4,0,25,0
-"Orkney Islands","Setting",0,0,14,4,0,23,1
-"Orkney Islands","Staffing",1,0,9,16,0,16,0
-"Orkney Islands","Wellbeing support",0,0,0,42,0,0,0
-"Perth & Kinross","Care and support",0,0,0,203,0,0,0
-"Perth & Kinross","Leadership",16,3,92,11,0,79,2
-"Perth & Kinross","Play and learning",6,5,83,11,0,97,1
-"Perth & Kinross","Setting",4,3,86,11,0,99,0
-"Perth & Kinross","Staffing",9,1,41,60,0,91,1
-"Perth & Kinross","Wellbeing support",0,0,0,203,0,0,0
-"Renfrewshire","Care and support",0,0,0,156,0,0,0
-"Renfrewshire","Leadership",10,3,84,6,0,50,3
-"Renfrewshire","Play and learning",9,5,71,6,0,62,3
-"Renfrewshire","Setting",3,3,71,6,0,71,2
-"Renfrewshire","Staffing",7,1,69,34,0,44,1
-"Renfrewshire","Wellbeing support",0,0,0,156,0,0,0
-"Scottish Borders","Care and support",0,0,0,142,0,0,0
-"Scottish Borders","Leadership",5,4,63,9,1,58,2
-"Scottish Borders","Play and learning",7,5,54,9,1,66,0
-"Scottish Borders","Setting",4,4,57,9,0,66,2
-"Scottish Borders","Staffing",5,0,41,35,1,59,1
-"Scottish Borders","Wellbeing support",0,0,0,142,0,0,0
+"North Ayrshire","Care and support",0,0,0,183,0,0,0
+"North Ayrshire","Leadership",11,4,94,10,0,64,0
+"North Ayrshire","Play and learning",9,16,56,10,0,92,0
+"North Ayrshire","Setting",8,4,64,10,0,96,1
+"North Ayrshire","Staffing",10,4,47,79,0,43,0
+"North Ayrshire","Wellbeing support",0,0,0,183,0,0,0
+"North Lanarkshire","Care and support",0,0,0,360,0,0,0
+"North Lanarkshire","Leadership",21,7,150,18,0,163,1
+"North Lanarkshire","Play and learning",9,14,131,18,0,187,1
+"North Lanarkshire","Setting",7,14,148,18,0,172,1
+"North Lanarkshire","Staffing",13,13,102,99,0,133,0
+"North Lanarkshire","Wellbeing support",0,0,0,360,0,0,0
+"Orkney Islands","Care and support",0,0,0,41,0,0,0
+"Orkney Islands","Leadership",2,1,21,3,0,14,0
+"Orkney Islands","Play and learning",1,0,12,3,0,25,0
+"Orkney Islands","Setting",0,0,14,3,0,23,1
+"Orkney Islands","Staffing",1,0,9,15,0,16,0
+"Orkney Islands","Wellbeing support",0,0,0,41,0,0,0
+"Perth & Kinross","Care and support",0,0,0,201,0,0,0
+"Perth & Kinross","Leadership",15,3,91,10,0,80,2
+"Perth & Kinross","Play and learning",6,5,82,10,0,97,1
+"Perth & Kinross","Setting",3,3,85,10,0,100,0
+"Perth & Kinross","Staffing",8,1,41,59,0,91,1
+"Perth & Kinross","Wellbeing support",0,0,0,201,0,0,0
+"Renfrewshire","Care and support",0,0,0,155,0,0,0
+"Renfrewshire","Leadership",11,3,85,4,0,48,4
+"Renfrewshire","Play and learning",9,5,74,4,0,59,4
+"Renfrewshire","Setting",4,3,72,4,0,69,3
+"Renfrewshire","Staffing",8,1,70,31,0,43,2
+"Renfrewshire","Wellbeing support",0,0,0,155,0,0,0
+"Scottish Borders","Care and support",0,0,0,144,0,0,0
+"Scottish Borders","Leadership",5,4,63,9,1,60,2
+"Scottish Borders","Play and learning",7,5,55,9,1,67,0
+"Scottish Borders","Setting",4,4,58,9,0,67,2
+"Scottish Borders","Staffing",5,1,42,34,1,60,1
+"Scottish Borders","Wellbeing support",0,0,0,144,0,0,0
 "Shetland Islands","Care and support",0,0,0,29,0,0,0
 "Shetland Islands","Leadership",5,0,11,0,0,13,0
 "Shetland Islands","Play and learning",2,0,10,0,0,17,0
@@ -162,32 +162,32 @@
 "Shetland Islands","Staffing",4,0,6,2,0,17,0
 "Shetland Islands","Wellbeing support",0,0,0,29,0,0,0
 "South Ayrshire","Care and support",0,0,0,115,0,0,0
-"South Ayrshire","Leadership",3,3,52,4,0,53,0
-"South Ayrshire","Play and learning",4,6,39,4,0,62,0
-"South Ayrshire","Setting",3,2,41,4,0,65,0
-"South Ayrshire","Staffing",4,3,38,30,0,40,0
+"South Ayrshire","Leadership",3,4,53,5,0,50,0
+"South Ayrshire","Play and learning",4,6,40,5,0,60,0
+"South Ayrshire","Setting",3,3,42,5,0,62,0
+"South Ayrshire","Staffing",4,4,39,29,0,39,0
 "South Ayrshire","Wellbeing support",0,0,0,115,0,0,0
 "South Lanarkshire","Care and support",0,0,0,344,0,0,0
-"South Lanarkshire","Leadership",12,5,182,21,0,124,0
-"South Lanarkshire","Play and learning",6,10,148,21,0,159,0
-"South Lanarkshire","Setting",13,9,150,21,0,151,0
-"South Lanarkshire","Staffing",5,2,129,96,0,112,0
+"South Lanarkshire","Leadership",12,5,181,23,0,123,0
+"South Lanarkshire","Play and learning",6,9,148,23,0,158,0
+"South Lanarkshire","Setting",12,8,151,23,0,150,0
+"South Lanarkshire","Staffing",5,2,129,97,0,111,0
 "South Lanarkshire","Wellbeing support",0,0,0,344,0,0,0
-"Stirling","Care and support",0,0,0,125,0,0,0
-"Stirling","Leadership",4,5,50,14,0,50,2
-"Stirling","Play and learning",2,5,30,14,0,72,2
-"Stirling","Setting",4,4,35,14,0,68,0
-"Stirling","Staffing",3,4,28,41,0,49,0
-"Stirling","Wellbeing support",0,0,0,125,0,0,0
+"Stirling","Care and support",0,0,0,126,0,0,0
+"Stirling","Leadership",7,4,49,13,0,52,1
+"Stirling","Play and learning",3,5,34,13,0,70,1
+"Stirling","Setting",3,4,37,13,0,69,0
+"Stirling","Staffing",4,4,28,38,0,52,0
+"Stirling","Wellbeing support",0,0,0,126,0,0,0
 "West Dunbartonshire","Care and support",0,0,0,70,0,0,0
-"West Dunbartonshire","Leadership",0,1,32,3,0,34,0
-"West Dunbartonshire","Play and learning",0,3,24,3,0,40,0
-"West Dunbartonshire","Setting",0,1,32,3,0,34,0
-"West Dunbartonshire","Staffing",0,3,22,19,0,26,0
+"West Dunbartonshire","Leadership",0,1,31,3,0,35,0
+"West Dunbartonshire","Play and learning",0,3,23,3,0,41,0
+"West Dunbartonshire","Setting",0,1,31,3,0,35,0
+"West Dunbartonshire","Staffing",0,3,22,18,0,27,0
 "West Dunbartonshire","Wellbeing support",0,0,0,70,0,0,0
-"West Lothian","Care and support",0,0,0,268,0,0,0
-"West Lothian","Leadership",26,7,127,10,0,97,1
-"West Lothian","Play and learning",16,9,101,10,0,131,1
-"West Lothian","Setting",12,4,105,10,0,136,1
-"West Lothian","Staffing",17,5,78,100,0,68,0
-"West Lothian","Wellbeing support",0,0,0,268,0,0,0
+"West Lothian","Care and support",0,0,0,267,0,0,0
+"West Lothian","Leadership",24,7,128,9,0,98,1
+"West Lothian","Play and learning",14,9,103,9,0,131,1
+"West Lothian","Setting",10,4,106,9,0,137,1
+"West Lothian","Staffing",15,4,78,98,0,72,0
+"West Lothian","Wellbeing support",0,0,0,267,0,0,0

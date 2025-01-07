@@ -4,6 +4,7 @@ library(tidyr)
 library(lubridate) 
 
 # Add link directly from CI datastore
+
 update <- read_csv("data/datastore/MDSF_data_30 November 2024.csv", locale = locale(encoding = "Windows-1252"))
 update$ServiceName <- gsub('[^\x20-\x7E]',  '', update$ServiceName) 
 columns_keep <- c("CareService", "Subtype", "ServiceType", "ServiceName",
@@ -17,9 +18,13 @@ columns_keep <- c("CareService", "Subtype", "ServiceType", "ServiceName",
                   "Last_inspection_Date", "ServiceStatus")
 
 update <- update %>% 
-  select(all_of(columns_keep)) 
+  select(all_of(columns_keep))
 
 
+#Fix the formatting - sentence case for towns and remove fully empty entries
+update$Service_town <- str_to_title(update$Service_town)
+update <- update %>% 
+  filter(!is.na(CareService) & !is.na(ServiceName) & !is.na(Date_Reg))
 
 ##Set the time 
 current_date <- Sys.Date()

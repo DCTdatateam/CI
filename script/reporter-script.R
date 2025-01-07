@@ -28,9 +28,9 @@ update <- update %>%
 
 ##Set the time 
 current_date <- Sys.Date()
-#temp change RETURN TO month(current_date) - 1 and year(current_date)
-month_update <- 11
-year_update <- 2024
+
+month_update <- month(current_date) - 1
+year_update <- year(current_date)
 
 if (month_update == 0) {
   month_update <- 12

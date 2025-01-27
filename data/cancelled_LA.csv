@@ -1,23 +1,24 @@
-"Council_Area_Name","Adult Placement Service","Care Home Service","Child Minding","Day Care of Children","Housing Support Service","Nurse Agency","Support Service"
-"Aberdeenshire",1,1,0,0,1,0,1
-"City of Edinburgh",0,1,5,0,1,0,2
-"Moray",0,1,0,0,0,0,0
-"South Lanarkshire",0,1,1,0,1,0,3
-"West Lothian",0,1,0,0,0,0,0
-"Angus",0,0,1,0,0,0,0
-"Argyll & Bute",0,0,1,0,0,0,0
-"Dundee City",0,0,1,0,0,0,0
-"East Renfrewshire",0,0,1,0,0,0,0
-"Fife",0,0,1,0,0,0,0
-"Glasgow City",0,0,1,0,0,0,0
-"North Lanarkshire",0,0,2,0,0,0,0
-"Scottish Borders",0,0,1,0,0,0,0
-"East Dunbartonshire",0,0,0,1,0,0,0
-"Falkirk",0,0,0,1,0,0,0
-"Inverclyde",0,0,0,1,0,0,0
-"North Ayrshire",0,0,0,1,0,0,0
-"South Ayrshire",0,0,0,1,0,0,0
-"West Dunbartonshire",0,0,0,1,0,0,0
-"Aberdeen City",0,0,0,0,1,0,1
-"Highland",0,0,0,0,1,0,0
-"outside Scotland",0,0,0,0,0,1,0
+"Council_Area_Name","Care Home Service","Child Minding","Day Care of Children","Housing Support Service","Support Service"
+"Aberdeenshire",2,2,0,3,3
+"Fife",1,0,1,0,0
+"Aberdeen City",0,1,0,0,1
+"Angus",0,1,0,0,0
+"Argyll & Bute",0,1,0,0,0
+"East Ayrshire",0,1,0,0,0
+"East Renfrewshire",0,1,0,0,0
+"Falkirk",0,2,0,0,0
+"Highland",0,2,0,0,0
+"North Ayrshire",0,2,0,0,0
+"North Lanarkshire",0,1,0,0,0
+"Orkney Islands",0,1,0,1,0
+"Perth & Kinross",0,1,0,1,0
+"South Ayrshire",0,1,0,0,0
+"South Lanarkshire",0,1,0,0,0
+"Stirling",0,1,0,0,0
+"West Lothian",0,1,0,1,0
+"Moray",0,0,1,0,0
+"Glasgow City",0,0,0,1,0
+"Renfrewshire",0,0,0,1,0
+"City of Edinburgh",0,0,0,0,1
+"Dumfries & Galloway",0,0,0,0,1
+"East Dunbartonshire",0,0,0,0,1

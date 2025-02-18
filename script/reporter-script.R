@@ -26,16 +26,6 @@ update$Service_town <- str_to_title(update$Service_town)
 update <- update %>% 
   filter(!is.na(CareService) & !is.na(ServiceName) & !is.na(Date_Reg))
 
-##We don't currently store this info on a monthly basis so you do not need this
-# current_date <- Sys.Date()
-
-# month_update <- month(current_date) - 1
-# year_update <- year(current_date)
-
-# if (month_update == 0) {
-#   month_update <- 12
-#   year_update <- year_update - 1
-# }
 
 ## details
 
@@ -48,7 +38,7 @@ if (!"Subtype" %in% colnames(df)) {
   stop("Column 'Subtype' does not exist in the data frame.")
 }
 
-subset_df <- df %>% filter(CareService == 'Care Home Service')
+
 
 ##care homes
 

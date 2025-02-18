@@ -47,23 +47,10 @@ df <- update %>%
 if (!"Subtype" %in% colnames(df)) {
   stop("Column 'Subtype' does not exist in the data frame.")
 }
-summary(df$Subtype)
-str(df$Subtype)
-
 
 subset_df <- df %>% filter(CareService == 'Care Home Service')
-print(colnames(subset_df))
-head(subset_df)
-##care homes
 
-#care_homes <- df %>% filter(CareService == 'Care Home Service')
-#care_homes <- care_homes %>% filter(Subtype == "Older People")
-#care_homes <- care_homes %>% filter(!is.na(Publication_of_Latest_Grading))
-#care_homes <- care_homes %>% select(-c(CareService, GradeSpread, ServiceStatus, KQ_Care_Play_and_Learning))
-#care_homes <- care_homes %>% rowwise() %>%
-#  mutate(Average = mean(c_across(starts_with("KQ")), na.rm = TRUE)) %>% 
-#  mutate(Complaints_upheld_since_22_23 = sum(c_across(starts_with("Complaints_upheld_")), na.rm = TRUE)) %>% 
-#  mutate(Enforcements_upheld_since_22_23 = sum(c_across(starts_with("Enforcements_issued_")), na.rm = TRUE))
+##care homes
 
 care_homes <- df %>%
   filter(CareService == 'Care Home Service') %>% 

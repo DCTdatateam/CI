@@ -45,17 +45,17 @@
 "Under 3s","Voluntary or Not for Profit","Stuartfield Preschool Group","Peterhead","Aberdeenshire","Children","14/03/2024",4,5,4,4,"07/02/2024","2002_4",0,0
 "Under 3s","Voluntary or Not for Profit","Turriff Playgroup Ltd","Turriff","Aberdeenshire","Children","14/11/2019",4,4,5,5,"20/09/2019","2002_4",0,0
 "Under 3s","Voluntary or Not for Profit","Denman Pre-school","Westhill","Aberdeenshire","Children","08/12/2022",4,4,4,4,"03/11/2022","2002_4",0,0
-"Under 3s","Voluntary or Not for Profit","Gordon Park Early Learning and Childcare","Ellon","Aberdeenshire","Children","06/11/2018",4,4,5,5,"27/11/2024","2002_4",0,0
+"Under 3s","Voluntary or Not for Profit","Gordon Park Early Learning and Childcare","Ellon","Aberdeenshire","Children","06/01/2025",5,4,5,4,"27/11/2024","2002_4",0,0
 "Over 3s","Voluntary or Not for Profit","Inverurie Out Of School Club","Inverurie","Aberdeenshire","Children","27/01/2023",5,5,5,4,"08/12/2022","2002_4",0,0
 "Over 3s","Voluntary or Not for Profit","Kemnay Breakfast and After School Club","Inverurie","Aberdeenshire","Children","12/12/2023",4,4,3,4,"02/11/2023","2002_4",0,0
 "Under 3s","Voluntary or Not for Profit","Kiddiwinks Playgroup","Kemnay","Aberdeenshire","Children","30/10/2024",4,4,3,3,"27/09/2024","2002_4",0,0
 "Over 3s","Voluntary or Not for Profit","Meldrum After School Klub (mask)","Inverurie","Aberdeenshire","Children","23/05/2023",4,4,4,4,"05/05/2023","2002_4",0,0
 "Under 3s","Voluntary or Not for Profit","Monymusk Playgroup","Inverurie","Aberdeenshire","Children","13/07/2022",5,5,5,5,"11/05/2022","2002_4",0,0
 "Under 3s","Voluntary or Not for Profit","Newburgh Preschool","Ellon","Aberdeenshire","Children","02/07/2018",4,5,4,5,"25/05/2018","2002_4",0,0
-"Over 3s","Private","Newmachar After School Club","Aberdeen","Aberdeenshire","Children","20/11/2024",3,3,2,2,"13/12/2024","2002_4",0,0
+"Over 3s","Private","Newmachar After School Club","Aberdeen","Aberdeenshire","Children","07/01/2025",3,3,3,3,"13/12/2024","2002_4",0,0
 "Under 3s","Voluntary or Not for Profit","Old Rayne Preschool","Insch","Aberdeenshire","Children","05/05/2020",4,4,4,4,"27/02/2020","2002_4",0,0
 "Under 3s","Voluntary or Not for Profit","Scout Hall Playgroup","Westhill","Aberdeenshire","Children","30/04/2024",4,5,4,4,"19/03/2024","2002_4",0,0
-"Over 3s","Voluntary or Not for Profit","St. Andrews Church Playgroup","Inverurie","Aberdeenshire","Children","15/11/2019",5,5,4,5,"04/09/2019","2002_4",0,0
+"Over 3s","Voluntary or Not for Profit","St. Andrews Church Playgroup","Inverurie","Aberdeenshire","Children","15/11/2019",5,5,4,5,"04/09/2019","2002_4",0,2
 "Under 3s","Voluntary or Not for Profit","Strathburn Park Playgroup","Inverurie","Aberdeenshire","Children","21/12/2022",4,4,4,4,"21/11/2022","2002_4",0,0
 "Under 3s","Voluntary or Not for Profit","Udny Station Pre-School Playgroup","Ellon","Aberdeenshire","Children","03/10/2023",4,4,4,4,"01/09/2023","2002_4",0,0
 "Over 3s","Voluntary or Not for Profit","Angus Special Playscheme - Coastal","Arbroath","Angus","Children","30/11/2018",4,5,4,5,"08/10/2018","2002_4",0,0
@@ -110,7 +110,7 @@
 "Over 3s","Voluntary or Not for Profit","Time Out Club, Milngavie","Glasgow","East Dunbartonshire","Children","21/01/2020",5,5,5,5,"20/12/2019","2002_4",0,0
 "Under 3s","Private","The Bearsden Nursery","Glasgow","East Dunbartonshire","Children","29/05/2024",3,4,4,4,"28/03/2024","2002_4",0,0
 "Over 3s","Voluntary or Not for Profit","Time Out Club, Castlehill","Glasgow","East Dunbartonshire","Children","16/10/2019",5,4,5,5,"27/08/2019","2002_4",0,0
-"Over 3s","Voluntary or Not for Profit","Bearsden Primary After School Club","Bearsden","East Dunbartonshire","Children","03/10/2023",5,4,4,4,"03/08/2023","2002_4",0,0
+"Over 3s","Voluntary or Not for Profit","Bearsden Primary After School Club","Bearsden","East Dunbartonshire","Children","13/01/2025",3,4,3,4,"11/10/2024","2002_4",0,0
 "Under 3s","Private","Craighead Childcare Centre","Glasgow","East Dunbartonshire","Children","21/01/2022",5,5,5,5,"09/12/2021","2002_4",0,0
 "Over 3s","Voluntary or Not for Profit","Time Out Club, Craigdhu","Glasgow","East Dunbartonshire","Children","27/02/2020",5,4,5,5,"05/12/2019","2002_4",0,0
 "Under 3s","Private","Happy Days","Glasgow","East Dunbartonshire","Children","26/06/2024",2,4,3,3,"17/05/2024","2002_4",1,0
@@ -170,7 +170,7 @@
 "Under 3s","Private","Gleniffer Nursery","Johnstone","Renfrewshire","Children","20/07/2023",4,4,4,4,"22/06/2023","2002_4",2,0
 "Over 3s","Private","Momags Kids Club at Arkleston","Renfrew","Renfrewshire","Children","11/09/2023",5,4,4,4,"28/07/2023","2002_4",0,0
 "Over 3s","Voluntary or Not for Profit","Doonfoot After School Service Committee","Ayr","South Ayrshire","Children","23/04/2024",4,5,4,4,"31/01/2024","2002_4",1,0
-"Over 3s","Voluntary or Not for Profit","Prestwick After School Care Service","Prestwick","South Ayrshire","Children","17/01/2024",3,3,3,3,"14/11/2023","2002_4",0,0
+"Over 3s","Voluntary or Not for Profit","Prestwick After School Care Service","Prestwick","South Ayrshire","Children","17/01/2025",3,3,2,3,"08/11/2024","2002_4",0,0
 "Over 3s","Voluntary or Not for Profit","Alloway After School Club","Ayr","South Ayrshire","Children","04/03/2024",3,3,3,3,"02/02/2024","2002_4",0,0
 "Under 3s","Private","Riverbank Nursery","Ayr","South Ayrshire","Children","25/09/2019",5,4,4,4,"18/07/2019","2002_4",0,0
 "Over 3s","Voluntary or Not for Profit","Dunblane Kids Club","Dunblane","Stirling","Children","09/01/2023",4,4,4,4,"16/11/2022","2002_4",0,0
@@ -195,7 +195,7 @@
 "Under 3s","Voluntary or Not for Profit","Westbourne Gardens Nursery","Glasgow","Glasgow City","Children","06/01/2020",6,5,5,5,"13/12/2019","2002_4",0,0
 "Over 3s","Voluntary or Not for Profit","Jordanhill Out Of School Service Ltd","Glasgow","Glasgow City","Children","26/08/2021",4,4,4,4,"21/06/2021","2002_4",0,0
 "Over 3s","Voluntary or Not for Profit","Hyndland After School Club","Glasgow","Glasgow City","Children","10/03/2020",5,5,4,5,"12/09/2019","2002_4",0,0
-"Over 3s","Voluntary or Not for Profit","TASC - St Ninian's Primary","Glasgow","Glasgow City","Children","23/09/2020",5,6,5,6,"19/02/2020","2002_4",0,0
+"Over 3s","Voluntary or Not for Profit","TASC - St Ninian's Primary","Glasgow","Glasgow City","Children","14/01/2025",5,5,5,5,"11/12/2024","2002_4",0,0
 "Under 3s","Private","Nightingales Nursery","Glasgow","Glasgow City","Children","12/06/2018",5,5,4,4,"19/04/2018","2002_4",0,0
 "Over 3s","Voluntary or Not for Profit","Buddies Clubs and Services","Glasgow","Glasgow City","Children","06/07/2017",4,4,5,5,"03/05/2017","2002_4",0,0
 "Over 3s","Voluntary or Not for Profit","Blairdardie Out Of School Care","Glasgow","Glasgow City","Children","06/08/2024",5,5,4,4,"01/08/2024","2002_4",0,0
@@ -273,16 +273,16 @@
 "Under 3s","Private","Little Beehive Nursery (Cupar)","Cupar","Fife","Children","04/04/2023",5,5,5,5,"18/01/2023","2002_4",0,0
 "Under 3s","Voluntary or Not for Profit","Pitreavie Playgroup","Dunfermline","Fife","Children","30/04/2019",4,4,4,5,"09/04/2019","2002_4",0,0
 "Over 3s","Local Authority","St John's Out of School Club","Dunfermline","Fife","Children","17/06/2024",3,4,4,3,"23/05/2024","2002_4",0,0
-"Under 3s","Voluntary or Not for Profit","Newcastle Early Learning Nursery","Glenrothes","Fife","Children","13/01/2020",4,4,4,4,"25/10/2019","2002_4",0,0
+"Under 3s","Voluntary or Not for Profit","Newcastle Early Learning Nursery","Glenrothes","Fife","Children","30/01/2025",5,5,6,5,"14/01/2025","2002_4",0,0
 "Over 3s","Voluntary or Not for Profit","Markinch After School Club (MASK)","Glenrothes","Fife","Children","05/01/2023",4,4,4,4,"05/12/2022","2002_4",0,0
 "Under 3s","Private","Rainbow Nursery And After School Club, Glenrothes","Glenrothes","Fife","Children","09/10/2023",4,4,4,4,"14/09/2023","2002_4",0,0
 "Under 3s","Private","Rainbow Nursery Ltd","St. Andrews","Fife","Children","28/11/2023",4,4,4,4,"24/10/2023","2002_4",0,0
-"Under 3s","Voluntary or Not for Profit","Largo Playgroup","Leven","Fife","Children","11/03/2024",4,4,3,4,"01/02/2024","2002_4",0,0
-"Under 3s","Private","Busy Bees @ Glenrothes","Glenrothes","Fife","Children","12/04/2024",5,4,5,4,"19/02/2024","2002_4",1,0
+"Under 3s","Voluntary or Not for Profit","Largo Playgroup","Leven","Fife","Children","15/01/2025",5,5,4,4,"27/11/2024","2002_4",0,0
+"Under 3s","Private","Busy Bees @ Glenrothes","Glenrothes","Fife","Children","23/01/2025",4,2,3,2,"12/12/2024","2002_4",1,0
 "Under 3s","Voluntary or Not for Profit","Burntisland Playgroup","Burntisland","Fife","Children","05/03/2024",5,5,5,4,"06/02/2024","2002_4",0,0
 "Over 3s","Voluntary or Not for Profit","Cowdenbeath After School Club","Cowdenbeath","Fife","Children","18/11/2024",4,4,3,3,"01/11/2024","2002_4",0,0
 "Under 3s","Voluntary or Not for Profit","Bower Busy Bees ELC (Early Learning Centre)","Wick","Highland","Children","03/10/2022",5,5,5,5,"02/09/2022","2002_4",0,0
-"Under 3s","Private","Busy Bees@ Inverness","Inverness","Highland","Children","05/05/2023",4,5,4,5,"20/03/2023","2002_4",0,0
+"Under 3s","Private","Busy Bees@ Inverness","Inverness","Highland","Children","15/01/2025",3,3,3,3,"21/11/2024","2002_4",0,0
 "Over 3s","Voluntary or Not for Profit","Crown Corner Club","Inverness","Highland","Children","05/09/2024",4,4,3,3,"01/08/2024","2002_4",0,0
 "Over 3s","Private","Allsorts, Dornoch After School","Dornoch","Highland","Children","18/05/2023",4,4,4,4,"21/03/2023","2002_4",0,0
 "Over 3s","Private","Glenurquhart Childcare Centre","Inverness","Highland","Children","15/11/2023",4,5,5,5,"11/10/2023","2002_4",0,0
@@ -290,7 +290,7 @@
 "Over 3s","Private","Halkirk Playgroup","Halkirk","Highland","Children","20/12/2024",4,3,3,4,"02/10/2024","2002_4",0,0
 "Under 3s","Voluntary or Not for Profit","Limetree Children's Nursery & Out of School Club","Inverness","Highland","Children","27/02/2024",4,4,4,4,"06/02/2024","2002_4",0,0
 "Under 3s","Private","Little Learners Nursery & Day Care","Fort William","Highland","Children","02/02/2022",4,4,5,4,"08/12/2021","2002_4",0,0
-"Under 3s","Private","Portree Nursery Ltd","Isle Of Skye","Highland","Children","02/11/2023",3,4,4,3,"28/08/2023","2002_4",0,0
+"Under 3s","Private","Portree Nursery Ltd","Isle Of Skye","Highland","Children","14/01/2025",4,4,3,3,"02/12/2024","2002_4",0,0
 "Over 3s","Voluntary or Not for Profit","The 3 O'Clock Club","Dingwall","Highland","Children","09/05/2024",4,5,4,4,"27/02/2024","2002_4",0,0
 "Under 3s","Private","Tiny Tots Nursery (Inverness)","Inverness","Highland","Children","06/12/2019",4,4,4,5,"27/09/2019","2002_4",0,0
 "Under 3s","Voluntary or Not for Profit","Toybox Children's Centre","Gairloch","Highland","Children","09/04/2024",4,5,4,4,"09/02/2024","2002_4",0,0
@@ -307,7 +307,7 @@
 "Under 3s","Voluntary or Not for Profit","Garmouth & Kingston Pre-School Group","Fochabers","Moray","Children","18/08/2020",5,5,5,5,"21/02/2020","2002_4",0,0
 "Under 3s","Voluntary or Not for Profit","Noah's Ark Day Care","Forres","Moray","Children","06/09/2018",5,4,4,5,"25/05/2018","2002_4",0,0
 "Under 3s","Private","Rainbow Childcare and Education Ltd","Forres","Moray","Children","30/01/2024",4,5,4,4,"12/12/2023","2002_4",0,0
-"Under 3s","Voluntary or Not for Profit","Portknockie Nursery","Buckie","Moray","Children","04/07/2023",3,4,3,4,"07/06/2023","2002_4",0,0
+"Under 3s","Voluntary or Not for Profit","Portknockie Nursery","Buckie","Moray","Children","21/01/2025",4,4,4,4,"05/12/2024","2002_4",0,0
 "Under 3s","Voluntary or Not for Profit","The Teddy Bear Developmental Playgroup","Buckie","Moray","Children","19/12/2024",4,5,4,4,"28/11/2024","2002_4",0,0
 "Under 3s","Voluntary or Not for Profit","Argus Playgroup","Selkirk","Scottish Borders","Children","24/01/2019",4,4,4,4,"20/11/2018","2002_4",0,0
 "Under 3s","Private","Cherrytrees Children's Nursery","Melrose","Scottish Borders","Children","30/09/2021",4,5,5,4,"06/08/2021","2002_4",0,0
@@ -322,7 +322,7 @@
 "Under 3s","Local Authority","Lerwick Early Learning and Childcare","Shetland","Shetland Islands","Children","11/11/2024",2,3,3,3,"27/09/2024","2002_4",0,0
 "Under 3s","Voluntary or Not for Profit","Burra Early Years","Shetland","Shetland Islands","Children","04/12/2019",5,5,5,5,"06/11/2019","2002_4",0,0
 "Over 3s","Voluntary or Not for Profit","Stornoway Playgroup","Stornoway","Na h-Eileanan Siar","Children","09/07/2018",5,5,4,5,"13/06/2018","2002_4",0,0
-"Under 3s","Private","ABC Day Nursery","Perth","Perth & Kinross","Children","10/07/2024",3,3,3,3,"06/12/2024","2002_4",0,0
+"Under 3s","Private","ABC Day Nursery","Perth","Perth & Kinross","Children","08/01/2025",3,3,3,3,"06/12/2024","2002_4",0,0
 "Over 3s","Voluntary or Not for Profit","Alyth Out of School Care Group","Blairgowrie","Perth & Kinross","Children","25/10/2024",4,4,4,4,"27/09/2024","2002_4",0,0
 "Under 3s","Private","Bridge of Earn Nursery","Perth","Perth & Kinross","Children","22/03/2024",4,5,5,4,"06/03/2024","2002_4",0,0
 "Under 3s","Private","Big Country Children's Club","Crieff","Perth & Kinross","Children","30/08/2022",4,5,4,5,"11/07/2022","2002_4",0,0
@@ -347,7 +347,7 @@
 "Over 3s","Voluntary or Not for Profit","GO Kids Comely Park","Falkirk","Falkirk","Children","05/02/2024",3,4,4,4,"16/01/2024","2002_4",0,0
 "Under 3s","Private","First Steps Day Nursery","Bonnybridge","Falkirk","Children","24/09/2020",5,4,4,4,"10/03/2020","2002_4",0,0
 "Under 3s","Local Authority","Rannoch Early Learning and Childcare Centre","Grangemouth","Falkirk","Children","29/07/2024",5,5,5,5,"04/06/2024","2002_4",0,0
-"Under 3s","Private","Wellside Kindergarten","Falkirk","Falkirk","Children","08/11/2018",5,6,5,5,"13/11/2024","2002_4",0,0
+"Under 3s","Private","Wellside Kindergarten","Falkirk","Falkirk","Children","07/01/2025",6,6,6,6,"13/11/2024","2002_4",0,0
 "Under 3s","Voluntary or Not for Profit","One Parent Families Scotland - Falkirk","Falkirk","Falkirk","Children","12/12/2023",4,4,4,4,"15/11/2023","2002_4",0,0
 "Under 3s","Local Authority","Woodburn Early Learning and Childcare Centre","Falkirk","Falkirk","Children","15/08/2019",5,5,5,5,"15/07/2019","2002_4",0,0
 "Under 3s","Private","ACE","Annan","Dumfries & Galloway","Children","04/03/2024",4,4,4,4,"08/02/2024","2002_4",0,0
@@ -363,7 +363,7 @@
 "Under 3s","Voluntary or Not for Profit","The Yard","Edinburgh","City of Edinburgh","Children","28/09/2018",6,5,6,5,"30/08/2018","2002_4",0,0
 "Over 3s","Voluntary or Not for Profit","Gingerbread - Dalry","Edinburgh","City of Edinburgh","Children","07/06/2024",3,2,3,3,"10/05/2024","2002_4",0,0
 "Under 3s","Private","Pinocchio Nursery","Dalkeith","Midlothian","Children","25/04/2023",4,4,4,4,"10/03/2023","2002_4",0,0
-"Over 3s","Voluntary or Not for Profit","Gingerbread Tollcross ASC","Edinburgh","City of Edinburgh","Children","23/08/2024",1,1,1,1,"23/07/2024","2002_4",0,2
+"Over 3s","Voluntary or Not for Profit","Gingerbread Tollcross ASC","Edinburgh","City of Edinburgh","Children","23/01/2025",1,1,1,1,"05/12/2024","2002_4",0,2
 "Under 3s","Voluntary or Not for Profit","Smilechildcare - Pre-School","Edinburgh","City of Edinburgh","Children","12/12/2018",5,5,5,5,"08/11/2018","2002_4",0,0
 "Under 3s","Voluntary or Not for Profit","Blackhall Playgroup","Edinburgh","City of Edinburgh","Children","22/08/2023",3,4,3,4,"29/06/2023","2002_4",0,0
 "Under 3s","Private","Cramond Playgroup","Edinburgh","City of Edinburgh","Children","11/02/2020",4,4,4,4,"20/01/2020","2002_4",0,0
@@ -443,7 +443,7 @@
 "Under 3s","Voluntary or Not for Profit","Woodburn Family Learning Centre","Dalkeith","Midlothian","Children","19/08/2019",5,5,4,4,"26/07/2019","2002_4",0,0
 "Under 3s","Voluntary or Not for Profit","Gorebridge Family Learning Centre","Gorebridge","Midlothian","Children","17/06/2024",4,3,4,4,"25/04/2024","2002_4",0,0
 "Under 3s","Private","Happy Faces Nursery","Dumfries","Dumfries & Galloway","Children","27/01/2020",4,6,5,6,"02/12/2019","2002_4",0,0
-"Over 3s","Voluntary or Not for Profit","Lincluden After School Group","Dumfries","Dumfries & Galloway","Children","18/03/2024",5,4,3,4,"05/02/2024","2002_4",0,1
+"Over 3s","Voluntary or Not for Profit","Lincluden After School Group","Dumfries","Dumfries & Galloway","Children","27/01/2025",4,3,3,4,"19/12/2024","2002_4",0,1
 "Under 3s","Private","Malory House Nursery","Dumfries","Dumfries & Galloway","Children","03/05/2019",5,5,5,5,"17/01/2019","2002_4",0,0
 "Under 3s","Voluntary or Not for Profit","Maxwelltown Playcare","Dumfries","Dumfries & Galloway","Children","22/08/2019",4,4,5,4,"25/07/2019","2002_4",0,0
 "Under 3s","Local Authority","Grantown Primary School Nursery","Grantown-On-Spey","Highland","Children","19/12/2019",5,5,5,5,"11/12/2019","2002_4",0,0
@@ -481,7 +481,7 @@
 "Under 3s","Local Authority","Onthank Early Childhood Centre","Kilmarnock","East Ayrshire","Children","01/05/2018",5,6,5,6,"13/03/2018","2002_7",0,0
 "Under 3s","Local Authority","Netherthird Early Childhood Centre","Cumnock","East Ayrshire","Children","19/07/2021",4,4,4,4,"24/05/2021","2002_7",0,0
 "Under 3s","Local Authority","Cairns Early Childhood Centre","Kilmarnock","East Ayrshire","Children","19/08/2024",4,4,4,3,"03/07/2024","2002_7",0,0
-"Under 3s","Local Authority","Shortlees Early Childhood Centre","Kilmarnock","East Ayrshire","Children","13/09/2021",4,5,5,5,"06/08/2021","2002_7",0,0
+"Under 3s","Local Authority","Shortlees Early Childhood Centre","Kilmarnock","East Ayrshire","Children","21/01/2025",4,5,3,3,"20/11/2024","2002_7",0,0
 "Under 3s","Voluntary or Not for Profit","Viewpark Childcare Services","Glasgow","North Lanarkshire","Children","08/09/2021",4,4,4,4,"23/07/2021","2002_8",0,0
 "Under 3s","Local Authority","Cherry Tree Early Years Centre","Ayr","South Ayrshire","Children","07/07/2020",5,4,5,5,"20/02/2020","2002_4",0,0
 "Over 3s","Local Authority","Mossblown Care Club","Ayr","South Ayrshire","Children","30/08/2024",4,4,4,4,"21/06/2024","2002_8",0,0
@@ -492,7 +492,7 @@
 "Over 3s","Local Authority","Ashley Road School Nursery","Aberdeen","Aberdeen City","Children","07/02/2020",5,5,5,5,"26/11/2019","2002_4",0,0
 "Over 3s","Local Authority","Braehead Primary School Nursery","Aberdeen","Aberdeen City","Children","19/04/2024",5,5,5,5,"13/03/2024","2002_4",0,0
 "Over 3s","Private","Childcare Connections - Craigour","Edinburgh","City of Edinburgh","Children","08/04/2019",5,5,5,5,"22/02/2019","2003_1",0,0
-"Over 3s","Local Authority","Airyhall Nursery","Aberdeen","Aberdeen City","Children","05/11/2024",4,5,5,4,"12/09/2024","2002_4",0,0
+"Over 3s","Local Authority","Airyhall Nursery","Aberdeen","Aberdeen City","Children","05/11/2024",4,5,5,4,"09/09/2024","2002_4",0,0
 "Over 3s","Local Authority","Broomhill School Nursery","Aberdeen","Aberdeen City","Children","02/04/2024",4,4,4,4,"31/01/2024","2002_4",0,0
 "Over 3s","Local Authority","Brimmond School Nursery","Aberdeen","Aberdeen City","Children","19/04/2022",4,4,4,4,"02/03/2022","2002_4",0,0
 "Over 3s","Local Authority","Charleston School Nursery","Aberdeen","Aberdeen City","Children","23/09/2020",5,5,5,5,"28/02/2020","2002_4",0,0
@@ -508,10 +508,10 @@
 "Over 3s","Local Authority","Greenbrae School Nursery Class","Aberdeen","Aberdeen City","Children","08/01/2020",4,5,4,4,"26/11/2019","2002_4",0,0
 "Over 3s","Local Authority","Hanover Street School Nursery","Aberdeen","Aberdeen City","Children","19/12/2024",4,5,4,4,"21/11/2024","2002_4",0,0
 "Over 3s","Local Authority","Hazlehead Primary School Nursery","Aberdeen","Aberdeen City","Children","11/11/2024",5,5,5,5,"17/10/2024","2002_4",0,0
-"Over 3s","Local Authority","Kaimhill Primary School Nursery","Aberdeen","Aberdeen City","Children","22/06/2021",5,5,5,5,"07/05/2021","2002_4",0,0
+"Over 3s","Local Authority","Kaimhill Primary School Nursery","Aberdeen","Aberdeen City","Children","14/01/2025",4,5,5,4,"05/12/2024","2002_4",0,0
 "Over 3s","Local Authority","Kingswells Primary School Nursery","Aberdeen","Aberdeen City","Children","09/10/2019",4,5,5,5,"10/09/2019","2002_4",0,0
 "Over 3s","Local Authority","Kirkhill School Nursery","Aberdeen","Aberdeen City","Children","24/06/2024",4,3,3,3,"17/05/2024","2002_4",0,0
-"Over 3s","Local Authority","Kittybrewster School Nursery","Aberdeen","Aberdeen City","Children","21/12/2023",4,2,3,2,"12/10/2023","2002_4",0,0
+"Over 3s","Local Authority","Kittybrewster School Nursery","Aberdeen","Aberdeen City","Children","31/01/2025",4,4,4,3,"09/01/2025","2002_4",0,0
 "Over 3s","Local Authority","Loirston School Nursery","Aberdeen","Aberdeen City","Children","14/09/2022",5,5,5,5,"27/07/2022","2002_4",0,0
 "Over 3s","Local Authority","Heathryburn Nursery School","Aberdeen","Aberdeen City","Children","26/06/2024",4,3,4,3,"01/05/2024","2002_4",0,0
 "Over 3s","Local Authority","Middleton Park School Nursery","Aberdeen","Aberdeen City","Children","06/11/2019",5,5,5,5,"13/09/2019","2002_4",0,0
@@ -530,7 +530,7 @@
 "Over 3s","Local Authority","Stoneywood School Nursery","Aberdeen","Aberdeen City","Children","04/09/2024",4,4,4,4,"08/08/2024","2002_4",0,0
 "Over 3s","Local Authority","Sunnybank School Nursery","Aberdeen","Aberdeen City","Children","22/10/2019",5,5,5,5,"10/09/2019","2002_4",0,0
 "Over 3s","Local Authority","Tullos School Nursery","Aberdeen","Aberdeen City","Children","31/10/2019",5,5,5,5,"11/09/2019","2002_4",0,0
-"Over 3s","Local Authority","Greyhope School Nursery","Aberdeen","Aberdeen City","Children","10/11/2023",3,3,3,3,"05/10/2023","2002_4",0,0
+"Over 3s","Local Authority","Greyhope School Nursery","Aberdeen","Aberdeen City","Children","13/01/2025",3,3,3,3,"09/10/2024","2002_4",0,0
 "Over 3s","Local Authority","Woodside School Nursery","Aberdeen","Aberdeen City","Children","04/03/2024",5,4,3,3,"04/12/2023","2002_4",0,0
 "Under 3s","Local Authority","Arthurlie Family Centre","Glasgow","East Renfrewshire","Children","09/12/2024",4,4,4,4,"30/10/2024","2002_4",1,0
 "Over 3s","Local Authority","Glenwood Family Centre","Glasgow","East Renfrewshire","Children","09/05/2023",6,5,6,6,"03/03/2023","2002_4",0,0
@@ -582,7 +582,7 @@
 "Over 3s","Local Authority","Meadowburn Gaelic Medium Early Years Centre","Glasgow","East Dunbartonshire","Children","27/03/2019",5,5,5,5,"26/02/2019","2002_4",0,0
 "Over 3s","Local Authority","Milngavie Early Years Centre","Glasgow","East Dunbartonshire","Children","07/01/2020",6,5,5,6,"28/11/2019","2002_4",0,0
 "Over 3s","Local Authority","Torrance Early Years Centre","Glasgow","East Dunbartonshire","Children","28/09/2023",5,5,5,5,"14/09/2023","2002_4",0,0
-"Under 3s","Local Authority","Twechar Early Years Centre","Glasgow","East Dunbartonshire","Children","22/03/2019",5,5,4,5,"30/01/2019","2002_4",0,0
+"Under 3s","Local Authority","Twechar Early Years Centre","Glasgow","East Dunbartonshire","Children","28/01/2025",5,5,3,4,"21/11/2024","2002_4",0,0
 "Over 3s","Local Authority","Brucehill ELCC","Dumbarton","West Dunbartonshire","Children","23/06/2023",5,4,5,5,"24/05/2023","2002_4",0,0
 "Under 3s","Local Authority","Clydebank ELCC","Clydebank","West Dunbartonshire","Children","10/05/2023",5,4,4,5,"25/04/2023","2002_4",0,0
 "Over 3s","Local Authority","Dalmonach ELCC","Alexandria","West Dunbartonshire","Children","30/01/2020",4,4,4,4,"15/01/2020","2002_4",0,0
@@ -620,7 +620,7 @@
 "Under 3s","Local Authority","St John Bosco Early Learning and Childcare Class","Erskine","Renfrewshire","Children","05/11/2019",4,5,5,4,"06/09/2019","2002_4",0,0
 "Over 3s","Local Authority","Spateston Early Learning and Childcare Centre","Johnstone","Renfrewshire","Children","17/05/2023",6,5,5,6,"03/03/2023","2002_4",0,0
 "Under 3s","Local Authority","Douglas Street Early Learning and Childcare Centre","Paisley","Renfrewshire","Children","23/08/2023",5,5,5,5,"24/02/2023","2002_4",0,0
-"Under 3s","Local Authority","Ferguslie Early Learning and Childcare Centre","Paisley","Renfrewshire","Children","07/01/2020",5,4,6,4,"05/12/2024","2002_4",1,0
+"Under 3s","Local Authority","Ferguslie Early Learning and Childcare Centre","Paisley","Renfrewshire","Children","08/01/2025",5,5,5,4,"05/12/2024","2002_4",1,0
 "Under 3s","Local Authority","Foxlea Early Learning and Childcare Centre","Paisley","Renfrewshire","Children","05/01/2024",4,4,4,4,"08/11/2023","2002_4",0,0
 "Under 3s","Local Authority","Glenburn Early Learning and Childcare Centre","Paisley","Renfrewshire","Children","01/08/2019",5,5,5,5,"18/06/2019","2002_4",0,0
 "Under 3s","Local Authority","Glenfield Early Learning and Childcare Centre","Paisley","Renfrewshire","Children","15/04/2024",4,4,4,4,"13/03/2024","2002_4",0,0
@@ -647,7 +647,7 @@
 "Under 3s","Local Authority","Castlemilk Day Nursery","Glasgow","Glasgow City","Children","02/10/2019",4,4,5,5,"21/08/2019","2002_4",0,0
 "Under 3s","Local Authority","Festival Park Day Nursery","Glasgow","Glasgow City","Children","30/07/2024",4,5,5,5,"03/07/2024","2002_4",0,0
 "Under 3s","Local Authority","Cowcaddens Day Nursery","Glasgow","Glasgow City","Children","11/12/2018",5,4,4,5,"25/10/2018","2002_4",0,0
-"Under 3s","Local Authority","Drumchapel Family Learning Centre","Glasgow","Glasgow City","Children","30/10/2018",6,5,5,5,"10/10/2018","2002_4",0,0
+"Under 3s","Local Authority","Drumchapel Family Learning Centre","Glasgow","Glasgow City","Children","15/01/2025",4,4,4,4,"22/11/2024","2002_4",0,0
 "Under 3s","Local Authority","Govan Family Learning Centre","Glasgow","Glasgow City","Children","12/06/2019",5,5,4,5,"01/05/2019","2002_4",0,0
 "Under 3s","Local Authority","Fasque Family Centre","Glasgow","Glasgow City","Children","21/11/2024",4,5,5,5,"15/10/2024","2002_4",0,0
 "Under 3s","Local Authority","Hamiltonhill Family Learning Centre","Glasgow","Glasgow City","Children","11/07/2023",5,5,5,5,"08/06/2023","2002_4",0,0
@@ -721,7 +721,6 @@
 "Over 3s","Voluntary or Not for Profit","PEACE Gargieston","Kilmarnock","East Ayrshire","Children","17/04/2024",4,4,4,4,"08/03/2024","2002_4",0,0
 "Under 3s","Local Authority","Hawthorn Family Learning Centre","Dalkeith","Midlothian","Children","21/01/2019",5,5,5,6,"23/11/2018","2002_4",0,0
 "Over 3s","Local Authority","Sinclairtown Out of School Club","Kirkcaldy","Fife","Children","12/01/2024",4,4,3,3,"15/12/2023","2002_4",0,0
-"Under 3s","Private","Little Hands Nursery","Glasgow","North Lanarkshire","Children","06/05/2024",5,5,5,5,"10/04/2024","2002_9",0,0
 "Under 3s","Private","Ankerville Baby Unit","Tain","Highland","Children","23/08/2022",4,5,5,5,"11/07/2022","2003_5",0,0
 "Over 3s","Voluntary or Not for Profit","Danderhall After School Club","Dalkeith","Midlothian","Children","08/03/2023",4,4,4,4,"27/01/2023","2003_1",0,0
 "Under 3s","Private","Rainbow Nursery Dalgety Bay","Dunfermline","Fife","Children","09/09/2024",4,4,4,4,"13/08/2024","2002_4",3,0
@@ -765,7 +764,7 @@
 "Over 3s","Local Authority","Mossneuk Primary School Nursery Class","Glasgow","South Lanarkshire","Children","26/01/2024",4,4,4,4,"05/12/2023","2002_4",0,0
 "Over 3s","Local Authority","Muiredge Primary School Nursery Class","Glasgow","South Lanarkshire","Children","15/10/2019",4,5,5,5,"17/09/2019","2002_4",0,0
 "Over 3s","Local Authority","Murray Primary School Nursery Class","Glasgow","South Lanarkshire","Children","06/03/2023",4,4,4,4,"24/01/2023","2002_4",0,0
-"Over 3s","Local Authority","Netherburn Primary School Nursery Class","Larkhall","South Lanarkshire","Children","27/11/2017",6,5,5,5,"10/11/2017","2002_4",0,0
+"Over 3s","Local Authority","Netherburn Primary School Nursery Class","Larkhall","South Lanarkshire","Children","20/01/2025",5,5,5,5,"04/11/2024","2002_4",0,0
 "Over 3s","Local Authority","Newfield Primary School Nursery Class","Larkhall","South Lanarkshire","Children","21/01/2022",4,4,4,4,"25/11/2021","2002_4",0,0
 "Under 3s","Local Authority","Our Lady of Lourdes Primary Nursery Class","Glasgow","South Lanarkshire","Children","29/08/2019",6,6,5,5,"12/06/2019","2002_4",0,0
 "Under 3s","Local Authority","Rigside & Rural Communities Nursery","Lanark","South Lanarkshire","Children","16/04/2019",5,5,5,5,"22/03/2019","2002_4",0,0
@@ -898,7 +897,7 @@
 "Over 3s","Local Authority","Head of Muir Primary School Nursery","Denny","Falkirk","Children","23/02/2023",5,5,5,5,"26/01/2023","2002_4",0,0
 "Over 3s","Local Authority","Newton Primary School Nursery","Dunblane","Stirling","Children","20/01/2020",5,5,5,5,"29/08/2019","2002_4",0,0
 "Over 3s","Local Authority","St. Mary's RC Primary School Nursery","Bo'ness","Falkirk","Children","06/03/2024",5,5,5,5,"15/02/2024","2002_4",0,0
-"Under 3s","Local Authority","Slamannan Early Learning and Childcare Class","Falkirk","Falkirk","Children","26/06/2024",5,5,5,5,"21/05/2024","2002_4",0,0
+"Under 3s","Local Authority","Slamannan Early Learning and Childcare Class","Falkirk","Falkirk","Children","26/06/2024",5,5,5,5,"21/05/2024","2002_4",1,0
 "Over 3s","Local Authority","Abbotsgrange Early Learning and Childcare Centre","Grangemouth","Falkirk","Children","30/11/2022",5,5,5,5,"18/10/2022","2002_4",0,0
 "Under 3s","Local Authority","Clackmannan ELC","Alloa","Clackmannanshire","Children","08/02/2023",5,4,4,4,"23/01/2023","2002_4",0,0
 "Under 3s","Local Authority","Sauchie ELC","Alloa","Clackmannanshire","Children","05/05/2021",5,5,5,5,"16/04/2021","2002_4",0,0
@@ -1051,7 +1050,7 @@
 "Over 3s","Local Authority","Carrick Knowe Primary School Nursery","Edinburgh","City of Edinburgh","Children","28/09/2020",5,5,5,5,"26/02/2020","2002_4",0,0
 "Over 3s","Local Authority","Stanwell Nursery School","Edinburgh","City of Edinburgh","Children","13/03/2019",4,5,5,5,"07/02/2019","2002_4",0,0
 "Over 3s","Local Authority","Leith Primary School Nursery","Edinburgh","City of Edinburgh","Children","07/02/2024",4,4,4,4,"15/12/2023","2002_4",0,0
-"Under 3s","Local Authority","Leith Walk Primary School Nursery","Edinburgh","City of Edinburgh","Children","05/03/2018",5,5,5,5,"14/11/2024","2002_4",0,0
+"Under 3s","Local Authority","Leith Walk Primary School Nursery","Edinburgh","City of Edinburgh","Children","13/01/2025",4,4,4,4,"14/11/2024","2002_4",0,0
 "Over 3s","Local Authority","Corstorphine Primary School Nursery","Edinburgh","City of Edinburgh","Children","05/07/2019",5,5,5,5,"29/05/2019","2002_4",0,0
 "Over 3s","Local Authority","East Craigs Primary School Nursery","Edinburgh","City of Edinburgh","Children","11/01/2023",5,5,4,5,"14/12/2022","2002_4",0,0
 "Over 3s","Voluntary or Not for Profit","The Edinburgh Academy Nursery","Edinburgh","City of Edinburgh","Children","03/09/2024",4,5,5,4,"07/06/2024","2002_4",0,0
@@ -1069,14 +1068,14 @@
 "Over 3s","Local Authority","Tynecastle Nursery School","Edinburgh","City of Edinburgh","Children","07/05/2019",6,6,6,6,"28/02/2019","2002_4",0,0
 "Over 3s","Local Authority","Stenhouse Primary School Nursery","Edinburgh","City of Edinburgh","Children","21/12/2016",5,5,5,5,"27/10/2016","2002_4",0,0
 "Over 3s","Local Authority","Sighthill Primary School Nursery","Edinburgh","City of Edinburgh","Children","04/04/2023",5,4,4,4,"09/02/2023","2002_4",0,0
-"Over 3s","Local Authority","Murrayburn Primary Early Learning and Childcare","Edinburgh","City of Edinburgh","Children","23/09/2016",5,5,5,4,"29/06/2016","2002_4",0,0
+"Over 3s","Local Authority","Murrayburn Primary Early Learning and Childcare","Edinburgh","City of Edinburgh","Children","23/09/2016",5,5,5,4,"11/11/2024","2002_4",0,0
 "Over 3s","Local Authority","Colinton Primary School Nursery Class","Edinburgh","City of Edinburgh","Children","27/04/2022",4,5,5,5,"29/03/2022","2002_4",0,0
 "Under 3s","Local Authority","St. Mark's Primary School Nursery","Edinburgh","City of Edinburgh","Children","18/06/2024",4,4,3,4,"22/04/2024","2002_4",0,0
-"Over 3s","Local Authority","Newport Primary School Nursery","Newport-On-Tay","Fife","Children","08/04/2019",4,4,4,4,"20/02/2019","2002_4",0,0
+"Over 3s","Local Authority","Newport Primary School Nursery","Newport-On-Tay","Fife","Children","08/04/2019",4,4,4,4,"14/01/2025","2002_4",0,0
 "Over 3s","Local Authority","Wormit Primary School Nursery","Newport-On-Tay","Fife","Children","17/11/2022",5,5,5,5,"02/11/2022","2002_4",0,0
 "Over 3s","Local Authority","Balmerino Primary School Nursery","Newport-On-Tay","Fife","Children","29/04/2019",5,6,5,5,"11/03/2019","2002_4",0,0
 "Over 3s","Local Authority","Ferryport Nursery","Tayport","Fife","Children","13/06/2023",5,4,5,5,"12/05/2023","2002_4",0,0
-"Over 3s","Local Authority","Tulliallan Primary School Nursery","Alloa","Fife","Children","16/01/2020",6,5,5,6,"28/11/2019","2002_4",0,0
+"Over 3s","Local Authority","Tulliallan Primary School Nursery","Alloa","Fife","Children","24/01/2025",5,5,5,5,"10/12/2024","2002_4",0,0
 "Over 3s","Local Authority","Kirkcaldy West Primary School Nursery","Kirkcaldy","Fife","Children","20/05/2024",5,5,5,5,"02/05/2024","2002_4",0,0
 "Under 3s","Local Authority","Pathhead Primary School Nursery","Kirkcaldy","Fife","Children","11/05/2023",5,5,5,5,"20/03/2023","2002_4",0,0
 "Under 3s","Local Authority","Dysart Primary School Nursery","Kirkcaldy","Fife","Children","15/03/2023",5,5,5,5,"20/02/2023","2002_4",0,0
@@ -1103,7 +1102,7 @@
 "Over 3s","Local Authority","Strathmiglo Primary School Nursery","Cupar","Fife","Children","29/05/2023",4,5,4,4,"25/04/2023","2002_4",0,0
 "Over 3s","Local Authority","Ceres Primary School Nursery","Cupar","Fife","Children","23/06/2023",5,5,5,5,"01/06/2023","2002_4",0,0
 "Over 3s","Local Authority","Springfield Primary School Nursery","Cupar","Fife","Children","12/06/2019",5,5,5,5,"27/03/2019","2002_4",0,0
-"Over 3s","Local Authority","Falkland Primary School Nursery","Cupar","Fife","Children","09/05/2017",5,4,5,5,"24/03/2017","2002_4",0,0
+"Over 3s","Local Authority","Falkland Primary School Nursery","Cupar","Fife","Children","30/01/2025",5,5,5,5,"09/12/2024","2002_4",0,0
 "Over 3s","Local Authority","Freuchie Primary School Nursery","Cupar","Fife","Children","17/05/2023",5,5,5,5,"04/05/2023","2002_4",0,0
 "Under 3s","Local Authority","Leuchars Primary School Nursery","St. Andrews","Fife","Children","15/02/2023",5,5,5,5,"13/01/2023","2002_4",0,0
 "Under 3s","Local Authority","St. Andrews Nursery","St. Andrews","Fife","Children","30/05/2018",5,5,5,6,"17/05/2018","2002_4",0,0
@@ -1173,9 +1172,9 @@
 "Under 3s","Local Authority","Milne's Primary School Nursery","Fochabers","Moray","Children","22/12/2017",4,4,4,4,"27/10/2017","2002_4",0,0
 "Under 3s","Local Authority","Pilmuir Primary School Nursery","Forres","Moray","Children","13/07/2022",5,5,5,5,"08/06/2022","2002_4",0,0
 "Under 3s","Local Authority","Annick Primary School and Early Years Class","Irvine","North Ayrshire","Children","17/04/2024",5,4,4,5,"05/03/2024","2002_4",0,0
-"Over 3s","Local Authority","Elderbank Early Years","Irvine","North Ayrshire","Children","21/01/2019",5,4,4,6,"11/12/2018","2002_4",0,0
+"Over 3s","Local Authority","Elderbank Early Years","Irvine","North Ayrshire","Children","21/01/2019",5,4,4,6,"11/12/2018","2002_4",1,0
 "Over 3s","Local Authority","Springside Early Years Class","Irvine","North Ayrshire","Children","12/02/2020",4,5,5,5,"23/01/2020","2002_4",0,0
-"Under 3s","Local Authority","Castlepark Early Years Centre","Irvine","North Ayrshire","Children","17/04/2018",4,4,5,5,"05/12/2024","2002_4",0,0
+"Under 3s","Local Authority","Castlepark Early Years Centre","Irvine","North Ayrshire","Children","10/01/2025",4,4,4,4,"05/12/2024","2002_4",0,0
 "Over 3s","Local Authority","Blacklands Early Years Class","Kilwinning","North Ayrshire","Children","22/03/2023",4,4,4,4,"18/01/2023","2002_4",0,0
 "Over 3s","Local Authority","St. Luke's Primary School Nursery Class","Kilwinning","North Ayrshire","Children","24/01/2019",5,4,4,5,"22/11/2018","2002_4",0,0
 "Under 3s","Local Authority","Pennyburn Primary School Early Years Class","Kilwinning","North Ayrshire","Children","28/03/2024",3,3,3,3,"08/02/2024","2002_4",2,0
@@ -1195,7 +1194,7 @@
 "Under 3s","Local Authority","Stromness Primary School Nursery","Stromness","Orkney Islands","Children","09/10/2024",5,5,5,5,"17/09/2024","2002_4",0,0
 "Over 3s","Local Authority","Stenness Community School Nursery","Stromness","Orkney Islands","Children","15/10/2018",5,5,5,5,"04/09/2018","2002_4",0,0
 "Under 3s","Local Authority","Eday Primary School Nursery","Orkney","Orkney Islands","Children","14/03/2023",5,4,4,5,"15/02/2023","2002_4",0,0
-"Under 3s","Local Authority","Stronsay Junior High Nursery","Orkney","Orkney Islands","Children","09/10/2018",5,5,5,5,"06/09/2018","2002_4",0,0
+"Under 3s","Local Authority","Stronsay Junior High Nursery","Orkney","Orkney Islands","Children","13/01/2025",5,5,5,4,"18/09/2024","2002_4",0,0
 "Under 3s","Local Authority","Sanday Community School","Orkney","Orkney Islands","Children","22/11/2017",5,5,5,5,"14/09/2017","2002_4",0,0
 "Under 3s","Local Authority","Westray Junior High School Nursery","Orkney","Orkney Islands","Children","10/10/2019",5,5,4,5,"05/09/2019","2002_4",0,0
 "Under 3s","Local Authority","Shapinsay Primary School Nursery","Orkney","Orkney Islands","Children","08/01/2020",4,4,5,5,"15/11/2019","2002_4",0,0
@@ -1224,7 +1223,7 @@
 "Under 3s","Local Authority","Blair Atholl Primary School Nursery","Pitlochry","Perth & Kinross","Children","08/11/2023",4,5,5,5,"29/09/2023","2002_4",0,0
 "Over 3s","Local Authority","Moncreiffe Primary School Nursery","Perth","Perth & Kinross","Children","24/02/2020",4,5,5,4,"21/01/2020","2002_4",0,0
 "Over 3s","Local Authority","Craigie Primary School Nursery","Perth","Perth & Kinross","Children","06/12/2017",4,4,4,5,"09/11/2017","2002_4",0,0
-"Over 3s","Local Authority","Balbeggie Primary School Nursery","Perth","Perth & Kinross","Children","20/03/2020",5,4,5,4,"05/02/2020","2002_4",0,0
+"Over 3s","Local Authority","Balbeggie Primary School Nursery","Perth","Perth & Kinross","Children","24/01/2025",5,5,5,5,"10/12/2024","2002_4",0,0
 "Over 3s","Local Authority","Robert Douglas Memorial Primary School Nursery","Perth","Perth & Kinross","Children","12/01/2023",5,5,5,5,"18/11/2022","2002_4",0,0
 "Under 3s","Local Authority","Inch View Primary School Nursery and Wrap Around Care Service","Perth","Perth & Kinross","Children","10/05/2023",4,4,4,4,"22/03/2023","2002_4",0,0
 "Over 3s","Local Authority","Dunbarney Primary School Nursery","Perth","Perth & Kinross","Children","04/07/2022",4,4,5,4,"25/05/2022","2002_4",0,0
@@ -1252,6 +1251,7 @@
 "Under 3s","Local Authority","Whiteness Early Years","Shetland","Shetland Islands","Children","17/09/2024",5,5,5,5,"10/06/2024","2002_4",0,0
 "Over 3s","Local Authority","Sandwick Junior High School Nursery","Shetland","Shetland Islands","Children","11/03/2019",4,5,4,4,"21/01/2019","2002_4",0,0
 "Over 3s","Local Authority","Dunrossness Nursery","Shetland","Shetland Islands","Children","11/02/2019",4,5,5,5,"22/01/2019","2002_4",0,0
+"Under 3s","Local Authority","Fair Isle Pre-School","Shetland","Shetland Islands","Children","26/03/2019",5,5,5,5,"18/03/2019","2002_4",0,0
 "Over 3s","Local Authority","Aith Nursery","Shetland","Shetland Islands","Children","07/12/2023",5,4,4,5,"10/11/2023","2002_4",0,0
 "Over 3s","Local Authority","Happyhansel Primary School Nursery","Shetland","Shetland Islands","Children","16/11/2018",5,5,4,4,"05/09/2018","2002_4",0,0
 "Over 3s","Local Authority","Brae High School Nursery","Shetland","Shetland Islands","Children","04/04/2018",5,5,4,5,"19/02/2018","2002_4",0,0
@@ -1277,7 +1277,7 @@
 "Over 3s","Local Authority","Croftmalloch Primary School Nursery","Bathgate","West Lothian","Children","21/03/2024",5,5,5,5,"22/02/2024","2002_4",0,0
 "Under 3s","Local Authority","Whitdale Early Years Centre (Nursery)","Bathgate","West Lothian","Children","17/01/2024",3,4,3,3,"05/12/2023","2002_4",1,0
 "Under 3s","Local Authority","Falla Hill Primary School Nursery","Bathgate","West Lothian","Children","11/09/2020",4,4,4,4,"26/02/2020","2002_4",0,0
-"Under 3s","Local Authority","St. Columba's Primary School Nursery Class","Bathgate","West Lothian","Children","31/05/2017",5,5,5,6,"21/11/2024","2002_4",0,0
+"Under 3s","Local Authority","St. Columba's Primary School Nursery Class","Bathgate","West Lothian","Children","06/01/2025",5,4,5,4,"21/11/2024","2002_4",0,0
 "Under 3s","Local Authority","Eastertoun Nursery School","Bathgate","West Lothian","Children","27/04/2022",5,5,4,5,"04/03/2022","2002_4",0,0
 "Under 3s","Local Authority","Bonnytoun Nursery School","Linlithgow","West Lothian","Children","24/06/2024",5,5,5,5,"14/06/2024","2002_4",0,0
 "Over 3s","Local Authority","St. Nicholas Primary School Nursery","Broxburn","West Lothian","Children","12/03/2019",5,5,5,6,"28/02/2019","2002_4",0,0
@@ -1288,7 +1288,7 @@
 "Under 3s","Local Authority","Inveralmond Early Years Centre","Livingston","West Lothian","Children","28/04/2023",4,4,4,4,"27/02/2023","2002_4",2,0
 "Under 3s","Local Authority","St. Ninian's Primary School Nursery - Livingston","Livingston","West Lothian","Children","02/09/2021",5,5,5,5,"02/06/2021","2002_4",0,0
 "Under 3s","Local Authority","Glenvue Nursery School","Livingston","West Lothian","Children","27/06/2024",5,5,5,5,"07/06/2024","2002_4",0,0
-"Under 3s","Local Authority","Deans Primary School Nursery Class","Livingston","West Lothian","Children","20/07/2017",4,4,4,5,"24/05/2017","2002_4",0,0
+"Under 3s","Local Authority","Deans Primary School Nursery Class","Livingston","West Lothian","Children","30/01/2025",5,5,5,5,"12/12/2024","2002_4",0,0
 "Under 3s","Local Authority","Knightsridge Early Years Centre","Livingston","West Lothian","Children","16/11/2022",5,5,4,4,"07/10/2022","2002_4",0,0
 "Over 3s","Local Authority","Williamston Primary School Nursery","Livingston","West Lothian","Children","05/12/2023",5,5,4,4,"04/10/2023","2002_4",0,0
 "Over 3s","Local Authority","Parkhead Primary School Nursery","West Calder","West Lothian","Children","05/10/2022",4,4,5,5,"09/09/2022","2002_4",0,0
@@ -1297,7 +1297,7 @@
 "Over 3s","Private","The Nursery at St Margaret's","Aberdeen","Aberdeen City","Children","26/07/2017",4,5,5,5,"09/06/2017","2002_4",0,0
 "Over 3s","Private","International School of Aberdeen Nursery","Aberdeen","Aberdeen City","Children","29/09/2020",6,4,4,5,"06/03/2020","2002_4",0,0
 "Under 3s","Voluntary or Not for Profit","Albyn School Nurseries","Aberdeen","Aberdeen City","Children","10/07/2018",5,4,5,4,"21/09/2021","2002_4",0,0
-"Under 3s","Voluntary or Not for Profit","Lathallan Nursery","Montrose","Aberdeenshire","Children","03/11/2023",4,4,4,3,"04/10/2023","2002_4",0,0
+"Under 3s","Voluntary or Not for Profit","Lathallan Nursery","Montrose","Aberdeenshire","Children","13/01/2025",4,5,4,5,"04/12/2024","2002_4",0,0
 "Under 3s","Private","Edinburgh Steiner School","Edinburgh","City of Edinburgh","Children","21/10/2022",5,5,4,5,"08/09/2022","2002_4",0,0
 "Over 3s","Voluntary or Not for Profit","George Watson's College","Edinburgh","City of Edinburgh","Children","21/02/2019",6,6,6,6,"19/11/2018","2002_4",0,0
 "Under 3s","Voluntary or Not for Profit","St. George's School for Girls","Edinburgh","City of Edinburgh","Children","03/11/2022",5,5,5,4,"20/09/2022","2002_4",0,0
@@ -1320,7 +1320,7 @@
 "Under 3s","Private","Kirktonholme @ Wishaw","Wishaw","North Lanarkshire","Children","07/08/2019",5,4,4,4,"10/07/2019","2002_4",0,0
 "Over 3s","Local Authority","Aberchirder School Nursery","Huntly","Aberdeenshire","Children","24/01/2024",5,4,4,4,"22/11/2023","2002_4",0,0
 "Under 3s","Local Authority","Aboyne Primary School Nursery","Aboyne","Aberdeenshire","Children","19/12/2024",5,4,5,5,"28/11/2024","2002_4",0,0
-"Over 3s","Local Authority","Auchterellon School Nursery","Ellon","Aberdeenshire","Children","18/04/2018",5,4,4,5,"08/03/2018","2002_4",0,0
+"Over 3s","Local Authority","Auchterellon School Nursery","Ellon","Aberdeenshire","Children","15/01/2025",5,4,4,4,"05/12/2024","2002_4",0,0
 "Under 3s","Local Authority","Ballater School Nursery","Ballater","Aberdeenshire","Children","28/06/2024",5,5,5,5,"06/06/2024","2002_4",0,0
 "Under 3s","Local Authority","Banchory Primary School Nursery","Banchory","Aberdeenshire","Children","12/06/2018",5,5,5,5,"28/03/2018","2002_4",0,0
 "Under 3s","Local Authority","Banff Primary School Nursery","Banff","Aberdeenshire","Children","18/01/2019",5,4,4,5,"10/12/2018","2002_4",0,0
@@ -1407,7 +1407,7 @@
 "Under 3s","Local Authority","Friockheim Pre School Class","Arbroath","Angus","Children","13/12/2024",5,5,4,4,"19/11/2024","2002_4",0,0
 "Over 3s","Local Authority","Grange Pre School Class","Dundee","Angus","Children","28/06/2022",5,4,4,4,"11/05/2022","2002_4",0,0
 "Over 3s","Local Authority","Inverbrothock Pre School Class","Arbroath","Angus","Children","20/04/2023",4,5,5,5,"24/02/2023","2002_4",0,0
-"Over 3s","Local Authority","Inverkeilor Pre School Class","Arbroath","Angus","Children","06/11/2019",5,5,5,5,"10/12/2024","2002_4",0,0
+"Over 3s","Local Authority","Inverkeilor Pre School Class","Arbroath","Angus","Children","03/01/2025",5,5,5,5,"10/12/2024","2002_4",0,0
 "Under 3s","Local Authority","Ladyloan Pre School Class","Arbroath","Angus","Children","07/02/2020",4,4,4,5,"10/01/2020","2002_4",0,0
 "Over 3s","Local Authority","Liff Pre School Class","Dundee","Angus","Children","15/01/2019",5,5,5,6,"05/11/2018","2002_4",0,0
 "Over 3s","Local Authority","Lochside Pre School Class","Montrose","Angus","Children","16/10/2023",4,4,4,4,"03/10/2023","2002_4",0,0
@@ -1456,14 +1456,14 @@
 "Over 3s","Local Authority","Wallyford Primary School Nursery","Musselburgh","East Lothian","Children","15/05/2019",4,5,5,4,"21/03/2019","2002_4",0,0
 "Over 3s","Local Authority","West Barns Primary School Nursery","Dunbar","East Lothian","Children","23/08/2022",5,5,5,5,"29/06/2022","2002_4",0,0
 "Over 3s","Local Authority","Yester Primary School Nursery","Haddington","East Lothian","Children","01/09/2022",5,5,5,5,"11/07/2022","2002_4",0,0
-"Over 3s","Voluntary or Not for Profit","Belmont House School Nursery","Glasgow","East Renfrewshire","Children","12/02/2018",5,5,5,5,"24/11/2017","2002_4",0,0
+"Over 3s","Voluntary or Not for Profit","Belmont House School Nursery","Glasgow","East Renfrewshire","Children","16/01/2025",3,4,4,3,"13/11/2024","2002_4",0,0
 "Over 3s","Local Authority","Carolside Primary Nursery Class","Glasgow","East Renfrewshire","Children","23/08/2023",5,5,5,5,"25/05/2023","2002_4",0,0
 "Under 3s","Local Authority","Glen Family Centre","Glasgow","East Renfrewshire","Children","11/10/2018",5,5,5,5,"13/09/2018","2002_4",0,0
 "Over 3s","Local Authority","Mearns Primary School Nursery","Glasgow","East Renfrewshire","Children","11/09/2019",5,6,6,5,"14/06/2019","2002_4",0,0
 "Over 3s","Local Authority","Abbeyhill Primary School Nursery","Edinburgh","City of Edinburgh","Children","07/03/2019",4,5,5,5,"01/11/2018","2002_4",0,0
 "Over 3s","Local Authority","Balgreen Nursery School","Edinburgh","City of Edinburgh","Children","26/10/2017",6,6,6,6,"20/09/2017","2002_4",0,0
 "Over 3s","Local Authority","Bonaly Primary School Nursery","Edinburgh","City of Edinburgh","Children","22/10/2019",5,4,4,4,"11/09/2019","2002_4",0,0
-"Over 3s","Local Authority","Broughton Primary School Nursery","Edinburgh","City of Edinburgh","Children","07/03/2019",4,5,5,4,"22/11/2024","2002_4",0,0
+"Over 3s","Local Authority","Broughton Primary School Nursery","Edinburgh","City of Edinburgh","Children","08/01/2025",5,5,5,5,"22/11/2024","2002_4",0,0
 "Over 3s","Local Authority","Brunstane Primary School Nursery","Edinburgh","City of Edinburgh","Children","15/05/2024",4,4,4,4,"20/03/2024","2002_4",0,0
 "Over 3s","Local Authority","Clermiston Primary School Nursery","Edinburgh","City of Edinburgh","Children","11/06/2024",5,5,5,5,"26/04/2024","2002_4",0,0
 "Over 3s","Local Authority","Clovenstone Primary School Nursery","Edinburgh","City of Edinburgh","Children","16/01/2020",5,5,5,5,"13/11/2019","2002_4",0,0
@@ -1482,7 +1482,7 @@
 "Over 3s","Local Authority","James Gillespie's Primary School Nursery","Edinburgh","City of Edinburgh","Children","20/05/2019",5,5,6,5,"25/03/2019","2002_4",0,0
 "Under 3s","Local Authority","Kirkliston Primary Early Learning and Childcare","Edinburgh","City of Edinburgh","Children","27/02/2020",5,5,5,5,"21/01/2020","2002_4",0,0
 "Over 3s","Local Authority","Liberton Nursery School","Edinburgh","City of Edinburgh","Children","23/05/2017",5,5,5,5,"21/02/2017","2002_4",0,0
-"Under 3s","Local Authority","Tollcross Early Years Campus","Edinburgh","City of Edinburgh","Children","03/05/2018",6,6,6,5,"27/03/2018","2002_4",0,0
+"Under 3s","Local Authority","Tollcross Early Years Campus","Edinburgh","City of Edinburgh","Children","15/01/2025",5,4,5,5,"03/12/2024","2002_4",0,0
 "Under 3s","Local Authority","Longstone Primary School Nursery","Edinburgh","City of Edinburgh","Children","26/03/2019",5,5,5,5,"06/02/2019","2002_4",0,0
 "Over 3s","Local Authority","Lorne Primary School Nursery","Edinburgh","City of Edinburgh","Children","20/06/2019",5,4,4,5,"21/05/2019","2002_4",0,0
 "Over 3s","Voluntary or Not for Profit","ESMS Junior School Nursery","Edinburgh","City of Edinburgh","Children","24/09/2020",5,6,6,5,"11/03/2020","2002_4",0,0
@@ -1499,11 +1499,11 @@
 "Over 3s","Local Authority","Stockbridge Primary School Nursery","Edinburgh","City of Edinburgh","Children","21/12/2017",5,5,5,5,"08/11/2017","2002_4",0,0
 "Over 3s","Local Authority","The Royal High Primary School Nursery","Edinburgh","City of Edinburgh","Children","28/11/2024",4,4,4,4,"30/10/2024","2002_4",0,0
 "Over 3s","Local Authority","Towerbank Primary School Nursery","Edinburgh","City of Edinburgh","Children","21/08/2017",5,5,5,5,"28/06/2017","2002_4",0,0
-"Under 3s","Local Authority","Stornoway Primary School Nursery","Isle Of Lewis","Na h-Eileanan Siar","Children","20/12/2021",4,5,4,5,"17/11/2021","2002_4",0,0
+"Under 3s","Local Authority","Stornoway Primary School Nursery","Isle Of Lewis","Na h-Eileanan Siar","Children","15/01/2025",4,5,5,5,"28/11/2024","2002_4",0,0
 "Over 3s","Local Authority","Laurieston Primary School Nursery","Falkirk","Falkirk","Children","10/10/2019",5,5,5,4,"13/03/2019","2002_4",0,0
 "Over 3s","Local Authority","Aberdour Primary School Nursery","Burntisland","Fife","Children","21/01/2019",5,5,5,6,"19/11/2018","2002_4",0,0
 "Under 3s","Local Authority","Buckhaven Primary School Nursery","Leven","Fife","Children","07/03/2023",4,4,4,4,"30/01/2023","2002_4",0,0
-"Under 3s","Local Authority","Burntisland Primary School Nursery","Burntisland","Fife","Children","14/06/2022",4,4,4,4,"28/04/2022","2002_4",0,0
+"Under 3s","Local Authority","Burntisland Primary School Nursery","Burntisland","Fife","Children","22/01/2025",4,4,4,4,"16/09/2024","2002_4",0,0
 "Over 3s","Local Authority","Cairneyhill Primary School Nursery","Dunfermline","Fife","Children","06/02/2020",5,6,5,6,"13/12/2019","2002_4",0,0
 "Over 3s","Local Authority","Camdean Primary School Nursery","Dunfermline","Fife","Children","20/04/2023",5,5,5,5,"06/02/2023","2002_4",0,0
 "Over 3s","Local Authority","Cardenden Primary School Nursery","Lochgelly","Fife","Children","11/01/2018",5,5,5,5,"16/11/2017","2002_4",0,0
@@ -1578,7 +1578,7 @@
 "Over 3s","Local Authority","Kilchuimen Primary School Nursery","Fort Augustus","Highland","Children","13/01/2023",4,5,4,4,"06/12/2022","2002_4",0,0
 "Under 3s","Local Authority","Kilmuir Primary School Nursery","Isle Of Skye","Highland","Children","30/08/2019",5,5,5,4,"17/06/2019","2002_4",0,0
 "Over 3s","Local Authority","Kiltearn Primary School Nursery","Dingwall","Highland","Children","22/02/2024",3,4,4,3,"25/01/2024","2002_4",0,0
-"Over 3s","Local Authority","Kingussie Primary School Nursery","Kingussie","Highland","Children","02/05/2019",4,4,4,5,"14/03/2019","2002_4",0,0
+"Over 3s","Local Authority","Kingussie Primary School Nursery","Kingussie","Highland","Children","17/01/2025",4,5,5,4,"03/12/2024","2002_4",0,0
 "Under 3s","Local Authority","Kinlochleven Primary School Nursery","Kinlochleven","Highland","Children","03/07/2023",5,5,5,5,"26/04/2023","2002_4",0,0
 "Over 3s","Local Authority","Kinmylies Primary School Nursery","Inverness","Highland","Children","22/06/2022",4,4,4,4,"31/05/2022","2002_4",0,0
 "Over 3s","Local Authority","Kirkhill Primary School Nursery","Inverness","Highland","Children","19/05/2022",5,5,4,4,"03/05/2022","2002_4",0,0
@@ -1615,7 +1615,7 @@
 "Over 3s","Local Authority","Tomnacross Primary School Nursery","Beauly","Highland","Children","14/06/2024",4,4,5,5,"09/05/2024","2002_4",0,0
 "Under 3s","Local Authority","Ullapool Primary School Nursery","Ullapool","Highland","Children","18/02/2019",4,4,4,5,"17/12/2018","2002_4",0,0
 "Over 3s","Local Authority","Lundavra Primary School Nursery","Fort William","Highland","Children","27/10/2022",4,4,5,4,"08/09/2022","2002_4",0,0
-"Under 3s","Local Authority","Gibshill Children's Centre","Greenock","Inverclyde","Children","20/11/2019",5,5,5,5,"25/10/2019","2002_4",0,0
+"Under 3s","Local Authority","Gibshill Children's Centre","Greenock","Inverclyde","Children","16/01/2025",4,4,4,4,"28/11/2024","2002_4",0,0
 "Over 3s","Local Authority","Cornbank St. James' Primary School Nursery","Penicuik","Midlothian","Children","11/12/2024",4,5,4,5,"07/11/2024","2002_4",0,0
 "Over 3s","Local Authority","Rosewell Primary School Nursery","Rosewell","Midlothian","Children","28/08/2018",5,4,5,5,"19/06/2018","2002_4",0,0
 "Over 3s","Local Authority","Beith Primary School Early Years Class","Beith","North Ayrshire","Children","20/06/2016",5,5,4,5,"18/05/2016","2002_4",0,0
@@ -1625,7 +1625,7 @@
 "Under 3s","Local Authority","Glencairn Primary School Nursery Class","Stevenston","North Ayrshire","Children","20/12/2019",5,6,5,5,"06/11/2019","2002_4",0,0
 "Under 3s","Local Authority","Hayocks Primary School Nursery Class","Stevenston","North Ayrshire","Children","11/06/2024",4,3,4,4,"25/04/2024","2002_4",0,0
 "Over 3s","Local Authority","Lawthorn Primary School Nursery Class","Irvine","North Ayrshire","Children","06/01/2020",5,5,5,5,"21/11/2019","2002_4",0,0
-"Over 3s","Local Authority","Loudoun-Montgomery Primary School Nursery Class","Irvine","North Ayrshire","Children","27/04/2021",5,5,4,4,"04/03/2020","2002_4",0,0
+"Under 3s","Local Authority","Loudoun-Montgomery Primary School Nursery Class","Irvine","North Ayrshire","Children","27/04/2021",5,5,4,4,"04/03/2020","2002_4",0,0
 "Over 3s","Local Authority","Moorpark Primary School Nursery Class","Kilbirnie","North Ayrshire","Children","15/03/2018",4,5,4,5,"30/01/2018","2002_4",0,0
 "Over 3s","Local Authority","Skelmorlie Primary School Nursery Class","Skelmorlie","North Ayrshire","Children","13/09/2022",5,5,5,5,"27/05/2022","2002_4",0,0
 "Over 3s","Local Authority","Largs Early Years Centre","Largs","North Ayrshire","Children","29/11/2018",5,5,5,5,"25/10/2018","2002_4",0,0
@@ -1667,7 +1667,7 @@
 "Under 3s","Local Authority","Trinity Primary School Nursery","Hawick","Scottish Borders","Children","29/02/2024",4,3,3,3,"09/02/2024","2002_4",0,0
 "Over 3s","Local Authority","Tweedbank Primary School Nursery","Galashiels","Scottish Borders","Children","28/11/2022",5,5,5,5,"24/10/2022","2002_4",0,0
 "Under 3s","Local Authority","West Linton Primary School Nursery","West Linton","Scottish Borders","Children","20/04/2023",5,5,5,5,"23/03/2023","2002_4",0,0
-"Under 3s","Local Authority","Wilton Primary School Nursery","Hawick","Scottish Borders","Children","01/11/2017",4,4,4,5,"14/09/2017","2002_4",0,0
+"Under 3s","Local Authority","Wilton Primary School Nursery","Hawick","Scottish Borders","Children","17/01/2025",4,5,5,4,"05/12/2024","2002_4",0,0
 "Over 3s","Local Authority","Scalloway Nursery","Shetland","Shetland Islands","Children","03/11/2023",4,5,4,5,"15/09/2023","2002_4",0,0
 "Under 3s","Local Authority","Barr Early Years Centre","Girvan","South Ayrshire","Children","29/07/2019",4,4,5,4,"29/05/2019","2002_4",0,0
 "Under 3s","Local Authority","Braehead Early Years Centre","Ayr","South Ayrshire","Children","02/05/2024",4,4,4,4,"18/04/2024","2002_4",0,0
@@ -1697,7 +1697,7 @@
 "Under 3s","Local Authority","Polbeth Nursery School","West Calder","West Lothian","Children","21/10/2022",4,4,4,5,"14/09/2022","2002_4",0,0
 "Under 3s","Local Authority","Polkemmet Primary School Nursery Class","Bathgate","West Lothian","Children","29/08/2019",4,5,5,4,"31/05/2019","2002_4",0,0
 "Over 3s","Local Authority","Toronto Primary School Nursery Class","Livingston","West Lothian","Children","18/03/2024",5,6,6,5,"31/01/2024","2002_4",0,0
-"Under 3s","Local Authority","Winchburgh Primary School Nursery","Broxburn","West Lothian","Children","08/03/2022",4,5,4,5,"16/02/2022","2002_4",0,0
+"Under 3s","Local Authority","Winchburgh Primary School Nursery","Broxburn","West Lothian","Children","28/01/2025",5,5,5,5,"16/01/2025","2002_4",0,0
 "Over 3s","Local Authority","Windyknowe Primary School Nursery","Bathgate","West Lothian","Children","18/02/2020",5,5,6,5,"13/01/2020","2002_4",0,0
 "Under 3s","Local Authority","Woodlands Nursery School","Livingston","West Lothian","Children","19/11/2024",5,5,5,5,"25/10/2024","2002_4",0,0
 "Under 3s","Voluntary or Not for Profit","Stepping Stones for Families: Glasgow Creche","Glasgow","Glasgow City","Children","04/07/2019",5,5,4,5,"10/05/2019","2003_4",0,0
@@ -1705,7 +1705,7 @@
 "Under 3s","Private","Headstart Nursery, a partnership","Glasgow","Glasgow City","Children","14/08/2024",4,4,4,4,"30/07/2024","2003_6",0,0
 "Under 3s","Private","Happy Days Too @ Southfield","Glasgow","East Renfrewshire","Children","28/02/2019",4,4,5,5,"25/02/2019","2003_5",0,0
 "Under 3s","Private","Green Acres Nursery","Glasgow","Glasgow City","Children","02/09/2021",6,6,6,6,"19/08/2021","2003_9",0,0
-"Under 3s","Private","Hyde 'N' Seek Nursery - Prospecthill Road","Glasgow","Glasgow City","Children","23/10/2018",4,4,4,4,"05/09/2018","2003_8",0,0
+"Under 3s","Private","Hyde 'N' Seek Nursery - Prospecthill Road","Glasgow","Glasgow City","Children","15/01/2025",4,5,5,5,"27/11/2024","2003_8",0,0
 "Over 3s","Local Authority","Balmalloch Nursery Class","Glasgow","North Lanarkshire","Children","20/09/2019",6,6,5,5,"12/06/2019","2004_8",0,0
 "Over 3s","Local Authority","St. Margaret of Scotland PS Nursery Class","Glasgow","North Lanarkshire","Children","30/10/2023",4,5,4,5,"06/10/2023","2004_8",0,0
 "Under 3s","Private","Happy Days Too @ Busby","Glasgow","East Renfrewshire","Children","12/03/2024",4,5,4,4,"16/02/2024","2003_5",0,0
@@ -1777,7 +1777,7 @@
 "Under 3s","Local Authority","Bonnypark Early Learning and Childcare Centre","Bonnybridge","Falkirk","Children","24/07/2019",5,5,5,5,"15/05/2019","2002_4",0,0
 "Over 3s","Local Authority","Bowhouse Primary School, Early Learning and Childcare Class","Grangemouth","Falkirk","Children","14/11/2024",5,4,5,5,"03/10/2024","2003_4",0,0
 "Over 3s","Local Authority","California Primary School Nursery","Falkirk","Falkirk","Children","06/06/2019",5,5,5,5,"25/02/2019","2002_4",0,0
-"Over 3s","Local Authority","Carmuirs Primary School Nursery","Falkirk","Falkirk","Children","15/03/2018",5,5,5,5,"06/02/2018","2003_4",0,0
+"Over 3s","Local Authority","Carmuirs Primary School Nursery","Falkirk","Falkirk","Children","13/01/2025",4,4,4,4,"05/12/2024","2003_4",0,0
 "Over 3s","Local Authority","Carronshore Primary School Nursery","Falkirk","Falkirk","Children","15/11/2022",5,5,5,5,"02/11/2022","2003_4",0,0
 "Over 3s","Local Authority","Deanburn Primary School, Early Learning and Childcare Class","Bo'ness","Falkirk","Children","03/11/2022",5,5,4,5,"21/09/2022","2002_4",1,0
 "Over 3s","Local Authority","Dunipace Primary School Nursery","Denny","Falkirk","Children","28/02/2020",5,4,4,4,"10/12/2019","2002_4",0,0
@@ -1818,7 +1818,7 @@
 "Under 3s","Private","Craigard Nursery","Cumbernauld","North Lanarkshire","Children","25/02/2020",4,5,4,4,"21/01/2020","2004_1",0,0
 "Under 3s","Private","Thrive Childcare and Education Corner House Nursery Falkirk","Falkirk","Falkirk","Children","19/08/2024",3,4,3,4,"24/07/2024","2003_10",1,0
 "Under 3s","Local Authority","Westfield Family Nurture Centre","Cupar","Fife","Children","28/11/2024",5,5,5,5,"24/10/2024","2002_4",0,0
-"Over 3s","Local Authority","Forthview Primary School Nursery","Edinburgh","City of Edinburgh","Children","17/01/2018",5,6,5,5,"27/03/2017","2002_4",0,0
+"Over 3s","Local Authority","Forthview Primary School Nursery","Edinburgh","City of Edinburgh","Children","17/01/2025",4,3,4,4,"04/12/2024","2002_4",0,0
 "Under 3s","Private","Pinocchio's @ Heriot Watt","Edinburgh","City of Edinburgh","Children","16/04/2024",3,3,3,3,"23/01/2024","2003_11",2,0
 "Under 3s","Private","Doune Terrace Nursery","Edinburgh","City of Edinburgh","Children","15/10/2024",4,4,4,4,"15/08/2024","2003_4",0,0
 "Over 3s","Local Authority","Machanhill Primary School Nursery Class","Larkhall","South Lanarkshire","Children","23/01/2018",5,5,5,5,"21/11/2017","2003_9",0,0
@@ -1872,18 +1872,17 @@
 "Under 3s","Local Authority","Papa Westray School Nursery","Orkney","Orkney Islands","Children","15/01/2018",5,5,5,5,"13/11/2017","2002_4",0,0
 "Over 3s","Voluntary or Not for Profit","Livingston Village Out of School Club","Livingston","West Lothian","Children","28/11/2024",5,5,5,5,"01/10/2024","2004_8",0,0
 "Under 3s","Private","Hyde 'N' Seek Nursery - Kinning Park Business Centre","Glasgow","Glasgow City","Children","21/09/2021",4,4,4,4,"01/07/2021","2004_7",0,0
-"Over 3s","Local Authority","Farr High Nursery","Thurso","Highland","Children","09/08/2017",5,5,5,5,"20/06/2017","2002_4",0,0
+"Over 3s","Local Authority","Farr High Nursery","Thurso","Highland","Children","21/01/2025",5,5,5,5,"11/11/2024","2002_4",0,0
 "Over 3s","Local Authority","Pathhead Out of School Club","Kirkcaldy","Fife","Children","17/12/2024",4,4,4,4,"13/11/2024","2004_6",0,0
 "Over 3s","Local Authority","Invergowrie Kids Club","Dundee","Perth & Kinross","Children","08/10/2018",5,5,5,5,"14/09/2018","2004_4",0,0
 "Under 3s","Private","Bruce Nursery","Aberdeen","Aberdeen City","Children","10/04/2024",3,4,3,3,"05/03/2024","2004_7",0,0
 "Over 3s","Local Authority","Woodland View Playscheme","Glasgow","East Dunbartonshire","Children","14/09/2022",5,5,4,5,"04/08/2022","2002_4",0,0
-"Over 3s","Local Authority","Limekilns Out of School Club","Dunfermline","Fife","Children","05/02/2024",4,4,3,4,"09/01/2024","2004_9",0,0
+"Over 3s","Local Authority","Limekilns Out of School Club","Dunfermline","Fife","Children","14/01/2025",4,4,4,4,"09/12/2024","2004_9",0,0
 "Under 3s","Private","Busy Bees @ Kelvin","Glasgow","Glasgow City","Children","26/01/2024",4,5,4,4,"10/01/2024","2004_10",0,0
 "Over 3s","Local Authority","Mossvale Early Learning and Childcare Class","Paisley","Renfrewshire","Children","13/09/2021",4,4,4,4,"07/06/2021","2002_4",0,0
 "Under 3s","Private","Technotots Childcare Ltd.","Glasgow","South Lanarkshire","Children","16/06/2020",4,4,5,5,"11/03/2020","2004_7",0,0
 "Under 3s","Local Authority","Foula Nursery 2-5 years","Shetland","Shetland Islands","Children","30/03/2018",5,5,5,5,"09/03/2018","2002_4",0,0
 "Under 3s","Private","First Steps Nursery - Nairn","Nairn","Highland","Children","29/09/2022",5,5,4,4,"20/07/2022","2004_7",0,0
-"Under 3s","Local Authority","Fife Council Mobile Creche Services","Glenrothes","Fife","Children","23/09/2019",4,5,5,5,"17/09/2019","2004_8",0,0
 "Over 3s","Local Authority","Balmullo Out of School Club","St. Andrews","Fife","Children","19/12/2018",5,5,5,5,"20/11/2018","2004_10",0,0
 "Over 3s","Local Authority","Commercial Out of School Club","Dunfermline","Fife","Children","09/04/2019",4,4,4,4,"07/03/2019","2005_4",0,0
 "Under 3s","Local Authority","South Ayrshire Sessional Childcare Service","Ayr","South Ayrshire","Children","08/02/2019",4,4,4,4,"01/02/2019","2004_7",0,0
@@ -1901,7 +1900,7 @@
 "Over 3s","Private","Garioch Sports Centre Out of School Club","Inverurie","Aberdeenshire","Children","29/09/2022",4,4,4,4,"05/09/2022","2004_12",0,0
 "Over 3s","Local Authority","Canisbay Rainbow Nursery","Wick","Highland","Children","17/06/2022",5,5,4,5,"27/04/2022","2004_8",0,0
 "Over 3s","Voluntary or Not for Profit","Muirfield Out of School Club","Aberdeen","Aberdeen City","Children","01/02/2018",4,5,4,5,"17/01/2018","2005_8",0,0
-"Over 3s","Local Authority","Caskieberran Out of School Club","Glenrothes","Fife","Children","15/01/2024",4,4,3,3,"14/12/2023","2004_7",0,0
+"Over 3s","Local Authority","Caskieberran Out of School Club","Glenrothes","Fife","Children","22/01/2025",4,4,4,4,"11/12/2024","2004_7",0,0
 "Over 3s","Local Authority","Plockton Primary School Nursery - GM","Plockton","Highland","Children","08/10/2024",3,3,3,3,"04/09/2024","2005_2",0,0
 "Over 3s","Private","Kidzcare Ltd @ Fox Covert","Edinburgh","City of Edinburgh","Children","08/12/2022",4,4,4,4,"07/10/2022","2004_7",0,0
 "Under 3s","Private","Step by Step Private Nursery (Maryhill)","Glasgow","Glasgow City","Children","02/06/2022",4,4,4,4,"21/04/2022","2005_1",0,0
@@ -1918,7 +1917,6 @@
 "Under 3s","Private","Thrive Childcare and Education, Corner House Nursery Banchory","Banchory","Aberdeenshire","Children","20/12/2019",4,4,4,4,"05/11/2019","2004_10",0,0
 "Under 3s","Local Authority","Leith Academy Community Nursery","Edinburgh","City of Edinburgh","Children","19/06/2024",3,4,4,4,"14/05/2024","2005_3",0,0
 "Over 3s","Voluntary or Not for Profit","Kilsyth Children's Club","Glasgow","North Lanarkshire","Children","18/05/2018",5,5,5,5,"26/03/2018","2005_4",0,0
-"Under 3s","Local Authority","Drummond Community High School Creche","Edinburgh","City of Edinburgh","Children","12/12/2017",5,4,4,4,"05/09/2017","2006_11",0,0
 "Over 3s","Voluntary or Not for Profit","Cockenzie Out of School Club","Prestonpans","East Lothian","Children","30/04/2024",5,5,5,5,"23/04/2024","2005_1",0,0
 "Under 3s","Private","Argyle Bridge Children's Nursery","Tranent","East Lothian","Children","14/01/2020",5,4,5,5,"25/11/2019","2005_5",0,0
 "Under 3s","Local Authority","Lochnell Pre Five Nursery Unit","Oban","Argyll & Bute","Children","23/04/2024",4,4,4,4,"27/03/2024","2004_10",0,0
@@ -1969,7 +1967,7 @@
 "Under 3s","Private","Orchard Grove Nursery","Paisley","Renfrewshire","Children","30/06/2023",4,4,4,4,"22/05/2023","2006_2",0,0
 "Under 3s","Private","Thrive Childcare and Education Happitots Erskine","Bishopton","Renfrewshire","Children","19/07/2024",4,4,3,3,"26/06/2024","2006_6",2,0
 "Over 3s","Private","Steel Rings Centre","Paisley","Renfrewshire","Children","15/08/2018",5,5,5,5,"18/07/2018","2006_6",0,0
-"Under 3s","Voluntary or Not for Profit","Allsorts Childcare Centre","Duns","Scottish Borders","Children","28/05/2024",4,4,3,3,"23/02/2024","2006_5",0,0
+"Under 3s","Voluntary or Not for Profit","Allsorts Childcare Centre","Duns","Scottish Borders","Children","15/01/2025",3,2,2,2,"17/12/2024","2006_5",0,0
 "Over 3s","Local Authority","Bantaskin Primary School Early Learning and Childcare Class","Falkirk","Falkirk","Children","02/02/2023",5,5,5,4,"14/12/2022","2006_3",0,0
 "Under 3s","Private","Bright Horizons Annandale Early Learning and Childcare","Edinburgh","City of Edinburgh","Children","01/11/2022",4,4,4,4,"02/09/2022","2005_9",0,0
 "Under 3s","Private","Bright Horizons Morton Mains Early Learning and Childcare","Edinburgh","City of Edinburgh","Children","11/10/2023",4,4,4,4,"10/08/2023","2005_9",0,0
@@ -2058,7 +2056,7 @@
 "Under 3s","Private","Old Doune Road Nursery Limited","Dunblane","Stirling","Children","10/09/2024",5,5,5,5,"24/06/2024","2006_11",0,0
 "Over 3s","Local Authority","Mill O'Forest School Nursery","Stonehaven","Aberdeenshire","Children","26/03/2024",5,5,4,5,"12/03/2024","2006_11",0,0
 "Over 3s","Local Authority","Kinnoull Kids Club","Perth","Perth & Kinross","Children","16/01/2024",4,5,4,5,"08/12/2023","2006_11",0,0
-"Under 3s","Private","Kirkliston Orchard Nursery","Kirkliston","City of Edinburgh","Children","16/01/2020",5,5,4,5,"31/10/2019","2007_6",0,0
+"Under 3s","Private","Kirkliston Orchard Nursery","Edinburgh","City of Edinburgh","Children","16/01/2020",5,5,4,5,"31/10/2019","2007_6",0,0
 "Under 3s","Local Authority","Acredyke Nursery School","Glasgow","Glasgow City","Children","18/10/2019",5,5,6,6,"03/09/2019","2007_5",0,0
 "Under 3s","Local Authority","Family Centre - Merkinch","Inverness","Highland","Children","18/06/2024",5,6,5,5,"23/04/2024","2007_3",0,0
 "Over 3s","Local Authority","Lairhillock School Nursery","Stonehaven","Aberdeenshire","Children","23/08/2018",5,5,4,4,"13/06/2018","2007_4",0,0
@@ -2186,7 +2184,6 @@
 "Under 3s","Private","Headstart Nursery School at Leith","Edinburgh","City of Edinburgh","Children","03/12/2024",3,4,4,3,"27/09/2024","2008_2",1,0
 "Over 3s","Local Authority","Inverkeithing Out of School Club","Inverkeithing","Fife","Children","27/06/2023",4,4,4,4,"12/06/2023","2008_3",0,0
 "Under 3s","Local Authority","Calaiswood School Nursery","Dunfermline","Fife","Children","16/10/2024",5,5,5,5,"17/09/2024","2009_2",0,0
-"Under 3s","Private","Hame fae Hame Ltd","Shetland","Shetland Islands","Children","20/01/2020",4,4,5,5,"07/01/2020","2008_12",0,0
 "Over 3s","Voluntary or Not for Profit","Lochgilphead After School Club","Lochgilphead","Argyll & Bute","Children","03/11/2021",4,4,4,4,"21/09/2021","2008_1",0,0
 "Over 3s","Local Authority","Duntarvie Pre School Assessment & Development Centre","Glasgow","Glasgow City","Children","12/02/2018",5,5,6,5,"09/01/2018","2008_8",0,0
 "Under 3s","Voluntary or Not for Profit","Alford Pre-School","Alford","Aberdeenshire","Children","17/04/2024",4,4,4,4,"15/03/2024","2008_4",0,0
@@ -2212,7 +2209,7 @@
 "Under 3s","Private","Sinclair Nursery","Glasgow","Glasgow City","Children","08/11/2024",5,4,4,5,"17/10/2024","2008_8",0,0
 "Under 3s","Voluntary or Not for Profit","The Secret Garden Outdoor Nursery","Cupar","Fife","Children","13/06/2023",5,5,5,5,"24/05/2023","2008_9",0,0
 "Over 3s","Local Authority","Addiewell Early Years Centre","West Calder","West Lothian","Children","21/03/2023",5,5,5,5,"08/02/2023","2008_10",0,0
-"Under 3s","Private","Treetops Too","Saltcoats","North Ayrshire","Children","24/10/2023",3,4,4,4,"28/09/2023","2008_7",1,0
+"Under 3s","Private","Treetops Too","Saltcoats","North Ayrshire","Children","10/01/2025",3,4,4,4,"26/11/2024","2008_7",1,0
 "Over 3s","Local Authority","Moffat Early Years Campus","Edinburgh","City of Edinburgh","Children","27/06/2023",4,4,4,4,"11/05/2023","2008_8",0,0
 "Under 3s","Private","Musselburgh Private Nursery","Musselburgh","East Lothian","Children","08/08/2023",4,4,4,4,"13/07/2023","2008_6",0,0
 "Over 3s","Local Authority","St. Patrick's Primary School Nursery","Denny","Falkirk","Children","31/05/2016",5,5,5,5,"28/04/2016","2008_8",0,0
@@ -2230,9 +2227,8 @@
 "Over 3s","Local Authority","Westpark School Nursery","Aberdeen","Aberdeen City","Children","11/12/2018",5,5,5,5,"20/11/2018","2008_8",0,0
 "Under 3s","Private","Thrive Childcare and Education Happitots Cove Bay","Aberdeen","Aberdeen City","Children","08/08/2024",2,2,2,2,"18/07/2024","2008_7",0,0
 "Over 3s","Local Authority","Sanderson's Wynd Primary School (Nursery Class and Wraparound)","Tranent","East Lothian","Children","10/09/2024",4,4,4,4,"19/06/2024","2008_8",0,0
-"Under 3s","Voluntary or Not for Profit","Tom Thumb Nursery and Playgroup Ltd","South Queensferry","City of Edinburgh","Children","28/10/2019",5,5,4,5,"24/09/2019","2008_12",0,0
 "Under 3s","Local Authority","Lochgoilhead Primary Pre Five Unit","Cairndow","Argyll & Bute","Children","10/01/2020",4,4,5,5,"22/11/2019","2009_6",1,0
-"Under 3s","Local Authority","Sgoil Araich an Taobh Siar","Isle Of Lewis","Na h-Eileanan Siar","Children","06/02/2019",6,4,4,4,"28/11/2024","2008_8",0,0
+"Under 3s","Local Authority","Sgoil Araich an Taobh Siar","Isle Of Lewis","Na h-Eileanan Siar","Children","13/01/2025",4,4,4,4,"28/11/2024","2008_8",0,0
 "Under 3s","Private","Windmill Nursery","Motherwell","North Lanarkshire","Children","10/12/2024",4,4,3,3,"03/10/2024","2008_9",0,0
 "Over 3s","Private","Happy Days Out of School Care","Glasgow","East Dunbartonshire","Children","29/08/2019",5,5,4,5,"27/06/2019","2008_9",0,0
 "Under 3s","Private","Rocking Horse Nursery","Edinburgh","City of Edinburgh","Children","18/12/2024",4,4,4,4,"28/11/2024","2009_1",0,0
@@ -2273,7 +2269,7 @@
 "Over 3s","Local Authority","Clarkston Primary School Nursery Class","Airdrie","North Lanarkshire","Children","17/06/2019",5,5,5,5,"17/05/2019","2009_8",0,0
 "Over 3s","Private","Robert Gordon's College After School Club","Aberdeen","Aberdeen City","Children","18/12/2018",5,5,4,4,"19/10/2018","2011_1",0,0
 "Under 3s","Private","Cranston Country Nursery","Pathhead","Midlothian","Children","28/11/2023",4,5,4,4,"09/11/2023","2009_10",0,0
-"Under 3s","Private","Rainforest Nursery","Motherwell","North Lanarkshire","Children","24/08/2020",4,4,4,4,"30/01/2020","2009_10",0,0
+"Under 3s","Private","Rainforest Nursery","Motherwell","North Lanarkshire","Children","16/01/2025",3,3,3,3,"11/12/2024","2009_10",0,0
 "Over 3s","Local Authority","Cambusnethan Primary School Nursery Class","Wishaw","North Lanarkshire","Children","04/02/2019",4,5,4,5,"17/01/2019","2009_8",0,0
 "Over 3s","Private","Calderwood After School & Holiday Club","Glasgow","South Lanarkshire","Children","10/10/2024",3,4,3,3,"27/08/2024","2009_10",0,0
 "Under 3s","Local Authority","Young Parents' Support Base Nursery","Glasgow","Glasgow City","Children","23/04/2019",4,6,5,5,"21/02/2019","2010_2",0,0
@@ -2309,14 +2305,14 @@
 "Under 3s","Private","Scruffs Registered Childcare","Oakwell.industrial Estaye","Dumfries & Galloway","Children","07/10/2022",4,4,4,4,"19/07/2022","2010_7",0,0
 "Under 3s","Private","Lucky Little Stars","Clydebank","West Dunbartonshire","Children","15/01/2020",4,4,4,4,"18/10/2019","2010_7",0,0
 "Under 3s","Private","The Owl & Pussycat Nursery","Irvine","North Ayrshire","Children","18/08/2022",4,4,4,4,"05/07/2022","2010_5",0,0
-"Over 3s","Private","Happy Days Out of School Care","Glasgow","North Lanarkshire","Children","07/06/2024",2,3,2,2,"01/05/2024","2010_8",1,0
+"Over 3s","Private","Happy Days Out of School Care","Glasgow","North Lanarkshire","Children","07/06/2024",2,3,2,2,"01/05/2024","2010_8",1,1
 "Under 3s","Voluntary or Not for Profit","Buddies Clubs and Services (Nursery)","Glasgow","Glasgow City","Children","11/12/2018",6,5,5,6,"01/11/2018","2011_3",0,0
 "Over 3s","Voluntary or Not for Profit","East Linton After School Club","East Linton","East Lothian","Children","01/09/2021",4,4,4,4,"05/07/2021","2010_3",0,0
 "Under 3s","Local Authority","Sgoil Araich Uig","Isle Of Lewis","Na h-Eileanan Siar","Children","02/09/2024",4,5,3,4,"19/06/2024","2010_1",0,0
 "Under 3s","Private","Colinton Private Nursery","Edinburgh","City of Edinburgh","Children","27/08/2019",4,5,4,5,"16/07/2019","2010_10",0,0
 "Over 3s","Private","Trinity After School Club","Edinburgh","City of Edinburgh","Children","24/10/2017",5,5,5,6,"31/08/2017","2010_8",0,0
 "Over 3s","Local Authority","Heathhall School Nursery Class","Dumfries","Dumfries & Galloway","Children","05/01/2024",4,5,4,4,"21/11/2023","2010_8",0,0
-"Over 3s","Voluntary or Not for Profit","Dunard After School Care","Glasgow","Glasgow City","Children","22/05/2017",5,6,5,6,"25/11/2024","2011_8",0,0
+"Over 3s","Voluntary or Not for Profit","Dunard After School Care","Glasgow","Glasgow City","Children","08/01/2025",5,5,5,5,"25/11/2024","2011_8",0,0
 "Under 3s","Private","Stepping Stones Nursery School","Airdrie","North Lanarkshire","Children","03/10/2019",5,4,5,4,"30/07/2019","2010_8",0,0
 "Under 3s","Private","Bright Starts Nursery Thornliebank","Glasgow","East Renfrewshire","Children","20/02/2024",2,2,2,2,"18/01/2024","2010_4",0,0
 "Over 3s","Voluntary or Not for Profit","Victoria After School Club","Edinburgh","City of Edinburgh","Children","08/11/2024",5,5,6,5,"13/09/2024","2010_8",0,0
@@ -2340,7 +2336,7 @@
 "Under 3s","Local Authority","Knightswood Early Years Centre","Glasgow","Glasgow City","Children","06/10/2022",5,5,5,5,"31/08/2022","2010_10",0,0
 "Over 3s","Private","Fun Lodge Out of School Care","Glasgow","Glasgow City","Children","10/02/2023",5,5,5,5,"31/01/2023","2011_2",0,0
 "Under 3s","Private","Glenview Cottage Nursery","Alloa","Clackmannanshire","Children","03/08/2022",5,5,5,5,"05/07/2022","2010_9",0,0
-"Under 3s","Private","Victoria Quay Nursery","Edinburgh","City of Edinburgh","Children","22/12/2021",4,4,4,4,"08/05/2024","2011_1",0,0
+"Under 3s","Private","Victoria Quay Nursery","Edinburgh","City of Edinburgh","Children","15/01/2025",4,3,3,2,"02/12/2024","2011_1",0,0
 "Over 3s","Local Authority","St. Teresa's Primary School Nursery Class","Motherwell","North Lanarkshire","Children","21/11/2023",4,3,4,3,"25/10/2023","2010_8",0,0
 "Over 3s","Local Authority","Abronhill Primary Nursery Class","Glasgow","North Lanarkshire","Children","02/02/2024",3,4,4,4,"11/01/2024","2010_8",0,0
 "Under 3s","Local Authority","Saint Bartholomew's Primary Nursery Class","Coatbridge","North Lanarkshire","Children","23/01/2018",4,5,5,5,"27/10/2017","2010_8",0,0
@@ -2430,7 +2426,7 @@
 "Under 3s","Private","Little Stars Glasgow","Glasgow","Glasgow City","Children","11/09/2024",4,4,4,4,"08/08/2024","2011_12",0,0
 "Under 3s","Private","Little Stars Falkirk","Falkirk","Falkirk","Children","17/05/2024",3,3,3,3,"13/03/2024","2011_12",1,0
 "Under 3s","Private","Little Stars Alloa","Alloa","Clackmannanshire","Children","18/09/2024",2,2,3,3,"07/08/2024","2011_12",2,0
-"Under 3s","Private","Little Stars Nursery","Stirling","Stirling","Children","20/05/2024",3,3,3,2,"21/11/2024","2011_12",1,0
+"Under 3s","Private","Little Stars Nursery","Stirling","Stirling","Children","07/01/2025",4,3,3,3,"21/11/2024","2011_12",1,0
 "Under 3s","Private","Little Dreams Nursery","Aberdeen","Aberdeen City","Children","06/09/2024",4,4,4,3,"29/07/2024","2012_2",0,0
 "Under 3s","Local Authority","Sgoil Araich Lionail","Isle Of Lewis","Na h-Eileanan Siar","Children","25/04/2024",4,4,4,4,"29/04/2024","2011_10",0,0
 "Under 3s","Private","Barrachnie Nursery","Glasgow","Glasgow City","Children","24/04/2024",4,4,5,4,"14/03/2024","2012_3",0,0
@@ -2460,7 +2456,7 @@
 "Under 3s","Private","Treetops Nursery","Irvine","North Ayrshire","Children","05/07/2023",3,4,4,4,"15/06/2023","2012_5",2,0
 "Over 3s","Local Authority","St. Bernadette's Primary School Nursery Class","Larbert","Falkirk","Children","23/09/2020",5,5,5,5,"30/01/2020","2012_8",0,0
 "Under 3s","Private","Zetland Nursery (Day Care of Children)","Grangemouth","Falkirk","Children","15/11/2024",3,3,3,3,"23/10/2024","2012_6",0,0
-"Under 3s","Private","The Learning Zone","Glasgow","Glasgow City","Children","17/07/2018",4,4,4,5,"11/05/2018","2012_10",0,0
+"Under 3s","Private","The Learning Zone","Glasgow","Glasgow City","Children","28/01/2025",4,4,3,4,"09/01/2025","2012_10",0,0
 "Under 3s","Voluntary or Not for Profit","Hemat Gryffe Women's Aid - Day Care of Children","Glasgow","Glasgow City","Children","05/12/2023",5,5,5,5,"31/10/2023","2013_2",0,0
 "Over 3s","Local Authority","Christ the King Primary School Nursery Class","Motherwell","North Lanarkshire","Children","29/05/2023",4,5,5,5,"12/05/2023","2012_8",0,0
 "Over 3s","Local Authority","St John Paul II Primary School Nursery Class","Glasgow","North Lanarkshire","Children","25/02/2020",4,5,4,5,"11/11/2019","2012_11",0,0
@@ -2468,8 +2464,8 @@
 "Under 3s","Private","Little Monkeys Cramond House","Edinburgh","City of Edinburgh","Children","01/10/2024",3,4,4,3,"27/08/2024","2012_5",0,0
 "Under 3s","Private","Kindergarten Huntly Ltd","Huntly","Aberdeenshire","Children","08/10/2024",4,5,5,4,"30/08/2024","2012_6",0,0
 "Under 3s","Private","Childsplay Childrens Nursery Limited","Edinburgh","City of Edinburgh","Children","06/08/2019",5,5,4,5,"25/06/2019","2012_11",0,0
-"Under 3s","Private","Rugrats Private Day Nursery Ltd","Dundee","Dundee City","Children","13/03/2024",3,4,3,2,"20/02/2024","2012_8",1,0
-"Under 3s","Voluntary or Not for Profit","Cassiltoun Stables Nursery","Glasgow","Glasgow City","Children","07/03/2024",3,4,4,4,"24/01/2024","2013_2",0,0
+"Under 3s","Private","Rugrats Private Day Nursery Ltd","Dundee","Dundee City","Children","21/01/2025",4,5,4,4,"10/12/2024","2012_8",1,0
+"Under 3s","Voluntary or Not for Profit","Cassiltoun Stables Nursery","Glasgow","Glasgow City","Children","07/03/2024",3,4,4,4,"09/01/2025","2013_2",0,0
 "Over 3s","Local Authority","Kilchattan Primary Pre Five Unit","Isle Of Colonsay","Argyll & Bute","Children","05/06/2024",4,5,5,5,"08/05/2024","2012_9",0,0
 "Under 3s","Private","The Tower Nursery","Glasgow","East Dunbartonshire","Children","01/05/2023",5,5,5,5,"15/02/2023","2015_3",0,0
 "Under 3s","Private","Rainbow Dreams Day Nursery","Glasgow","Glasgow City","Children","18/09/2024",4,3,4,4,"27/08/2024","2012_11",0,0
@@ -2482,11 +2478,11 @@
 "Over 3s","Local Authority","Strachur Primary Pre Five Unit","Cairndow","Argyll & Bute","Children","03/06/2019",4,4,4,4,"02/05/2019","2012_8",0,0
 "Over 3s","Voluntary or Not for Profit","Indiyouth","Glasgow","Glasgow City","Children","09/08/2018",5,6,6,6,"02/08/2018","2014_7",0,0
 "Under 3s","Private","Dollar Nursery School","Dollar","Clackmannanshire","Children","27/06/2024",4,4,5,5,"30/05/2024","2012_9",0,0
-"Over 3s","Voluntary or Not for Profit","Stoneywood Out of School Club","Aberdeen","Aberdeen City","Children","21/01/2019",4,4,4,4,"11/12/2018","2012_10",0,0
+"Over 3s","Voluntary or Not for Profit","Stoneywood Out of School Club","Aberdeen","Aberdeen City","Children","23/01/2025",3,4,3,3,"21/11/2024","2012_10",0,0
 "Under 3s","Voluntary or Not for Profit","Fochabers Nursery and Out of School","Fochabers","Moray","Children","02/09/2019",5,5,5,5,"14/06/2019","2012_8",0,0
 "Over 3s","Local Authority","Townhill Out of School Club","Dunfermline","Fife","Children","17/04/2024",5,5,5,5,"28/02/2024","2013_3",0,0
 "Under 3s","Private","Playspaces","Brechin","Angus","Children","28/10/2022",5,5,5,5,"04/10/2022","2013_5",0,0
-"Over 3s","Voluntary or Not for Profit","Newtongrange After School Club","Dalkeith","Midlothian","Children","06/01/2020",4,4,4,4,"16/12/2024","2013_2",0,0
+"Over 3s","Voluntary or Not for Profit","Newtongrange After School Club","Dalkeith","Midlothian","Children","13/01/2025",3,3,1,2,"16/12/2024","2013_2",0,0
 "Over 3s","Voluntary or Not for Profit","Newington Nursery","Edinburgh","City of Edinburgh","Children","23/08/2017",5,5,4,5,"15/06/2017","2013_3",0,0
 "Over 3s","Voluntary or Not for Profit","Rural Rascals Out of School Care","Westhill","Aberdeenshire","Children","12/06/2024",3,3,2,3,"25/04/2024","2012_11",0,0
 "Over 3s","Private","Fast @ Gartcosh Out of School Care","Glasgow","North Lanarkshire","Children","05/03/2024",4,4,4,4,"01/02/2024","2013_4",0,0
@@ -2501,7 +2497,7 @@
 "Under 3s","Private","Pine Trees Nursery","Prestwick","South Ayrshire","Children","08/03/2023",5,4,4,4,"03/02/2023","2013_3",0,0
 "Over 3s","Voluntary or Not for Profit","Kids Come First","Lochgelly","Fife","Children","20/11/2023",4,5,4,4,"15/11/2023","2014_9",0,0
 "Under 3s","Private","Cosy Cottage Nursery School","Edinburgh","City of Edinburgh","Children","30/08/2023",4,5,5,5,"07/08/2023","2013_9",0,0
-"Over 3s","Local Authority","Achiltibuie Primary School Nursery","Ullapool","Highland","Children","07/12/2022",5,5,5,5,"08/11/2022","2013_12",0,0
+"Under 3s","Local Authority","Achiltibuie Primary School Nursery","Ullapool","Highland","Children","07/12/2022",5,5,5,5,"08/11/2022","2013_12",0,0
 "Under 3s","Private","Bright Starts","Stirling","Stirling","Children","22/10/2024",4,4,4,4,"01/10/2024","2013_5",0,0
 "Under 3s","Private","Tinies Glasgow - Mobile Creche","Glasgow","East Renfrewshire","Children","14/11/2019",4,4,4,4,"15/08/2019","2013_9",0,0
 "Over 3s","Local Authority","Drummore Nursery Class","Stranraer","Dumfries & Galloway","Children","16/06/2023",5,5,5,5,"26/05/2023","2013_8",0,0
@@ -2511,7 +2507,7 @@
 "Over 3s","Local Authority","Park Primary Family Learning Centre","Oban","Argyll & Bute","Children","26/07/2017",5,5,5,5,"21/06/2017","2013_9",0,0
 "Over 3s","Local Authority","St. Joseph's Primary Family Learning Centre","Helensburgh","Argyll & Bute","Children","24/04/2019",5,5,5,5,"06/11/2018","2013_9",0,0
 "Under 3s","Private","Mulberry Bush Montessori","Glasgow","Stirling","Children","12/10/2020",6,6,5,6,"04/03/2020","2014_4",0,0
-"Over 3s","Private","Oganan Dhun Eideann","Edinburgh","City of Edinburgh","Children","11/03/2024",2,2,2,2,"23/01/2024","2013_8",1,0
+"Over 3s","Private","Oganan Dhun Eideann","Edinburgh","City of Edinburgh","Children","28/01/2025",4,4,4,4,"04/12/2024","2013_8",1,0
 "Under 3s","Private","Roseangle House","Dundee","Dundee City","Children","23/02/2024",4,4,3,4,"01/02/2024","2014_6",0,0
 "Under 3s","Private","Lullaby Lane","Glasgow","East Dunbartonshire","Children","14/12/2023",2,3,3,3,"01/11/2023","2013_10",0,0
 "Under 3s","Private","Victoria Park Kindergarten","Glasgow","Glasgow City","Children","30/10/2024",4,3,3,3,"05/09/2024","2013_7",0,0
@@ -2566,7 +2562,7 @@
 "Over 3s","Private","Spring Oscars @ Carrick Knowe","Edinburgh","City of Edinburgh","Children","10/10/2023",3,3,3,3,"31/08/2023","2014_2",0,0
 "Under 3s","Private","Almond Park Nursery","Musselburgh","East Lothian","Children","10/01/2024",4,4,4,4,"14/12/2023","2014_7",0,0
 "Under 3s","Voluntary or Not for Profit","Stramash Outdoor Nursery, Fort William","Fort William","Highland","Children","09/09/2021",5,5,5,5,"03/08/2021","2014_7",0,0
-"Under 3s","Voluntary or Not for Profit","Munlochy Pre-School Centre","Munlochy","Highland","Children","05/03/2020",4,4,5,4,"08/01/2020","2014_10",0,0
+"Over 3s","Voluntary or Not for Profit","Munlochy Pre-School Centre","Munlochy","Highland","Children","05/03/2020",4,4,5,4,"08/01/2020","2014_10",0,0
 "Under 3s","Private","The Kindergarten Nursery Limited","Aberdeen","Aberdeen City","Children","14/10/2024",2,3,3,3,"16/08/2024","2014_4",0,0
 "Over 3s","Private","Oscare","Glasgow","East Renfrewshire","Children","08/10/2019",6,4,5,5,"18/06/2019","2014_8",0,0
 "Over 3s","Private","Clarkston After School Services","Clarkston","East Renfrewshire","Children","09/05/2018",4,5,4,4,"19/03/2018","2014_7",0,0
@@ -2593,12 +2589,13 @@
 "Under 3s","Private","Crossbasket Nursery School","Glasgow","South Lanarkshire","Children","07/10/2024",4,4,4,5,"11/09/2024","2014_8",0,0
 "Over 3s","Local Authority","Pitreavie Out of School Club","Dunfermline","Fife","Children","18/03/2024",3,5,4,4,"13/02/2024","2014_6",0,0
 "Over 3s","Private","Little Flyers After School Club @ Kirkliston","Kirkliston","City of Edinburgh","Children","08/08/2019",4,4,4,4,"27/06/2019","2014_8",0,0
-"Over 3s","Private","Little Flyers After School Club @ Winchburgh","Broxburn","West Lothian","Children","29/06/2023",4,3,4,4,"12/12/2024","2014_8",0,0
+"Over 3s","Private","Little Flyers After School Club @ Winchburgh","Broxburn","West Lothian","Children","08/01/2025",4,3,3,4,"12/12/2024","2014_8",0,0
+"Under 3s","Private","Orchard Park Children's Nursery Newton Mearns","Glasgow","East Renfrewshire","Children","16/08/2023",3,3,3,3,"06/07/2023","2014_10",0,0
 "Over 3s","Local Authority","Canmore Out of School Club","Dunfermline","Fife","Children","15/01/2024",4,5,4,4,"20/11/2023","2015_5",0,0
 "Under 3s","Voluntary or Not for Profit","PEACE Childcare Mobile Creche","Kilmarnock","East Ayrshire","Children","25/09/2020",2,3,2,2,"17/07/2019","2014_11",0,0
 "Under 3s","Private","Wee Gems Corstorphine Ltd","Edinburgh","City of Edinburgh","Children","24/09/2024",4,5,5,4,"23/08/2024","2014_12",0,0
 "Over 3s","Private","Leaps and Bounds Activities (LBA) Limited - Clermiston","Edinburgh","City of Edinburgh","Children","19/04/2017",4,4,4,4,"30/03/2017","2014_12",0,0
-"Over 3s","Private","LBA After School & Breakfast Club - Craigmount","Edinburgh","City of Edinburgh","Children","08/12/2016",4,4,4,4,"10/11/2016","2014_9",0,0
+"Over 3s","Private","LBA After School & Breakfast Club - Craigmount","Edinburgh","City of Edinburgh","Children","16/01/2025",4,5,4,5,"06/12/2024","2014_9",0,0
 "Under 3s","Private","Little Farmer Childcare","Anstruther","Fife","Children","01/02/2024",5,5,4,4,"25/01/2024","2014_9",0,0
 "Over 3s","Local Authority","St John Ogilvie Early Years Class","Irvine","North Ayrshire","Children","26/09/2019",5,5,4,5,"11/06/2019","2014_8",0,0
 "Over 3s","Private","School's Out Peebles","Peebles","Scottish Borders","Children","29/11/2022",4,4,4,4,"25/10/2022","2015_4",0,0
@@ -2628,7 +2625,7 @@
 "Under 3s","Private","The Croft Nurseries Ltd - Chapelton","Stonehaven","Aberdeenshire","Children","02/11/2023",4,4,4,4,"05/10/2023","2015_11",0,0
 "Under 3s","Private","Little Wonders Nursery","Glasgow","Glasgow City","Children","11/05/2022",4,4,4,4,"29/03/2022","2015_8",0,0
 "Over 3s","Voluntary or Not for Profit","Heriot Country Kids","Heriot","Scottish Borders","Children","01/05/2024",4,4,4,4,"18/04/2024","2015_8",0,0
-"Under 3s","Private","East Beach Nursery","Lossiemouth","Moray","Children","09/11/2018",5,4,5,5,"03/10/2024","2015_6",0,0
+"Under 3s","Private","East Beach Nursery","Lossiemouth","Moray","Children","10/01/2025",3,4,4,4,"03/10/2024","2015_6",0,0
 "Over 3s","Private","KLAS Care","Paisley","Renfrewshire","Children","25/10/2018",5,4,4,4,"26/09/2018","2015_3",0,0
 "Over 3s","Private","Broomhill Out of School Club","Aberdeen","Aberdeen City","Children","18/04/2024",4,5,5,4,"22/03/2024","2015_6",0,0
 "Over 3s","Private","Bishopton After Care Service","Bishopton","Renfrewshire","Children","13/10/2017",4,4,4,4,"01/09/2017","2015_6",0,0
@@ -2656,7 +2653,7 @@
 "Under 3s","Private","Paddingtons Nursery","Perth","Perth & Kinross","Children","21/08/2024",4,4,4,4,"17/07/2024","2015_7",0,0
 "Under 3s","Private","Grasshoppers Children's Nursery","Kilmarnock","East Ayrshire","Children","03/12/2024",4,4,4,4,"30/10/2024","2016_1",0,0
 "Under 3s","Private","Thrive Teviot House Nursery","Edinburgh","City of Edinburgh","Children","10/06/2024",4,3,3,4,"10/05/2024","2015_5",0,0
-"Under 3s","Private","Thrive Childcare and Education Corner House Nurseries Gillsland","Edinburgh","City of Edinburgh","Children","19/01/2024",3,3,3,3,"22/11/2024","2015_5",0,0
+"Under 3s","Private","Thrive Childcare and Education Corner House Nurseries Gillsland","Edinburgh","City of Edinburgh","Children","03/01/2025",3,3,4,4,"22/11/2024","2015_5",0,0
 "Under 3s","Private","Cradlehall Nursery","Inverness","Highland","Children","27/06/2024",4,4,3,3,"06/05/2024","2015_7",1,0
 "Over 3s","Private","Woodland Outdoor Kindergartens - West End","Glasgow","Glasgow City","Children","16/05/2023",5,5,5,5,"21/04/2023","2015_8",1,0
 "Over 3s","Private","Granward After School Club","Edinburgh","City of Edinburgh","Children","10/01/2020",4,5,4,5,"11/10/2019","2015_5",0,0
@@ -2667,11 +2664,10 @@
 "Under 3s","Private","Glenbervie Kindergarden Carrongrove","Falkirk","Falkirk","Children","16/02/2023",5,4,4,4,"23/11/2022","2015_10",0,0
 "Over 3s","Private","GX Club Larbert Village","Larbert","Falkirk","Children","27/03/2024",5,5,5,5,"22/03/2024","2015_8",0,0
 "Over 3s","Voluntary or Not for Profit","Notre Dame Kids Club","Glasgow","Glasgow City","Children","17/01/2024",4,5,4,4,"15/12/2023","2015_8",0,0
-"Under 3s","Private","Little Flyers @ West Calder","West Calder","West Lothian","Children","09/04/2024",3,3,3,2,"07/03/2024","2015_9",1,0
+"Under 3s","Private","Little Flyers @ West Calder","West Calder","West Lothian","Children","13/01/2025",4,4,4,4,"09/12/2024","2015_9",1,0
 "Under 3s","Voluntary or Not for Profit","Evergreen Outdoor Nursery","Glasgow","Glasgow City","Children","24/05/2024",5,5,5,4,"12/04/2024","2015_11",1,0
 "Over 3s","Voluntary or Not for Profit","Kilbarchan Community Nursery","Johnstone","Renfrewshire","Children","09/12/2022",5,5,4,5,"14/10/2022","2016_6",0,0
 "Over 3s","Private","Kids Insight (Currie)","Currie","City of Edinburgh","Children","24/02/2020",5,5,5,5,"07/02/2020","2015_8",0,0
-"Over 3s","Private","Aberfoyle Out of School Club","Dundee","Dundee City","Children","16/04/2019",3,3,4,4,"07/03/2019","2016_1",0,0
 "Under 3s","Private","Marina View Nursery","Troon","South Ayrshire","Children","14/09/2023",4,4,4,4,"21/08/2023","2016_7",1,0
 "Under 3s","Private","ABC Private Nursery Limited","Livingston","West Lothian","Children","24/10/2024",4,4,4,4,"13/09/2024","2015_8",0,0
 "Under 3s","Voluntary or Not for Profit","The Indigo Childcare Group at Garrowhill Early Learning Centre","Glasgow","Glasgow City","Children","06/08/2018",5,6,5,5,"19/07/2018","2015_9",0,0
@@ -2738,7 +2734,7 @@
 "Over 3s","Private","Dunbar After-School Club","Dunbar","East Lothian","Children","28/01/2019",5,4,4,4,"29/11/2018","2016_6",0,0
 "Over 3s","Private","High Flyers","Cambuslang","South Lanarkshire","Children","21/12/2022",4,5,4,5,"25/11/2022","2016_6",1,0
 "Under 3s","Private","Bizzyberry Nursery","Biggar","South Lanarkshire","Children","10/01/2023",4,4,4,4,"01/12/2022","2016_8",0,0
-"Under 3s","Private","Flying Colours Nursery Barnton","Edinburgh","City of Edinburgh","Children","15/11/2019",5,4,4,4,"28/08/2019","2016_9",0,0
+"Under 3s","Private","Flying Colours Nursery, Cammo Meadows","Edinburgh","City of Edinburgh","Children","15/11/2019",5,4,4,4,"28/08/2019","2016_9",0,0
 "Over 3s","Private","Smart Cookies After School Club Broughton","Edinburgh","City of Edinburgh","Children","11/10/2018",4,4,4,4,"25/06/2018","2016_10",0,0
 "Over 3s","Voluntary or Not for Profit","LASC Childcare Services Ltd (Bilston)","Roslin","Midlothian","Children","08/10/2024",3,4,3,3,"13/09/2024","2016_8",0,0
 "Under 3s","Private","Green Tree Nursery","Inverness","Highland","Children","30/10/2024",3,3,3,3,"12/09/2024","2016_6",1,0
@@ -2758,7 +2754,7 @@
 "Over 3s","Private","Happy Little People","Glasgow","East Dunbartonshire","Children","28/06/2024",4,5,4,4,"17/05/2024","2016_9",0,0
 "Over 3s","Voluntary or Not for Profit","Mosstodloch Early Learning & Childcare","Fochabers","Moray","Children","13/07/2022",5,4,5,5,"23/05/2022","2016_8",0,0
 "Over 3s","Local Authority","Gore Glen Primary School Nursery","Gorebridge","Midlothian","Children","08/03/2018",5,5,4,5,"08/02/2018","2016_8",0,0
-"Over 3s","Private","Great Western Out of School Club @ Ashley Road School","Aberdeen","Aberdeen City","Children","12/06/2017",5,5,5,5,"27/04/2017","2016_9",0,0
+"Over 3s","Private","Great Western Out of School Club @ Ashley Road School","Aberdeen","Aberdeen City","Children","31/01/2025",5,5,5,5,"10/01/2025","2016_9",0,0
 "Over 3s","Local Authority","Newmilns Early Childhood Centre","Newmilns","East Ayrshire","Children","09/03/2018",4,4,4,5,"08/02/2018","2016_8",0,0
 "Over 3s","Voluntary or Not for Profit","Cheeky Monkeys","Hawick","Scottish Borders","Children","24/01/2023",5,5,5,5,"16/01/2023","2016_10",0,0
 "Over 3s","Voluntary or Not for Profit","Springfield Out of School Care Club (SCIO)","Linlithgow","West Lothian","Children","26/11/2019",4,4,4,4,"17/10/2019","2016_12",0,0
@@ -2812,7 +2808,7 @@
 "Under 3s","Private","Bright Horizons Bishopbriggs Early Learning and Childcare","Glasgow","East Dunbartonshire","Children","07/09/2023",3,4,3,3,"18/08/2023","2017_10",0,0
 "Under 3s","Private","Bright Horizons Renfrew Early Learning and Childcare","Renfrew","Renfrewshire","Children","08/11/2019",5,5,4,4,"19/09/2019","2017_10",0,0
 "Over 3s","Voluntary or Not for Profit","Burnbank Out of School Care","Hamilton","South Lanarkshire","Children","06/08/2018",5,5,5,5,"29/05/2018","2017_7",0,0
-"Under 3s","Voluntary or Not for Profit","Whitehill Neighbourhood Nursery","Hamilton","South Lanarkshire","Children","03/04/2023",4,4,4,4,"17/03/2023","2017_7",0,0
+"Under 3s","Voluntary or Not for Profit","Whitehill Neighbourhood Nursery","Hamilton","South Lanarkshire","Children","03/04/2023",4,4,4,4,"17/03/2023","2017_7",1,0
 "Under 3s","Voluntary or Not for Profit","Childcare in the Community Mobile Creche","Hamilton","South Lanarkshire","Children","08/01/2019",5,5,5,5,"28/11/2018","2017_7",0,0
 "Over 3s","Voluntary or Not for Profit","Whitehill Out of School Care","Hamilton","South Lanarkshire","Children","26/11/2018",5,5,5,5,"24/10/2018","2017_7",0,0
 "Over 3s","Local Authority","Orchard Brae Holiday Club","Aberdeen","Aberdeen City","Children","15/09/2022",5,5,5,5,"19/07/2022","2017_6",0,0
@@ -2823,21 +2819,21 @@
 "Under 3s","Local Authority","Whatriggs Early Childhood Centre","Kilmarnock","East Ayrshire","Children","07/09/2021",5,4,4,4,"28/07/2021","2017_9",1,0
 "Under 3s","Private","The Yellow Brick Road Early Years Centre","Kilbirnie","North Ayrshire","Children","25/06/2019",5,5,4,5,"16/05/2019","2017_7",0,0
 "Under 3s","Private","Tots Academy","Dundee","Dundee City","Children","15/01/2024",4,4,4,4,"29/11/2023","2018_1",0,0
-"Under 3s","Private","The Murrayfield Nursery","Edinburgh","City of Edinburgh","Children","11/04/2024",2,2,2,2,"04/03/2024","2017_9",3,0
+"Under 3s","Private","The Murrayfield Nursery","Edinburgh","City of Edinburgh","Children","15/01/2025",4,3,3,2,"21/11/2024","2017_9",3,0
 "Under 3s","Private","Cherry Tree (AMT) Ltd","Falkirk","Falkirk","Children","14/06/2024",3,4,4,4,"08/05/2024","2017_7",0,0
 "Under 3s","Private","Parkview Nursery","Glasgow","North Lanarkshire","Children","05/03/2024",5,5,5,5,"15/02/2024","2018_5",0,0
 "Over 3s","Local Authority","Renfrewshire PlayScheme","Paisley","Renfrewshire","Children","23/10/2018",5,5,5,5,"03/08/2018","2017_7",0,0
 "Under 3s","Private","Glenbervie Kindergarden Larbert","Larbert","Falkirk","Children","22/11/2023",5,4,5,4,"20/10/2023","2017_11",0,0
 "Over 3s","Private","GX Club Carrongrove","Falkirk","Falkirk","Children","20/11/2018",5,5,5,5,"02/11/2018","2017_10",0,0
 "Under 3s","Private","The Playbarn","Dornoch","Highland","Children","09/12/2021",5,4,4,4,"01/11/2021","2017_8",0,0
-"Under 3s","Local Authority","Newton Farm Primary School Nursery","Glasgow","South Lanarkshire","Children","29/06/2023",4,4,4,3,"20/11/2024","2017_8",0,0
+"Under 3s","Local Authority","Newton Farm Primary School Nursery","Glasgow","South Lanarkshire","Children","13/01/2025",4,4,4,4,"20/11/2024","2017_8",0,0
 "Over 3s","Private","Schools Out! Westhill","Westhill","Aberdeenshire","Children","19/03/2024",5,5,4,4,"22/02/2024","2017_8",1,0
 "Under 3s","Private","My Second Home","Glasgow","Glasgow City","Children","07/03/2024",5,4,5,4,"30/01/2024","2017_10",1,0
 "Over 3s","Voluntary or Not for Profit","International School of Aberdeen Out of School Club","Aberdeen","Aberdeen City","Children","04/02/2019",5,5,5,5,"18/12/2018","2017_8",0,0
 "Over 3s","Local Authority","Scourie Primary School Nursery","Lairg","Highland","Children","26/09/2018",5,5,5,5,"11/06/2018","2017_8",0,0
 "Over 3s","Local Authority","Aviemore Early Learning and Childcare Service","Aviemore","Highland","Children","24/06/2024",3,3,3,3,"09/05/2024","2017_8",0,0
 "Over 3s","Local Authority","Methlick Nursery","Ellon","Aberdeenshire","Children","22/01/2020",5,5,5,5,"29/11/2019","2017_8",0,0
-"Under 3s","Private","Little Clouds Nursery","Aberdeen","Aberdeen City","Children","18/12/2024",2,3,3,2,"07/11/2024","2017_10",0,0
+"Under 3s","Private","Little Clouds Nursery","Aberdeen","Aberdeen City","Children","18/12/2024",2,3,3,2,"07/11/2024","2017_10",1,0
 "Under 3s","Private","The Montessori Nursery School","Murrayfield, Edinburgh","City of Edinburgh","Children","18/01/2019",5,5,5,5,"19/11/2018","2017_12",0,0
 "Under 3s","Private","Kirktonholme @ Airdrie Childcare","Airdrie","North Lanarkshire","Children","28/11/2023",5,5,5,5,"09/11/2023","2017_10",0,0
 "Over 3s","Private","Bishopbriggs Out of School Care - St Helen's PS","Glasgow","East Dunbartonshire","Children","20/02/2023",4,5,4,5,"22/12/2022","2017_9",0,0
@@ -3000,7 +2996,6 @@
 "Under 3s","Voluntary or Not for Profit","Flexible Childcare Services - Dundee","Dundee","Dundee City","Children","11/06/2024",4,4,4,4,"15/05/2024","2019_12",2,0
 "Over 3s","Voluntary or Not for Profit","Flexible Childcare Services - Hillside Breakfast and Out of School Club","Portlethen","Aberdeenshire","Children","23/10/2023",4,4,4,4,"29/09/2023","2019_12",0,0
 "Under 3s","Voluntary or Not for Profit","Flexible Childcare Services - NESCOL","Fraserburgh","Aberdeenshire","Children","21/10/2024",4,4,4,4,"12/09/2024","2019_12",0,0
-"Over 3s","Voluntary or Not for Profit","Flexible Childcare Services - Turriff","Turriff","Aberdeenshire","Children",NA,NA,NA,NA,NA,NA,"2019_12",0,0
 "Over 3s","Voluntary or Not for Profit","Flexible Childcare Services (Aberdeenshire) - Huntly","Huntly","Aberdeenshire","Children",NA,NA,NA,NA,NA,NA,"2020_12",0,0
 "Over 3s","Voluntary or Not for Profit","Flexible Childcare Services (Aberdeenshire) - Banff","Banff","Aberdeenshire","Children","25/05/2022",5,5,4,5,"06/05/2022","2019_12",0,0
 "Over 3s","Voluntary or Not for Profit","Flexible Childcare Services (Aberdeenshire) - Fraserburgh","Fraserburgh","Aberdeenshire","Children","16/05/2022",5,5,5,5,"21/04/2022","2019_12",0,0
@@ -3132,7 +3127,7 @@
 "Under 3s","Private","Auchlone Nature Kindergarten","Crieff","Perth & Kinross","Children","06/06/2023",5,5,5,5,"25/04/2023","2021_8",0,0
 "Under 3s","Voluntary or Not for Profit","Stableroom Playgroup (SCIO)","Edinburgh","City of Edinburgh","Children","26/03/2024",4,5,4,5,"22/02/2024","2021_8",0,0
 "Over 3s","Private","Westend Adventure Kelvindale","Glasgow","Glasgow City","Children","20/09/2024",3,4,4,3,"08/08/2024","2021_8",1,0
-"Under 3s","Private","Daisy Chain Nursery School Perth LTD","Perth","Perth & Kinross","Children","15/06/2023",4,4,4,4,"26/05/2023","2021_8",0,0
+"Under 3s","Private","Daisy Chain Nursery School Perth LTD","Perth","Perth & Kinross","Children","24/01/2025",4,4,4,4,"03/12/2024","2021_8",0,0
 "Under 3s","Local Authority","Ladyton Early Education & Childcare Centre","Alexandria","West Dunbartonshire","Children","31/07/2023",5,6,5,5,"01/06/2023","2021_8",0,0
 "Over 3s","Private","FAB OSC LTD","Glasgow","South Lanarkshire","Children","21/08/2023",4,4,3,4,"14/06/2023","2021_8",0,0
 "Under 3s","Private","Hopefield Castle Nursery","Bonnyrigg","Midlothian","Children","12/11/2024",3,3,3,3,"15/10/2024","2021_8",0,0
@@ -3158,11 +3153,11 @@
 "Under 3s","Private","Friendship Rainbow","Portlethen","Aberdeenshire","Children","12/06/2023",4,5,4,4,"23/05/2023","2021_11",0,0
 "Under 3s","Private","Tiptoes Nursery Winchburgh","Winchburgh","West Lothian","Children","12/12/2024",4,5,4,4,"06/11/2024","2021_11",3,0
 "Under 3s","Local Authority","Woodlands Early Learning and Childcare Centre","Falkirk","Falkirk","Children","05/05/2023",5,5,5,5,"18/04/2023","2021_11",0,0
-"Under 3s","Private","Raising Little Ones","Edinburgh","City of Edinburgh","Children","03/08/2023",3,4,3,3,"05/06/2023","2021_11",0,0
+"Under 3s","Private","Raising Little Ones","Edinburgh","City of Edinburgh","Children","27/01/2025",4,5,4,4,"08/01/2025","2021_11",0,0
 "Under 3s","Private","Banana Moon Day Nursery Aberdeen International","Dyce","Aberdeen City","Children","22/09/2023",4,4,4,4,"13/09/2023","2021_11",0,0
 "Under 3s","Private","Blossom Tree Children's Nursery Limited","Edinburgh","City of Edinburgh","Children","13/06/2024",4,4,4,4,"22/05/2024","2021_12",0,0
 "Over 3s","Private","CK Childcare","Bishopton","Renfrewshire","Children","07/06/2023",5,4,4,5,"04/05/2023","2021_12",0,0
-"Over 3s","Private","Willow Den at Spartans","Edinburgh","City of Edinburgh","Children","05/07/2023",5,5,5,5,"28/11/2024","2021_12",0,0
+"Over 3s","Private","Willow Den at Spartans","Edinburgh","City of Edinburgh","Children","06/01/2025",4,4,4,4,"28/11/2024","2021_12",0,0
 "Under 3s","Private","Carli's Kindergarten Ltd","Paisley","Renfrewshire","Children","19/05/2023",4,4,4,4,"09/03/2023","2021_3",0,0
 "Under 3s","Voluntary or Not for Profit","Flexible Childcare Services Scotland (Tillydrone)","Aberdeen","Aberdeen City","Children","19/08/2024",5,4,5,4,"01/08/2024","2022_1",1,0
 "Under 3s","Voluntary or Not for Profit","Renfrewshire Women's Aid SCIO","Paisley","Renfrewshire","Children",NA,NA,NA,NA,NA,NA,"2022_1",0,0
@@ -3172,7 +3167,7 @@
 "Over 3s","Private","ACE Place OSC - Riverside","Carluke","South Lanarkshire","Children","05/06/2023",5,5,5,5,"09/05/2023","2022_2",0,0
 "Over 3s","Private","Lilybank Private Nursery","Hamilton","South Lanarkshire","Children","19/05/2023",4,4,4,4,"21/04/2023","2022_2",0,0
 "Over 3s","Private","Courtney @ FAST Coatbridge","Coatbridge","North Lanarkshire","Children","11/12/2024",4,4,4,4,"07/11/2024","2022_2",0,0
-"Over 3s","Local Authority","Sgoil-araich Ghlinn Urchadain/ Glenurquhart Primary Gaelic Nursery","Inverness","Highland","Children",NA,NA,NA,NA,NA,NA,"2022_2",0,0
+"Over 3s","Local Authority","Sgoil-araich Ghlinn Urchadain/ Glenurquhart Primary Gaelic Nursery","Inverness","Highland","Children","24/01/2025",4,5,3,4,"12/12/2024","2022_2",0,0
 "Under 3s","Local Authority","Victoria Primary Early Learning and Childcare","Edinburgh","City of Edinburgh","Children","22/12/2023",4,4,4,4,"16/11/2023","2022_2",0,0
 "Under 3s","Private","Vital Sparks Nursery","Peterhead","Aberdeenshire","Children","03/07/2023",5,5,4,4,"29/05/2023","2022_2",0,0
 "Over 3s","Local Authority","Hazlehead Park Outdoor Nursery","Aberdeen","Aberdeen City","Children","27/09/2023",5,5,5,5,"05/09/2023","2022_2",0,0
@@ -3198,26 +3193,26 @@
 "Over 3s","Voluntary or Not for Profit","CALA Ardross ELC","Alness","Highland","Children","28/05/2024",3,4,3,3,"26/04/2024","2022_8",0,0
 "Under 3s","Voluntary or Not for Profit","CALA Fortrose ELC","Fortrose","Highland","Children",NA,NA,NA,NA,NA,NA,"2022_8",0,0
 "Over 3s","Local Authority","Kirkcaldy North Out of School Club","Kirkcaldy","Fife","Children",NA,NA,NA,NA,NA,NA,"2022_8",0,0
-"Over 3s","Local Authority","Ness Castle Nursery","Inverness","Highland","Children",NA,NA,NA,NA,NA,NA,"2022_8",0,0
+"Over 3s","Local Authority","Ness Castle Nursery","Inverness","Highland","Children","21/01/2025",2,2,2,2,"06/12/2024","2022_8",0,0
 "Over 3s","Private","After the Bell OSC","Glasgow","Glasgow City","Children","28/05/2024",5,5,4,5,"21/05/2024","2022_8",0,0
 "Under 3s","Local Authority","Saoghal Beag Sgoil raich Uibhist a' Tuath","Isle Of North Uist","Na h-Eileanan Siar","Children","10/05/2024",4,5,5,5,"01/05/2024","2022_8",0,0
-"Under 3s","Local Authority","Canaan Lane Primary Early Learning and Childcare","Edinburgh","City of Edinburgh","Children",NA,NA,NA,NA,NA,NA,"2022_8",0,0
+"Under 3s","Local Authority","Canaan Lane Primary Early Learning and Childcare","Edinburgh","City of Edinburgh","Children",NA,NA,NA,NA,NA,"10/01/2025","2022_8",0,0
 "Over 3s","Private","Big Voices @ Garnetbank OOSC","Glasgow","Glasgow City","Children","30/05/2024",5,5,4,4,"24/04/2024","2022_8",0,0
 "Over 3s","Private","Big Voices @ Anderston OOSC","Glasgow","Glasgow City","Children",NA,NA,NA,NA,NA,NA,"2022_8",0,0
 "Under 3s","Local Authority","Nether Currie Primary Early Learning and Childcare","Currie","City of Edinburgh","Children","23/04/2024",3,3,4,3,"08/03/2024","2022_8",0,0
 "Over 3s","Local Authority","Brodick Primary Early Years Class","Isle Of Arran","North Ayrshire","Children","04/12/2023",5,5,5,5,"07/11/2023","2022_8",0,0
-"Over 3s","Local Authority","St Mark's Primary Nursery Class","Hamilton","South Lanarkshire","Children",NA,NA,NA,NA,NA,NA,"2022_8",0,0
+"Over 3s","Local Authority","St Mark's Primary Nursery Class","Hamilton","South Lanarkshire","Children","28/01/2025",5,5,5,5,"08/01/2025","2022_8",0,0
 "Under 3s","Private","Big Voices Mobile Creche","Glasgow","Glasgow City","Children",NA,NA,NA,NA,NA,NA,"2022_8",0,0
 "Under 3s","Private","Forest Foxes Kindergarten","Edinburgh","City of Edinburgh","Children",NA,NA,NA,NA,NA,NA,"2022_9",0,0
 "Under 3s","Voluntary or Not for Profit","Harper House Childcare Centre","Saltcoats","North Ayrshire","Children","22/11/2023",4,4,4,4,"26/10/2023","2022_9",0,0
-"Over 3s","Private","Woodland Play Ltd","Glasgow","East Renfrewshire","Children",NA,NA,NA,NA,NA,NA,"2022_10",0,0
+"Over 3s","Private","Woodland Play Ltd","Glasgow","East Renfrewshire","Children","13/01/2025",4,5,5,4,"21/11/2024","2022_10",0,0
 "Over 3s","Voluntary or Not for Profit","CALA Croy School Aged Childcare","Inverness","Highland","Children","18/09/2024",4,5,3,4,"26/08/2024","2022_10",0,0
 "Under 3s","Local Authority","Hopefield Nursery Class","Blackburn","West Lothian","Children","05/10/2023",4,4,4,4,"08/09/2023","2022_10",0,0
 "Under 3s","Private","Little Acorns Pre-school Learning Centre","Dumfries","Dumfries & Galloway","Children",NA,NA,NA,NA,NA,NA,"2022_10",0,0
-"Over 3s","Private","Applebays Afterschool Liff Ltd","Dundee","Angus","Children",NA,NA,NA,NA,NA,NA,"2022_10",0,0
+"Over 3s","Private","Applebays Afterschool Liff Ltd","Dundee","Perth & Kinross","Children",NA,NA,NA,NA,NA,NA,"2022_10",0,0
 "Under 3s","Private","J-LOs EarlyYears","Fraserburgh","Aberdeenshire","Children","21/08/2024",5,5,5,5,"14/08/2024","2022_10",0,0
 "Over 3s","Private","Skoolz Out Hillington","Glasgow","Glasgow City","Children","12/07/2024",5,5,5,4,"21/06/2024","2022_12",0,0
-"Under 3s","Local Authority","Tots & Teens @ Knox Academy","Haddington","East Lothian","Children","21/08/2024",4,5,4,5,"28/06/2024","2022_12",0,0
+"Under 3s","Local Authority","Knox Early Learning and Childcare EL&CC","Haddington","East Lothian","Children","21/08/2024",4,5,4,5,"28/06/2024","2022_12",0,0
 "Over 3s","Local Authority","Castlehill Out of School Club","Cupar","Fife","Children","28/10/2024",4,4,4,4,"01/10/2024","2022_12",0,0
 "Over 3s","Private","Making Memories Childcare Ltd (Out Of School Care)","Paisley","Renfrewshire","Children","16/12/2024",5,4,3,4,"20/11/2024","2022_12",0,0
 "Under 3s","Private","Copper Pots Day Nursery","Aberdeen","Aberdeen City","Children","29/05/2024",4,4,3,3,"25/04/2024","2023_1",0,0
@@ -3229,7 +3224,7 @@
 "Over 3s","Private","GillzlittleGemz Childcare","Alexandria","West Dunbartonshire","Children",NA,NA,NA,NA,NA,NA,"2023_1",0,0
 "Under 3s","Private","Ivy In The Park","Glasgow","Glasgow City","Children","03/06/2024",4,4,4,4,"22/05/2024","2023_1",0,0
 "Over 3s","Private","Spring OSCARS @ Canaan Lane","Edinburgh","City of Edinburgh","Children","27/08/2024",3,3,3,3,"13/06/2024","2023_1",3,0
-"Under 3s","Local Authority","Garelochhead Primary Early Learning and Childcare","Helensburgh","Argyll & Bute","Children",NA,NA,NA,NA,NA,"27/11/2024","2023_1",0,0
+"Under 3s","Local Authority","Garelochhead Primary Early Learning and Childcare","Helensburgh","Argyll & Bute","Children","08/01/2025",4,4,3,3,"27/11/2024","2023_1",0,0
 "Over 3s","Private","TTA Out of School Care Ltd","Airdrie","North Lanarkshire","Children",NA,NA,NA,NA,NA,NA,"2023_1",0,0
 "Under 3s","Private","Camperdown Nursery","Prestonpans","East Lothian","Children",NA,NA,NA,NA,NA,NA,"2023_2",0,0
 "Under 3s","Private","Western Isles Wedding & Event Kids Zone.","Isle Of Lewis","Na h-Eileanan Siar","Children",NA,NA,NA,NA,NA,NA,"2023_2",0,0
@@ -3276,7 +3271,7 @@
 "Under 3s","Private","Granny Smiths Day Nursery","Troon","South Ayrshire","Children","24/10/2024",5,5,4,4,"19/09/2024","2023_10",0,0
 "Over 3s","Voluntary or Not for Profit","Edinburgh Holiday Hub","Edinburgh","City of Edinburgh","Children",NA,NA,NA,NA,NA,NA,"2023_10",0,0
 "Over 3s","Private","Killearn Kids Hub","Glasgow","Stirling","Children",NA,NA,NA,NA,NA,NA,"2023_10",0,0
-"Over 3s","Private","Inchture Wraparound Childcare","Perth","Perth & Kinross","Children",NA,NA,NA,NA,NA,NA,"2023_10",0,0
+"Over 3s","Private","Inchture Wraparound Childcare","Perth","Perth & Kinross","Children","28/01/2025",4,4,4,4,"21/01/2025","2023_10",0,0
 "Over 3s","Local Authority","Christie Park PS ELCC","Alexandria","West Dunbartonshire","Children",NA,NA,NA,NA,NA,NA,"2023_10",0,0
 "Over 3s","Local Authority","Selkirk OOSC","Selkirk","Scottish Borders","Children","06/11/2024",5,5,4,5,"16/10/2024","2023_10",0,0
 "Over 3s","Private","Cardonald Afterschool Care","Glasgow","Glasgow City","Children",NA,NA,NA,NA,NA,NA,"2023_10",0,0
@@ -3316,7 +3311,7 @@
 "Under 3s","Private","The High Street Nursery - Lauder","Lauder","Scottish Borders","Children",NA,NA,NA,NA,NA,NA,"2024_5",0,0
 "Over 3s","Private","The Club@Kintore","Inverurie","Aberdeenshire","Children","11/12/2024",4,4,3,4,"06/11/2024","2024_6",0,0
 "Over 3s","Private","After 3 Osc","Glasgow","Glasgow City","Children",NA,NA,NA,NA,NA,NA,"2024_6",0,0
-"Over 3s","Private","Kilgraston Preschool","Perth","Perth & Kinross","Children",NA,NA,NA,NA,NA,NA,"2024_6",0,0
+"Over 3s","Private","Kilgraston Preschool","Perth","Perth & Kinross","Children",NA,NA,NA,NA,NA,NA,"2024_6",0,1
 "Under 3s","Private","Ivy Kindergarten @ The Meadows","Edinburgh","City of Edinburgh","Children",NA,NA,NA,NA,NA,NA,"2024_6",0,0
 "Under 3s","Private","Kidsize Kingswells Playgroup","Aberdeen","Aberdeen City","Children",NA,NA,NA,NA,NA,NA,"2024_6",0,0
 "Over 3s","Local Authority","Abbey View Early Learning and Childcare Centre","Arbroath","Angus","Children",NA,NA,NA,NA,NA,NA,"2024_6",0,0
@@ -3325,7 +3320,6 @@
 "Over 3s","Private","Kidzworld Out of School Club Stirling","Stirling","Stirling","Children",NA,NA,NA,NA,NA,NA,"2024_7",0,0
 "Under 3s","Private","Puddleduck Nursery","Dunkeld","Perth & Kinross","Children",NA,NA,NA,NA,NA,NA,"2024_7",0,0
 "Over 3s","Private","Kids Academy OOSC Auchterellon","Ellon","Aberdeenshire","Children",NA,NA,NA,NA,NA,NA,"2024_7",0,0
-"Over 3s","Private","The Club@Ellon","Ellon","Aberdeenshire","Children",NA,NA,NA,NA,NA,NA,"2024_7",0,0
 "Under 3s","Private","Beech House Nursery","Aberdeen","Aberdeen City","Children",NA,NA,NA,NA,NA,NA,"2024_7",0,0
 "Over 3s","Voluntary or Not for Profit","Capability Scotland Holiday Hub","Edinburgh","City of Edinburgh","Children",NA,NA,NA,NA,NA,NA,"2024_7",0,0
 "Over 3s","Private","Smart Kids Out of School Care Ltd","Airdrie","North Lanarkshire","Children",NA,NA,NA,NA,NA,NA,"2024_7",0,0
@@ -3370,3 +3364,6 @@
 "Over 3s","Voluntary or Not for Profit","Gore Glen After School Care","Gorebridge","Midlothian","Children",NA,NA,NA,NA,NA,NA,"2024_12",0,0
 "Under 3s","Private","EPIC Education Early Learning Centre CIC","Glasgow","South Lanarkshire","Children",NA,NA,NA,NA,NA,NA,"2024_12",0,0
 "Over 3s","Private","Step By Step Out of School Care (Baird Memorial)","Glasgow","North Lanarkshire","Children",NA,NA,NA,NA,NA,NA,"2024_12",0,0
+"Under 3s","Private","Hame Fae Hame","Shetland","Shetland Islands","Children",NA,NA,NA,NA,NA,NA,"2025_1",0,0
+"Under 3s","Private","Little Hands Nursery (Condorrat) Limited","Glasgow","North Lanarkshire","Children",NA,NA,NA,NA,NA,NA,"2025_1",0,0
+"Under 3s","Local Authority","Maybury Primary Early Learning and Childcare","Edinburgh","City of Edinburgh","Children",NA,NA,NA,NA,NA,NA,"2025_1",0,0

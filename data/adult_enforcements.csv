@@ -1,6 +1,6 @@
 "Council","2021/22","2022/23","2023/24","2024/25","Services"
 "Aberdeen City",0,0,1,3,50
-"Aberdeenshire",0,2,1,1,58
+"Aberdeenshire",0,2,1,1,59
 "Angus",0,1,0,0,28
 "Argyll & Bute",0,0,0,0,17
 "City of Edinburgh",0,0,0,0,76
@@ -11,22 +11,22 @@
 "East Dunbartonshire",0,0,0,0,19
 "East Lothian",0,1,0,0,17
 "East Renfrewshire",1,0,1,0,13
-"Falkirk",0,0,0,0,31
+"Falkirk",0,0,0,0,30
 "Fife",3,4,2,1,78
-"Glasgow City",3,0,1,0,94
+"Glasgow City",3,0,1,0,95
 "Highland",1,0,1,2,61
 "Inverclyde",0,0,0,0,18
-"Midlothian",1,0,0,0,12
+"Midlothian",1,0,0,0,11
 "Moray",0,1,0,0,15
 "Na h-Eileanan Siar",0,0,0,0,9
 "North Ayrshire",1,0,0,0,23
-"North Lanarkshire",1,0,1,0,29
+"North Lanarkshire",1,0,1,0,28
 "Orkney Islands",0,0,0,0,5
 "Perth & Kinross",1,1,1,1,42
 "Renfrewshire",1,1,0,0,26
 "Scottish Borders",0,0,0,0,26
 "Shetland Islands",0,0,0,0,10
-"South Ayrshire",1,0,1,0,34
+"South Ayrshire",1,0,1,1,34
 "South Lanarkshire",1,1,0,0,54
 "Stirling",0,0,2,0,22
 "West Dunbartonshire",0,0,0,0,11

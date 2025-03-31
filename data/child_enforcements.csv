@@ -1,33 +1,33 @@
 "Council","2021/22","2022/23","2023/24","2024/25","Services"
-"Aberdeen City",4,4,1,0,250
-"Aberdeenshire",6,7,9,6,406
+"Aberdeen City",4,4,1,2,250
+"Aberdeenshire",6,7,9,0,401
 "Angus",4,2,3,0,167
 "Argyll & Bute",2,1,3,0,136
-"City of Edinburgh",8,5,11,5,526
-"Clackmannanshire",1,2,1,0,53
-"Dumfries & Galloway",1,3,1,0,154
-"Dundee City",1,4,5,1,147
+"City of Edinburgh",8,5,11,2,520
+"Clackmannanshire",1,2,1,0,54
+"Dumfries & Galloway",1,3,1,1,156
+"Dundee City",1,4,5,1,148
 "East Ayrshire",1,0,1,0,159
-"East Dunbartonshire",0,2,4,0,150
-"East Lothian",2,5,4,0,157
-"East Renfrewshire",0,0,3,0,146
-"Falkirk",1,2,2,0,211
-"Fife",2,1,5,1,456
-"Glasgow City",10,19,21,0,446
-"Highland",1,3,5,0,356
-"Inverclyde",1,2,1,0,67
-"Midlothian",1,2,4,0,133
-"Moray",1,1,2,0,157
+"East Dunbartonshire",0,2,4,0,151
+"East Lothian",2,5,4,0,156
+"East Renfrewshire",0,0,3,0,147
+"Falkirk",1,2,2,0,209
+"Fife",2,1,5,1,453
+"Glasgow City",10,19,21,0,447
+"Highland",1,3,5,0,352
+"Inverclyde",1,2,1,0,68
+"Midlothian",1,2,4,0,134
+"Moray",1,1,2,0,154
 "Na h-Eileanan Siar",0,0,0,0,30
-"North Ayrshire",3,3,7,0,177
-"North Lanarkshire",1,5,7,1,358
-"Orkney Islands",0,0,0,0,40
-"Perth & Kinross",6,2,1,1,199
-"Renfrewshire",4,11,6,0,155
+"North Ayrshire",3,3,7,0,176
+"North Lanarkshire",1,5,7,1,356
+"Orkney Islands",0,0,0,0,39
+"Perth & Kinross",6,2,1,2,198
+"Renfrewshire",4,11,6,0,154
 "Scottish Borders",0,0,3,1,143
-"Shetland Islands",0,0,0,0,30
-"South Ayrshire",2,0,2,0,112
-"South Lanarkshire",3,7,8,0,345
+"Shetland Islands",0,0,0,0,31
+"South Ayrshire",2,0,2,0,111
+"South Lanarkshire",3,7,8,1,344
 "Stirling",2,1,2,0,128
 "West Dunbartonshire",1,1,1,0,71
 "West Lothian",2,9,10,3,267

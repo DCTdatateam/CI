@@ -1,19 +1,23 @@
 "Council_Area_Name","Care Home Service","Child Minding","Day Care of Children","Housing Support Service","Nurse Agency","Support Service","Month total"
-"Aberdeenshire",1,2,0,0,0,0,3
-"Glasgow City",1,0,0,1,0,1,3
-"Highland",1,0,0,0,0,1,2
-"Argyll & Bute",0,2,0,0,0,0,2
-"City of Edinburgh",0,1,1,1,0,0,3
-"Dundee City",0,1,0,0,0,0,1
-"East Ayrshire",0,1,0,0,0,0,1
-"East Lothian",0,1,0,0,0,0,1
-"Fife",0,1,0,0,0,0,1
-"Moray",0,1,0,0,0,0,1
-"North Lanarkshire",0,2,1,1,0,1,5
-"South Ayrshire",0,1,0,0,0,0,1
-"West Dunbartonshire",0,1,0,0,0,0,1
-"Shetland Islands",0,0,1,0,0,0,1
-"Aberdeen City",0,0,0,2,0,3,5
-"East Dunbartonshire",0,0,0,1,0,0,1
-"South Lanarkshire",0,0,0,1,0,1,2
-"outside Scotland",0,0,0,0,1,0,1
+"Aberdeen City",1,1,0,3,0,3,8
+"East Lothian",1,1,0,0,0,0,2
+"South Ayrshire",1,0,0,1,0,2,4
+"Aberdeenshire",0,1,0,0,0,0,1
+"City of Edinburgh",0,1,0,0,0,1,2
+"Dumfries & Galloway",0,2,0,1,0,1,4
+"East Renfrewshire",0,1,0,0,0,0,1
+"Falkirk",0,1,0,0,0,0,1
+"Glasgow City",0,3,0,2,1,2,8
+"Inverclyde",0,1,0,0,0,0,1
+"Shetland Islands",0,1,0,0,0,0,1
+"Stirling",0,1,0,0,0,1,2
+"Clackmannanshire",0,0,1,1,0,2,4
+"Dundee City",0,0,1,1,0,2,4
+"Midlothian",0,0,1,0,0,0,1
+"East Ayrshire",0,0,0,1,0,0,1
+"East Dunbartonshire",0,0,0,1,0,1,2
+"Renfrewshire",0,0,0,1,0,0,1
+"West Dunbartonshire",0,0,0,1,0,0,1
+"Angus",0,0,0,0,0,1,1
+"Argyll & Bute",0,0,0,0,0,1,1
+"North Lanarkshire",0,0,0,0,0,1,1

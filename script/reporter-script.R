@@ -45,6 +45,7 @@ if (!"Subtype" %in% colnames(df)) {
 care_homes <- df %>%
   filter(CareService == 'Care Home Service') %>% 
   filter(Subtype == "Older People") %>% 
+  filter(!is.na(Publication_of_Latest_Grading)) %>% 
   select(-c(CareService, GradeSpread, ServiceStatus, KQ_Care_Play_and_Learning)) %>% 
   rowwise() %>%
   mutate(`Average` = mean(c_across(starts_with("KQ")), na.rm = TRUE)) %>% 

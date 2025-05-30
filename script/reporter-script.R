@@ -14,7 +14,7 @@ columns_keep <- c("CareService", "Subtype", "ServiceType", "ServiceName",
                   "KQ_Staff_Team", "KQ_Leadership", "KQ_Care_Play_and_Learning",
                   "Complaints_upheld_2324", "Complaints_upheld_2425", "Complaints_upheld_2526",
                   "Enforcements_issued_2324", "Enforcements_issued_2425", "Enforcements_issued_2526",
-                  "any_requirements_2324", "any_requirements_2425", "any_requirements_2526"
+                  "any_requirements_2324", "any_requirements_2425", "any_requirements_2526",
                   "Last_inspection_Date", "ServiceStatus")
 
 update <- update %>% 

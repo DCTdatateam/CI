@@ -1,33 +1,33 @@
-"Council","2021/22","2022/23","2023/24","2024/25","Services"
-"Aberdeen City",6,12,12,13,49
-"Aberdeenshire",3,7,10,9,59
-"Angus",16,14,12,17,28
-"Argyll & Bute",3,1,2,4,17
-"City of Edinburgh",10,14,16,17,76
-"Clackmannanshire",2,3,3,4,9
-"Dumfries & Galloway",5,5,6,8,31
-"Dundee City",8,14,11,17,27
-"East Ayrshire",0,10,9,5,23
-"East Dunbartonshire",3,6,5,5,19
-"East Lothian",6,7,8,5,18
-"East Renfrewshire",3,1,2,5,13
-"Falkirk",11,4,11,15,30
-"Fife",19,22,29,36,79
-"Glasgow City",20,25,31,30,95
-"Highland",7,7,2,22,61
-"Inverclyde",3,3,2,7,17
-"Midlothian",3,5,7,4,11
-"Moray",2,7,5,4,15
-"Na h-Eileanan Siar",0,0,0,0,9
-"North Ayrshire",9,8,5,8,23
-"North Lanarkshire",14,11,16,16,28
-"Orkney Islands",0,0,0,0,5
-"Perth & Kinross",10,11,25,21,42
-"Renfrewshire",5,9,13,10,26
-"Scottish Borders",1,7,5,6,26
-"Shetland Islands",0,0,2,0,10
-"South Ayrshire",2,9,14,9,34
-"South Lanarkshire",30,16,18,11,54
-"Stirling",1,6,5,3,22
-"West Dunbartonshire",3,7,4,6,11
-"West Lothian",14,9,8,4,31
+"Council","2021/22","2022/23","2023/24","2024/25","Services.x","2025/26","Services.y"
+"Aberdeen City",6,12,12,13,49,0,49
+"Aberdeenshire",3,7,10,9,59,2,59
+"Angus",16,14,12,17,28,1,28
+"Argyll & Bute",3,1,2,4,17,0,17
+"City of Edinburgh",10,14,16,17,76,1,75
+"Clackmannanshire",2,3,3,4,9,0,9
+"Dumfries & Galloway",5,5,6,8,31,1,31
+"Dundee City",8,14,11,17,27,1,27
+"East Ayrshire",0,10,9,5,23,1,23
+"East Dunbartonshire",3,6,5,5,19,0,19
+"East Lothian",6,7,8,5,18,2,18
+"East Renfrewshire",3,1,2,5,13,0,13
+"Falkirk",11,4,11,15,30,0,30
+"Fife",19,22,29,36,79,6,79
+"Glasgow City",20,25,31,30,95,2,94
+"Highland",7,7,2,22,61,2,60
+"Inverclyde",3,3,2,7,17,0,17
+"Midlothian",3,5,7,4,11,0,11
+"Moray",2,7,5,4,15,1,15
+"Na h-Eileanan Siar",0,0,0,0,9,0,9
+"North Ayrshire",9,8,5,8,23,0,23
+"North Lanarkshire",14,11,16,16,28,1,28
+"Orkney Islands",0,0,0,0,5,0,5
+"Perth & Kinross",10,11,25,21,42,3,42
+"Renfrewshire",5,9,13,10,26,1,26
+"Scottish Borders",1,7,5,6,26,1,26
+"Shetland Islands",0,0,2,0,10,0,10
+"South Ayrshire",2,9,14,9,34,0,34
+"South Lanarkshire",30,16,18,11,54,3,54
+"Stirling",1,6,5,3,22,0,22
+"West Dunbartonshire",3,7,4,6,11,1,11
+"West Lothian",14,9,8,4,31,0,31

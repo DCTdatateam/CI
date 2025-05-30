@@ -532,8 +532,8 @@ enforce_adult <- adultservs %>%
   summarise("2025/26" = sum(Enforcements_issued_2526)) %>%
   rename('Council'="Council_Area_Name")
 
-enforce_adult_past <- enforce_adult_past%>% 
-  select(-c("2025/26", "Services"))
+# enforce_adult_past <- enforce_adult_past%>% 
+#   select(-c("2025/26", "Services"))
 
 enforcements_adult <- enforce_adult_past %>% 
   left_join(enforce_adult, by = "Council") 
@@ -550,8 +550,8 @@ enforce_child <- childservs %>%
   summarise("2025/26" = sum(Enforcements_issued_2526)) %>%
   rename('Council'="Council_Area_Name")
 
-enforce_child_past <- enforce_child_past%>% 
-  select(-c("2025/26", "Services"))
+# enforce_child_past <- enforce_child_past%>% 
+#   select(-c("2025/26", "Services"))
 
 enforcements_child <- enforce_child_past %>% 
   left_join(enforce_child, by = "Council") 

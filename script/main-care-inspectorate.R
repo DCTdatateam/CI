@@ -491,8 +491,8 @@ comps_adult <- adultservs %>%
   summarise("2025/26" = sum(Complaints_upheld_2526)) %>%
   rename('Council'="Council_Area_Name")
 
-comps_adult_past <- comps_adult_past%>% 
-  select(-c("2025/26", "Services"))
+# comps_adult_past <- comps_adult_past%>% 
+#   select(-c("2025/26", "Services"))
 
 complaints_adult <- left_join(comps_adult_past, comps_adult, by = 'Council') 
 
@@ -508,8 +508,8 @@ comps_child <- childservs %>%
   summarise("2025/26" = sum(Complaints_upheld_2526)) %>%
   rename('Council'="Council_Area_Name")
 
-comps_child_past <- comps_child_past%>% 
-  select(-c("2025/26", "Services"))
+# comps_child_past <- comps_child_past%>% 
+#   select(-c("2025/26", "Services"))
 
 complaints_child <- left_join(comps_child_past, comps_child, by = 'Council') 
 

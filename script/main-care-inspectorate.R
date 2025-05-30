@@ -359,15 +359,15 @@ adult_placement <- care_tables %>%
 
 ## histogram sheets
 care_home_hist <- care_homes %>% 
-  select(-c(Town, Registered, Last_inspection_Date, 'Enforcements since 22/23')) %>% 
+  select(-c(Town, Registered, Last_inspection_Date, 'Enforcements since 23/24')) %>% 
   mutate('Total' = sum(c_across('Wellbeing support':'Leadership' ), na.rm = TRUE))
 
 day_care_hist <- day_care_of_children %>% 
-  select(-c(Town, Registered, Last_inspection_Date, 'Enforcements since 22/23', Clients)) %>% 
+  select(-c(Town, Registered, Last_inspection_Date, 'Enforcements since 23/24', Clients)) %>% 
   mutate('Total' = sum(c_across('Setting':'Care and play' ), na.rm = TRUE))
 
 childmind_hist <- child_minding %>% 
-  select(-c(Subtype, Town, Registered, Last_inspection_Date, 'Enforcements since 22/23', Clients)) %>% 
+  select(-c(Subtype, Town, Registered, Last_inspection_Date, 'Enforcements since 23/24', Clients)) %>% 
   mutate('Total' = sum(c_across('Setting':'Care and play' ), na.rm = TRUE))
 
 #export tables 

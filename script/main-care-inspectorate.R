@@ -279,14 +279,14 @@ columns_keep_table <- c("CareService", "Subtype", "ServiceType", "ServiceName",
                         "Publication_of_Latest_Grading","KQ_Support_Wellbeing", 
                         "KQ_Care_and_Support_Planning", "KQ_Setting", "KQ_Staff_Team",
                         "KQ_Leadership", "KQ_Care_Play_and_Learning", "Last_inspection_Date", "Date_Reg", 
-                        "Complaints upheld since 22/23", "Enforcements since 22/23")
+                        "Complaints upheld since 23/24", "Enforcements since 23/24")
 
 #These can be added if useful "MinGrade_change","Service_Postcode"
 
 care_tables <- all %>% 
   rowwise() %>%
-  mutate(`Complaints upheld since 22/23` = sum(c_across(starts_with("Complaints_upheld_")), na.rm = TRUE)) %>% 
-  mutate('Enforcements since 22/23' = sum(c_across(starts_with("Enforcements_issued_")), na.rm = TRUE)) %>% 
+  mutate(`Complaints upheld since 23/24` = sum(c_across(starts_with("Complaints_upheld_")), na.rm = TRUE)) %>% 
+  mutate('Enforcements since 23/24' = sum(c_across(starts_with("Enforcements_issued_")), na.rm = TRUE)) %>% 
   select(all_of(columns_keep_table)) %>%
   rename(Type = CareService,
          Provider = ServiceType,
@@ -485,14 +485,14 @@ child_totals <- childservs %>%
 
 comps_adult_past <- read_csv("data/adult_complaints.csv")
 comps_adult <- adultservs %>% 
-  mutate_at(vars("Complaints_upheld_2425"),
+  mutate_at(vars("Complaints_upheld_2526"),
             list(~ ifelse(is.na(.), 0, .))) %>% 
   group_by(Council_Area_Name) %>% 
-  summarise("2024/25" = sum(Complaints_upheld_2425)) %>%
+  summarise("2025/26" = sum(Complaints_upheld_2526)) %>%
   rename('Council'="Council_Area_Name")
 
 comps_adult_past <- comps_adult_past%>% 
-  select(-c("2024/25", "Services"))
+  select(-c("2025/26", "Services"))
 
 complaints_adult <- left_join(comps_adult_past, comps_adult, by = 'Council') 
 
@@ -502,14 +502,14 @@ complaints_adult <- left_join(complaints_adult, adult_totals, by='Council')
 ##child complaints
 comps_child_past <- read_csv("data/child_complaints.csv")
 comps_child <- childservs %>% 
-  mutate_at(vars("Complaints_upheld_2425"),
+  mutate_at(vars("Complaints_upheld_2526"),
             list(~ ifelse(is.na(.), 0, .))) %>% 
   group_by(Council_Area_Name) %>% 
-  summarise("2024/25" = sum(Complaints_upheld_2425)) %>%
+  summarise("2025/26" = sum(Complaints_upheld_2526)) %>%
   rename('Council'="Council_Area_Name")
 
 comps_child_past <- comps_child_past%>% 
-  select(-c("2024/25", "Services"))
+  select(-c("2025/26", "Services"))
 
 complaints_child <- left_join(comps_child_past, comps_child, by = 'Council') 
 
@@ -526,14 +526,14 @@ write.csv(complaints_child, "data/child_complaints.csv", row.names = FALSE)
 
 enforce_adult_past <- read_csv("data/adult_enforcements.csv")
 enforce_adult <- adultservs %>% 
-  mutate_at(vars("Enforcements_issued_2425"),
+  mutate_at(vars("Enforcements_issued_2526"),
             list(~ ifelse(is.na(.), 0, .))) %>% 
   group_by(Council_Area_Name) %>% 
-  summarise("2024/25" = sum(Enforcements_issued_2425)) %>%
+  summarise("2025/26" = sum(Enforcements_issued_2526)) %>%
   rename('Council'="Council_Area_Name")
 
 enforce_adult_past <- enforce_adult_past%>% 
-  select(-c("2024/25", "Services"))
+  select(-c("2025/26", "Services"))
 
 enforcements_adult <- enforce_adult_past %>% 
   left_join(enforce_adult, by = "Council") 
@@ -544,20 +544,20 @@ enforcements_adult <- left_join(enforcements_adult, adult_totals, by = 'Council'
 ##child enforcements
 enforce_child_past <- read_csv("data/child_enforcements.csv")
 enforce_child <- childservs %>% 
-  mutate_at(vars("Enforcements_issued_2425"),
+  mutate_at(vars("Enforcements_issued_2526"),
             list(~ ifelse(is.na(.), 0, .))) %>% 
   group_by(Council_Area_Name) %>% 
-  summarise("2024/25" = sum(Enforcements_issued_2425)) %>%
+  summarise("2025/26" = sum(Enforcements_issued_2526)) %>%
   rename('Council'="Council_Area_Name")
 
 enforce_child_past <- enforce_child_past%>% 
-  select(-c("2024/25", "Services"))
+  select(-c("2025/26", "Services"))
 
 enforcements_child <- enforce_child_past %>% 
   left_join(enforce_child, by = "Council") 
 
 enforcements_child <- left_join(enforcements_child, child_totals, by = 'Council')
-#uncomment
+
 write.csv(enforcements_adult, "data/adult_enforcements.csv", row.names = FALSE)
 write.csv(enforcements_child, "data/child_enforcements.csv", row.names = FALSE)
 

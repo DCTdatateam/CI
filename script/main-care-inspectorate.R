@@ -9,35 +9,35 @@ library(stringdist)
 all <- read_csv("data/MDSF_latest.csv")
 
 
-#check changes
+# #check changes
 
 x <- read_csv("data/CIfull.csv") #previous data
-y <- all # new data
+# y <- all # new data
 
-columns_equal <- setequal(names(x), names(y))
+# columns_equal <- setequal(names(x), names(y))
 
-columns_added <- setdiff(names(y), names(x))
-columns_dropped <- setdiff(names(x), names(y))
+# columns_added <- setdiff(names(y), names(x))
+# columns_dropped <- setdiff(names(x), names(y))
 
-added_empty <- identical(columns_added, character(0))
-dropped_empty <- identical(columns_dropped, character(0))
+# added_empty <- identical(columns_added, character(0))
+# dropped_empty <- identical(columns_dropped, character(0))
 
 
-if (dropped_empty == TRUE & added_empty == FALSE) {
-  message= paste("Column(s) added: ", list(columns_added))
-} else if (dropped_empty == FALSE & added_empty == TRUE) {
-  message= paste("Column(s) removed: ", list(columns_dropped))
-} else if (dropped_empty == FALSE & added_empty == FALSE) {
-  message= paste("Column(s) removed: ", list(columns_dropped),
-                 "Column(s) added: ", list(columns_added))
-} else {message <- NULL}
+# if (dropped_empty == TRUE & added_empty == FALSE) {
+#   message= paste("Column(s) added: ", list(columns_added))
+# } else if (dropped_empty == FALSE & added_empty == TRUE) {
+#   message= paste("Column(s) removed: ", list(columns_dropped))
+# } else if (dropped_empty == FALSE & added_empty == FALSE) {
+#   message= paste("Column(s) removed: ", list(columns_dropped),
+#                  "Column(s) added: ", list(columns_added))
+# } else {message <- NULL}
 
-column_compare <-
-  if(columns_equal == FALSE) {
-    message(paste("Warning: Column names changed, care inspectorate data affected.", message))
-  }else if(columns_equal == TRUE) {
-    print('Care inspectorate column names match')
-  }
+# column_compare <-
+#   if(columns_equal == FALSE) {
+#     message(paste("Warning: Column names changed, care inspectorate data affected.", message))
+#   }else if(columns_equal == TRUE) {
+#     print('Care inspectorate column names match')
+#   }
 
 all_prev <- x
 ##Fix variations in LA data 

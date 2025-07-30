@@ -4,8 +4,8 @@ NA,"Private","Tracey Dewar","Dundee","Dundee City","Children","28/08/2019",5,NA,
 NA,"Private","Dewar, Karen","Dundee","Dundee City","Children","03/04/2018",5,NA,5,5,"16/02/2018","2002_4",0,0
 NA,"Private","Gaughan, Sheila","Dundee","Dundee City","Children","26/03/2025",5,4,4,4,"26/02/2025","2002_4",0,0
 NA,"Private","McIntosh, Heather","Dundee","Dundee City","Children","25/05/2023",4,5,4,5,"16/05/2023","2002_4",0,0
-NA,"Private","McKenzie, Rhona","Dundee","Dundee City","Children","04/09/2024",4,4,3,3,"13/05/2025","2002_4",0,0
-NA,"Private","Malone, Linsey","Dundee","Dundee City","Children","13/03/2018",4,NA,4,4,"18/01/2018","2002_4",0,0
+NA,"Private","McKenzie, Rhona","Dundee","Dundee City","Children","03/06/2025",4,4,4,4,"13/05/2025","2002_4",0,0
+NA,"Private","Malone, Linsey","Dundee","Dundee City","Children","17/06/2025",4,4,3,3,"22/05/2025","2002_4",0,0
 NA,"Private","Thomas, Tracey","Dundee","Dundee City","Children","26/05/2025",5,5,5,4,"29/04/2025","2002_4",0,0
 NA,"Private","Ogilvie, Margo","Dundee","Dundee City","Children","13/09/2021",5,NA,4,5,"05/08/2021","2002_4",0,0
 NA,"Private","Thomson, Irena","Dundee","Dundee City","Children","15/01/2024",4,3,3,5,"30/11/2023","2002_4",0,0
@@ -13,7 +13,7 @@ NA,"Private","Wilson, Kay","Dundee","Dundee City","Children","03/08/2023",5,5,5,
 NA,"Private","Cormack, Anne","Aberdeen","Aberdeen City","Children","16/10/2018",4,NA,4,4,"27/08/2018","2002_4",0,0
 NA,"Private","Cowie, Joyce","Peterculter","Aberdeen City","Children","18/12/2019",5,NA,4,5,"11/11/2019","2002_4",0,0
 NA,"Private","Dalton, Linda","Aberdeen","Aberdeen City","Children","18/04/2024",5,4,5,4,"11/03/2024","2002_4",0,0
-NA,"Private","Ferguson, Karen","Aberdeen","Aberdeen City","Children","15/11/2016",5,NA,5,5,"07/11/2016","2002_4",0,0
+NA,"Private","Ferguson, Karen","Aberdeen","Aberdeen City","Children","15/11/2016",5,NA,5,5,"03/06/2025","2002_4",0,0
 NA,"Private","Forrest, Irene","Aberdeen","Aberdeen City","Children","01/11/2023",4,4,4,4,"10/10/2023","2002_4",0,0
 NA,"Private","Fraser, Marie","Aberdeen","Aberdeen City","Children","03/02/2020",5,NA,5,5,"27/11/2019","2002_4",0,0
 NA,"Private","Taylor, Freida","Aberdeen","Aberdeen City","Children","14/04/2025",4,4,4,4,"20/03/2025","2002_4",0,0
@@ -28,7 +28,7 @@ NA,"Private","Gordon, Richard & Margaret","Aberdeen","Aberdeen City","Children",
 NA,"Private","Bell, Harriet","Banchory","Aberdeenshire","Children","17/01/2023",5,4,4,5,"22/11/2022","2002_4",0,0
 NA,"Private","Carter, Jacqueline","Aberdeen","Aberdeenshire","Children","23/09/2022",5,5,4,5,"21/09/2022","2002_4",0,0
 NA,"Private","Clark, Helen","Stonehaven","Aberdeenshire","Children","19/10/2022",5,4,4,5,"05/09/2022","2002_4",0,0
-NA,"Private","Donaldson, Pauline","Montrose","Aberdeenshire","Children","30/04/2018",5,NA,4,5,"15/03/2018","2002_4",0,0
+NA,"Private","Donaldson, Pauline","Montrose","Aberdeenshire","Children","25/06/2025",4,4,4,5,"29/05/2025","2002_4",0,0
 NA,"Private","Doyle, Elaine","Stonehaven","Aberdeenshire","Children","10/02/2023",5,5,4,4,"13/01/2023","2002_4",0,0
 NA,"Private","Duncan, Doreen","Stonehaven","Aberdeenshire","Children","23/04/2024",4,4,4,4,"22/03/2024","2002_4",0,0
 NA,"Private","Ingram, Linda","Aberdeen","Aberdeenshire","Children","06/06/2024",4,4,3,3,"15/05/2024","2002_4",0,0
@@ -62,7 +62,7 @@ NA,"Private","Ness, Allison","Ellon","Aberdeenshire","Children","09/04/2018",4,N
 NA,"Private","Richmond, Beatrice","Inverurie","Aberdeenshire","Children","06/06/2024",4,4,3,4,"01/05/2024","2002_4",0,0
 NA,"Private","Ritchie, Moira","Inverurie","Aberdeenshire","Children","21/12/2023",5,5,5,5,"14/12/2023","2002_4",0,0
 NA,"Private","Stickle, Patricia","Ellon","Aberdeenshire","Children","26/02/2020",4,NA,4,4,"04/02/2020","2002_4",0,0
-NA,"Private","Anderson, Ann","Dundee","Angus","Children","09/12/2024",4,3,3,3,"24/10/2024","2002_4",0,0
+NA,"Private","Anderson, Ann","Dundee","Angus","Children","10/06/2025",4,4,4,4,"06/05/2025","2002_4",0,0
 NA,"Private","Barnes, Veronica","Kirriemuir","Angus","Children","26/05/2023",5,5,5,5,"13/04/2023","2002_4",0,0
 NA,"Private","Baxter, Diann","Forfar","Angus","Children","12/11/2024",4,4,4,4,"10/10/2024","2002_4",0,0
 NA,"Private","Beckett, Sandra","Carnoustie","Angus","Children","06/01/2025",4,3,4,4,"03/12/2024","2002_4",0,0
@@ -114,7 +114,6 @@ NA,"Private","Hamlin, Gillian","Kilmarnock","East Ayrshire","Children","12/12/20
 NA,"Private","Hunter, Suzanne","Cumnock","East Ayrshire","Children","01/05/2019",5,NA,5,5,"19/03/2019","2002_4",0,0
 NA,"Private","Myatt, Marion","Glasgow","East Dunbartonshire","Children","26/09/2024",5,5,5,5,"22/08/2024","2002_4",0,0
 NA,"Private","Muirhead, Elaine","Glasgow","East Dunbartonshire","Children","29/05/2025",5,5,5,5,"05/05/2025","2002_4",0,0
-NA,"Private","McLauchlan, Nannette","Glasgow","East Dunbartonshire","Children","08/01/2025",4,3,3,4,"18/12/2024","2002_4",0,0
 NA,"Private","O'Neill, Isabel","Glasgow","East Dunbartonshire","Children","28/05/2024",5,5,5,5,"01/05/2024","2002_4",0,0
 NA,"Private","Harper, Elizabeth","Glasgow","East Dunbartonshire","Children","25/11/2022",5,4,4,5,"02/11/2022","2002_4",0,0
 NA,"Private","Angelini, Carol","Glasgow","East Dunbartonshire","Children","10/06/2019",5,NA,5,5,"23/04/2019","2002_4",0,0
@@ -126,7 +125,6 @@ NA,"Private","Hunter, Anita","Glasgow","East Dunbartonshire","Children","18/04/2
 NA,"Private","Donaldson, Gillian","Glasgow","East Dunbartonshire","Children","27/09/2019",4,NA,4,4,"21/08/2019","2002_4",0,0
 NA,"Private","Crilley, Jacqueline","Glasgow","East Dunbartonshire","Children","24/04/2025",5,5,4,5,"13/03/2025","2002_4",0,0
 NA,"Private","Rae, Barbara","Glasgow","East Dunbartonshire","Children","25/06/2018",4,NA,4,4,"30/04/2018","2002_4",0,0
-NA,"Private","Sangster, Gillian","Glasgow","East Dunbartonshire","Children","03/08/2023",5,5,5,5,"08/06/2023","2002_4",0,0
 NA,"Private","Fairlie, Audrey","Glasgow","East Dunbartonshire","Children","01/08/2019",5,NA,5,5,"17/06/2019","2002_4",0,0
 NA,"Private","Graham, Linda","Glasgow","East Renfrewshire","Children","31/10/2023",5,5,4,5,"29/09/2023","2002_4",0,0
 NA,"Private","Gilbert, Fiona","Glasgow","East Renfrewshire","Children","02/07/2019",6,5,6,6,"20/05/2019","2002_4",0,0
@@ -135,7 +133,7 @@ NA,"Private","Hunter, Alison","Glasgow","East Renfrewshire","Children","23/07/20
 NA,"Private","Strachan, Gillian","Glasgow","East Renfrewshire","Children","20/06/2019",5,NA,5,5,"15/05/2019","2002_4",0,0
 NA,"Private","Murray, Lynne","Glasgow","East Renfrewshire","Children","10/04/2018",5,NA,5,5,"26/02/2018","2002_4",0,0
 NA,"Private","McKenzie, Adrienne","Glasgow","East Renfrewshire","Children","02/09/2019",6,NA,5,6,"26/06/2019","2002_4",0,0
-NA,"Private","Cowan, Jayne","Glasgow","East Renfrewshire","Children","10/12/2018",4,5,4,5,"29/10/2018","2002_4",0,0
+NA,"Private","Cowan, Jayne","Glasgow","East Renfrewshire","Children","13/06/2025",4,5,4,5,"01/05/2025","2002_4",0,0
 NA,"Private","Corr, Ann","Glasgow","East Renfrewshire","Children","24/01/2019",4,NA,4,4,"23/11/2018","2002_4",0,0
 NA,"Private","Sherman, Linda","Glasgow","East Renfrewshire","Children","17/07/2018",5,NA,4,5,"17/05/2018","2002_4",0,0
 NA,"Private","Ballantyne, Elise","Glasgow","East Renfrewshire","Children","08/03/2024",4,4,4,4,"08/02/2024","2002_4",0,0
@@ -175,7 +173,6 @@ NA,"Private","McInally, Pauline","Wishaw","North Lanarkshire","Children","30/10/
 NA,"Private","Clark, Isobel","Airdrie","North Lanarkshire","Children","03/05/2024",4,4,3,4,"09/04/2024","2002_4",0,0
 NA,"Private","Curran, Lesley","Airdrie","North Lanarkshire","Children","06/08/2018",5,NA,6,6,"02/05/2018","2002_4",0,0
 NA,"Private","Morrison, Lorraine","Glasgow","North Lanarkshire","Children","30/05/2023",5,5,5,5,"04/05/2023","2002_4",0,0
-NA,"Private","MacIntyre, Margaret","Glasgow","North Lanarkshire","Children","22/03/2023",5,4,4,5,"16/02/2023","2002_4",0,0
 NA,"Private","Smith, Catherine","Glasgow","North Lanarkshire","Children","04/02/2019",5,5,5,5,"26/11/2018","2002_4",0,0
 NA,"Private","Connelly, Patricia","Glasgow","North Lanarkshire","Children","06/01/2023",4,5,4,4,"01/12/2022","2002_4",0,0
 NA,"Private","Foley, Jeanne","Glasgow","North Lanarkshire","Children","17/07/2018",5,NA,5,5,"24/05/2018","2002_4",0,0
@@ -206,7 +203,6 @@ NA,"Private","Shapcott, Ishbel","Alloa","Clackmannanshire","Children","24/10/202
 NA,"Private","Coyle, Elizabeth","Stirling","Stirling","Children","09/05/2023",4,4,4,4,"24/04/2023","2002_4",0,0
 NA,"Private","Eastwood, Fiona","Stirling","Stirling","Children","27/06/2023",5,4,4,5,"30/05/2023","2002_4",0,0
 NA,"Private","McGovern, Patricia","Stirling","Stirling","Children","11/04/2019",5,NA,4,5,"13/02/2019","2002_4",0,0
-NA,"Private","Sewell, Christine","Stirling","Stirling","Children","26/09/2019",5,NA,4,5,"05/08/2019","2002_4",0,0
 NA,"Private","Smith, Helen","Dunblane","Stirling","Children","29/03/2024",4,4,4,4,"28/02/2024","2002_4",0,0
 NA,"Private","Murphy, Gaile","Stirling","Stirling","Children","22/05/2023",4,4,4,4,"19/04/2023","2002_4",0,0
 NA,"Private","Henderson, Alison","Dunblane","Stirling","Children","07/08/2020",5,NA,5,5,"15/01/2020","2002_4",0,0
@@ -215,26 +211,24 @@ NA,"Private","Millen, Ailie","Stirling","Stirling","Children","02/05/2023",5,5,4
 NA,"Private","Martin, Fiona","Glasgow","Stirling","Children","26/11/2024",4,3,3,3,"28/10/2024","2002_4",0,0
 NA,"Private","Plank, Ann","Dunblane","Stirling","Children","02/10/2023",4,5,4,5,"28/09/2023","2002_4",0,0
 NA,"Private","Craig, Nicola","Stirling","Stirling","Children","19/03/2019",4,NA,4,4,"14/01/2019","2002_4",0,0
-NA,"Private","Fitches, Sue","Stirling","Stirling","Children","21/09/2018",5,NA,5,5,"12/09/2018","2002_4",0,0
+NA,"Private","Fitches, Sue","Stirling","Stirling","Children","25/06/2025",5,5,5,5,"13/05/2025","2002_4",0,0
 NA,"Private","Sweeney, Sheila","Dunblane","Stirling","Children","20/10/2023",5,5,4,5,"03/10/2023","2002_4",0,0
 NA,"Private","Jack, Rhona","Glasgow","Stirling","Children","15/09/2023",4,4,4,4,"15/08/2023","2002_4",0,0
 NA,"Private","Kerr, Moira","Stirling","Stirling","Children","22/08/2023",5,5,5,5,"25/07/2023","2002_4",0,0
-NA,"Private","Kinderoo Childminding","Stirling","Stirling","Children","12/11/2019",5,NA,4,5,"24/04/2025","2002_4",0,0
+NA,"Private","Kinderoo Childminding","Stirling","Stirling","Children","02/06/2025",5,5,5,4,"24/04/2025","2002_4",0,0
 NA,"Private","McKenzie, Angelique","Dumbarton","West Dunbartonshire","Children","29/11/2022",5,5,5,5,"25/10/2022","2002_4",0,0
 NA,"Private","Winslow, Elaine","Dumbarton","West Dunbartonshire","Children","09/08/2019",5,NA,5,6,"20/06/2019","2002_4",0,0
 NA,"Private","Dorrian, Elizabeth","Dumbarton","West Dunbartonshire","Children","27/09/2018",5,NA,5,5,"28/06/2018","2002_4",0,0
 NA,"Private","Brown, Fay","Dumbarton","West Dunbartonshire","Children","06/08/2018",5,NA,5,6,"20/07/2018","2002_4",0,0
 NA,"Private","Hunter, Julie","Glasgow","West Dunbartonshire","Children","11/06/2018",4,NA,4,4,"10/05/2018","2002_4",0,0
-NA,"Private","Young, Kate","Alexandria","West Dunbartonshire","Children","23/07/2019",5,NA,5,5,"24/06/2019","2002_4",0,0
+NA,"Private","Young, Kate","Alexandria","West Dunbartonshire","Children","23/07/2019",5,NA,5,5,"03/06/2025","2002_4",0,0
 NA,"Private","Brown, Janet","Glasgow","Glasgow City","Children","04/08/2022",5,NA,5,5,"20/06/2022","2002_4",0,0
 NA,"Private","Gardner, Elizabeth Mary","Glasgow","East Dunbartonshire","Children","29/11/2019",6,NA,6,6,"14/10/2019","2002_4",0,0
 NA,"Private","Roberts, Christina","Glasgow","Glasgow City","Children","15/08/2023",4,5,5,5,"28/07/2023","2002_4",0,0
 NA,"Private","Currid, Kerry","Stirling","Stirling","Children","25/09/2024",4,4,3,4,"26/08/2024","2002_4",0,0
 NA,"Private","Hammerton, Audra","Glasgow","Glasgow City","Children","30/11/2023",5,4,5,5,"30/10/2023","2002_4",0,0
 NA,"Private","McEneny, Laura","Glasgow","Glasgow City","Children","28/09/2023",4,4,4,4,"07/09/2023","2002_4",0,0
-NA,"Private","Shearer, Doreen","Glasgow","Glasgow City","Children","31/08/2017",5,NA,5,5,"23/08/2017","2002_4",0,0
 NA,"Private","Clark, Elaine","Glasgow","Glasgow City","Children","15/03/2017",5,NA,4,5,"26/01/2017","2002_4",0,0
-NA,"Private","Bremner, Jacqueline","Glasgow","Glasgow City","Children","08/09/2021",4,NA,4,4,"13/07/2021","2002_4",0,0
 NA,"Private","McGuire, Lynn","Glasgow","Glasgow City","Children","28/09/2017",5,5,4,5,"18/08/2017","2002_4",0,0
 NA,"Private","Odeneal, Elaine","Glasgow","Glasgow City","Children","20/02/2019",4,NA,4,4,"17/01/2019","2002_4",0,0
 NA,"Private","Stuart, Jacqueline","Glasgow","Glasgow City","Children","12/11/2018",5,NA,5,5,"28/09/2018","2002_4",0,0
@@ -260,7 +254,7 @@ NA,"Private","Breingan, Audrey","Glasgow","South Lanarkshire","Children","11/01/
 NA,"Private","Telfer, Frances","Glasgow","South Lanarkshire","Children","01/02/2017",5,NA,5,5,"09/01/2017","2002_4",0,0
 NA,"Private","Findlay, Christine","Glasgow","South Lanarkshire","Children","20/04/2018",5,NA,4,5,"11/04/2018","2002_4",0,0
 NA,"Private","Walker, Louise","Glasgow","South Lanarkshire","Children","03/07/2018",5,NA,4,5,"30/05/2018","2002_4",0,0
-NA,"Private","Buchan, Iris","Glasgow","South Lanarkshire","Children","01/09/2017",5,NA,5,5,"14/06/2017","2002_4",0,0
+NA,"Private","Buchan, Iris","Glasgow","South Lanarkshire","Children","24/06/2025",5,5,5,5,"11/06/2025","2002_4",0,0
 NA,"Private","Ferguson, Veronica","Glasgow","South Lanarkshire","Children","17/07/2017",5,NA,5,5,"08/06/2017","2002_4",0,0
 NA,"Private","McGlinchey, Anne","Glasgow","South Lanarkshire","Children","26/02/2019",5,NA,5,5,"09/01/2019","2002_4",0,0
 NA,"Private","Shannon, Margaret Ann","Glasgow","South Lanarkshire","Children","08/11/2018",4,NA,4,4,"09/10/2018","2002_4",0,0
@@ -349,7 +343,7 @@ NA,"Private","Cormack, Margaret","Elgin","Moray","Children","05/11/2018",5,NA,5,
 NA,"Private","Jenkins, Pat","Fochabers","Moray","Children","06/06/2024",4,4,4,4,"01/05/2024","2002_4",0,0
 NA,"Private","Lineham, Tracey","Lossiemouth","Moray","Children","13/09/2022",5,4,4,4,"27/07/2022","2002_4",0,0
 NA,"Private","Millar, Mary","Lossiemouth","Moray","Children","12/09/2018",4,NA,4,5,"03/07/2018","2002_4",0,0
-NA,"Private","Niven, Lorna","Lossiemouth","Moray","Children","20/12/2016",5,NA,5,5,"21/11/2016","2002_4",0,0
+NA,"Private","Niven, Lorna","Lossiemouth","Moray","Children","26/06/2025",4,4,4,4,"22/05/2025","2002_4",0,0
 NA,"Private","Maureen & Michael McCrossan","Forres","Moray","Children","25/01/2019",5,NA,4,5,"03/12/2018","2002_4",0,0
 NA,"Private","Robb, Sharon","Forres","Moray","Children","11/02/2025",4,4,4,5,"15/01/2025","2002_4",0,0
 NA,"Private","Drever, Ann","Kirkwall","Orkney Islands","Children","31/01/2017",5,4,4,5,"06/12/2016","2002_4",0,0
@@ -368,9 +362,9 @@ NA,"Private","Knox, Julie","Innerleithen","Scottish Borders","Children","06/07/2
 NA,"Private","Judith Lamb and Shelley Foster","Galashiels","Scottish Borders","Children","31/08/2023",4,5,5,5,"15/08/2023","2002_4",0,0
 NA,"Private","Noble, Joyce","Biggar","Scottish Borders","Children","12/05/2016",5,NA,5,5,"15/04/2016","2002_4",0,0
 NA,"Private","Rayner, Pamela","Hawick","Scottish Borders","Children","14/07/2023",4,4,4,4,"27/06/2023","2002_4",0,0
-NA,"Private","Young, Gaynor","Hawick","Scottish Borders","Children","14/08/2019",4,NA,4,4,"16/07/2019","2002_4",0,0
-NA,"Private","John, Anita","Shetland","Shetland Islands","Children","10/07/2024",5,3,3,4,"29/05/2024","2002_4",0,0
-NA,"Private","Smith, Hazel","Shetland","Shetland Islands","Children","05/07/2024",4,3,3,4,"29/05/2024","2002_4",0,0
+NA,"Private","Young, Gaynor","Hawick","Scottish Borders","Children","05/06/2025",4,3,3,3,"06/05/2025","2002_4",0,0
+NA,"Private","John, Anita","Shetland","Shetland Islands","Children","05/06/2025",5,4,4,4,"30/04/2025","2002_4",0,0
+NA,"Private","Smith, Hazel","Shetland","Shetland Islands","Children","30/06/2025",4,3,3,4,"01/05/2025","2002_4",0,0
 NA,"Private","Buchanan, Angela","Isle Of Lewis","Na h-Eileanan Siar","Children","07/01/2025",4,5,4,4,"27/11/2024","2002_4",0,0
 NA,"Private","Birrell, Heather","Perth","Perth & Kinross","Children","16/01/2019",5,NA,4,5,"08/01/2019","2002_4",0,0
 NA,"Private","Black, Shona","Kinross","Perth & Kinross","Children","09/12/2024",4,3,3,3,"07/11/2024","2002_4",0,0
@@ -397,7 +391,6 @@ NA,"Private","Glen Ellrigg Childcare","Falkirk","Falkirk","Children","26/09/2018
 NA,"Private","Condie, Kay","Falkirk","Falkirk","Children","28/09/2022",5,5,5,5,"10/08/2022","2002_4",0,0
 NA,"Private","Anderson, Julie","Bo'ness","Falkirk","Children","18/08/2023",5,4,4,5,"14/07/2023","2002_4",0,0
 NA,"Private","McPherson, Alison","Grangemouth","Falkirk","Children","24/07/2019",5,4,4,5,"21/05/2019","2002_4",0,0
-NA,"Private","Hunter, Jacqueline","Falkirk","Falkirk","Children","20/08/2019",5,NA,4,5,"06/08/2019","2002_4",0,0
 NA,"Private","Gibson, Karen","Falkirk","Falkirk","Children","27/09/2023",5,5,5,5,"19/09/2023","2002_4",0,0
 NA,"Private","Reid, Lynn","Falkirk","Falkirk","Children","13/05/2019",4,NA,4,5,"24/01/2019","2002_4",0,0
 NA,"Private","Murphy, Lynn","Bo'ness","Falkirk","Children","26/08/2024",5,4,4,4,"24/07/2024","2002_4",0,0
@@ -421,7 +414,6 @@ NA,"Private","Douglas, Alison J","Edinburgh","City of Edinburgh","Children","11/
 NA,"Private","Duncan, Audrey","Dalkeith","Midlothian","Children","22/10/2024",5,4,4,4,"23/09/2024","2002_4",0,0
 NA,"Private","Braid, Pamela","Roslin","Midlothian","Children","10/04/2017",5,NA,4,5,"10/01/2017","2002_4",0,0
 NA,"Private","Old, Senga","Linlithgow","West Lothian","Children","09/01/2019",4,NA,4,4,"28/11/2018","2002_4",0,0
-NA,"Private","Kelly, Valerie & Edward","Livingston","West Lothian","Children","20/03/2024",4,3,3,4,"17/01/2024","2002_4",0,0
 NA,"Private","Law, Margaret","Edinburgh","City of Edinburgh","Children","09/08/2024",5,5,5,5,"05/07/2024","2002_4",0,0
 NA,"Private","Baillie, Helen","Linlithgow","West Lothian","Children","27/10/2022",4,4,4,4,"06/10/2022","2002_4",0,0
 NA,"Private","Pettigrew, Margaret","Edinburgh","City of Edinburgh","Children","17/08/2022",3,NA,3,3,"01/06/2022","2002_4",0,2
@@ -435,7 +427,7 @@ NA,"Private","Stewart, Christine","Edinburgh","City of Edinburgh","Children","12
 NA,"Private","Watson, Linda","Edinburgh","City of Edinburgh","Children","10/06/2024",4,3,3,3,"13/05/2024","2002_4",0,0
 NA,"Private","Blyth, Karen","Penicuik","Midlothian","Children","13/07/2018",5,NA,5,5,"04/05/2018","2002_4",0,0
 NA,"Private","Robb, Jane","West Calder","West Lothian","Children","27/10/2023",4,4,3,4,"05/10/2023","2002_4",0,0
-NA,"Private","Cockerell, Lynne","Edinburgh","City of Edinburgh","Children","16/05/2017",5,5,5,5,"25/04/2025","2002_4",0,0
+NA,"Private","Cockerell, Lynne","Edinburgh","City of Edinburgh","Children","02/06/2025",4,5,4,5,"25/04/2025","2002_4",0,0
 NA,"Private","McArdle, Wilma","West Calder","West Lothian","Children","11/01/2019",4,NA,4,4,"04/12/2018","2002_4",0,0
 NA,"Private","Knowles, Janet Moyes","Broxburn","West Lothian","Children","30/01/2018",5,NA,5,5,"08/12/2017","2002_4",0,0
 NA,"Private","Gray, Heather and Gary","Edinburgh","City of Edinburgh","Children","03/09/2018",5,NA,5,5,"08/08/2018","2002_4",0,0
@@ -466,13 +458,11 @@ NA,"Private","Tennent, Julie","Penicuik","Midlothian","Children","23/04/2019",5,
 NA,"Private","Soutar, Karen","Livingston","West Lothian","Children","13/11/2018",5,NA,4,5,"11/10/2018","2002_4",0,0
 NA,"Private","McDonald, Sheena","Livingston","West Lothian","Children","06/11/2018",4,NA,3,4,"09/10/2018","2002_4",0,0
 NA,"Private","Davies, Audrey","Bathgate","West Lothian","Children","24/07/2024",5,5,5,5,"26/06/2024","2002_4",0,0
-NA,"Private","Nelson, Catherine & David","Edinburgh","City of Edinburgh","Children","16/05/2024",3,3,3,3,"19/04/2024","2002_4",0,0
+NA,"Private","Nelson, Catherine & David","Edinburgh","City of Edinburgh","Children","25/06/2025",4,4,4,4,"21/05/2025","2002_4",0,0
 NA,"Private","Eadie, Grace","Prestonpans","East Lothian","Children","20/05/2024",4,4,4,4,"16/04/2024","2002_4",0,0
-NA,"Private","Paterson, Jane Louise","Musselburgh","East Lothian","Children","17/10/2019",4,NA,4,4,"22/08/2019","2002_4",0,0
 NA,"Private","Archibald, Aileen","Dalkeith","Midlothian","Children","18/04/2019",5,NA,4,5,"20/03/2019","2002_4",0,0
-NA,"Private","Wilson, Rosina & James","Bathgate","West Lothian","Children","28/11/2018",4,NA,4,4,"23/10/2018","2002_4",0,0
 NA,"Private","Donaldson, Moira","Edinburgh","City of Edinburgh","Children","14/06/2017",5,NA,5,5,"05/06/2017","2002_4",0,0
-NA,"Private","Boyle, Elaine","Armadale","West Lothian","Children","03/07/2017",4,NA,4,4,"05/06/2017","2002_4",0,0
+NA,"Private","Boyle, Elaine","Armadale","West Lothian","Children","13/06/2025",5,3,3,4,"27/05/2025","2002_4",0,0
 NA,"Private","White, Linda Mary","Kirkliston","City of Edinburgh","Children","25/11/2019",5,NA,4,5,"10/10/2019","2002_4",0,0
 NA,"Private","Cockburn, Heather","Edinburgh","City of Edinburgh","Children","29/11/2022",4,4,4,4,"11/11/2022","2002_4",0,0
 NA,"Private","Brown, Joanne","Livingston","West Lothian","Children","19/02/2025",5,5,5,5,"15/01/2025","2002_4",0,0
@@ -485,7 +475,6 @@ NA,"Private","Barbour, Barbara","North Berwick","East Lothian","Children","20/04
 NA,"Private","Fisher, Alison","Edinburgh","City of Edinburgh","Children","28/03/2017",5,NA,4,4,"30/09/2016","2002_4",0,0
 NA,"Private","Stewart, Angela","Blairgowrie","Perth & Kinross","Children","28/08/2019",4,NA,5,5,"18/07/2019","2002_4",0,0
 NA,"Private","Deborah Carver's Childminding Service","Aberdeen","Aberdeen City","Children","21/09/2020",4,NA,4,5,"27/02/2020","2002_4",0,0
-NA,"Private","Lee, Laura","Larkhall","South Lanarkshire","Children","17/10/2017",4,NA,4,5,"07/09/2017","2002_5",0,0
 NA,"Private","Bell, Yvonne","Dumfries","Dumfries & Galloway","Children","27/01/2020",5,5,5,5,"26/09/2019","2002_4",0,0
 NA,"Private","Douglas, Angela","Dumfries","Dumfries & Galloway","Children","05/03/2025",2,1,2,1,"12/02/2025","2002_4",0,1
 NA,"Private","Ross, Amanda","Lossiemouth","Moray","Children","06/09/2022",5,5,4,5,"13/07/2022","2002_10",0,0
@@ -530,7 +519,6 @@ NA,"Private","Cheeky Monkeys","Alloa","Fife","Children","18/03/2024",4,3,3,4,"11
 NA,"Private","Mardani, Anna","Kelty","Fife","Children","26/07/2023",4,5,4,5,"20/07/2023","2002_4",0,0
 NA,"Private","Carberry, Pauline","Alloa","Clackmannanshire","Children","15/10/2018",5,4,5,5,"22/08/2018","2003_1",0,0
 NA,"Private","Milne, Shaunagh","Arbroath","Angus","Children","04/01/2023",5,6,6,5,"17/11/2022","2002_12",0,0
-NA,"Private","McCann, Joyce","Glasgow","Glasgow City","Children","21/07/2023",5,5,4,5,"30/06/2023","2002_10",0,0
 NA,"Private","Millar, Dawn","Dundee","Dundee City","Children","24/06/2024",5,5,4,4,"13/05/2024","2002_4",0,0
 NA,"Private","MacAlpine, Kirsty","Falkirk","Falkirk","Children","01/05/2024",4,3,3,4,"03/04/2024","2003_1",0,0
 NA,"Private","Johnston, Sarah","Penicuik","Midlothian","Children","08/02/2023",5,5,5,5,"14/12/2022","2003_3",0,0
@@ -567,7 +555,7 @@ NA,"Private","Bunton, Annmarie","Glasgow","Glasgow City","Children","21/08/2017"
 NA,"Private","Brown, Glenda","Inverurie","Aberdeenshire","Children","07/03/2018",4,NA,4,4,"15/01/2018","2003_9",0,0
 NA,"Private","Reid, Karen","Aberdeen","Aberdeenshire","Children","06/03/2024",4,5,5,5,"31/01/2024","2003_2",0,0
 NA,"Private","Elder, Karen","Alva","Clackmannanshire","Children","31/08/2023",5,4,5,5,"08/08/2023","2003_8",0,0
-NA,"Private","McKenzie, Margaret","Glasgow","Glasgow City","Children","10/08/2018",5,NA,5,5,"25/06/2018","2003_10",0,0
+NA,"Private","McKenzie, Margaret","Glasgow","Glasgow City","Children","05/06/2025",5,5,5,5,"29/04/2025","2003_10",0,0
 NA,"Private","McRitchie, Karen","Forres","Moray","Children","19/03/2020",4,NA,4,4,"10/02/2020","2003_5",0,0
 NA,"Private","Hutchison, Wendy","Cupar","Fife","Children","13/02/2023",4,4,4,4,"09/01/2023","2003_8",0,0
 NA,"Private","Harrison, Angela","Dunfermline","Fife","Children","07/06/2018",5,NA,5,5,"27/04/2018","2003_8",0,0
@@ -589,17 +577,15 @@ NA,"Private","Ingram, Deborah","Westhill","Aberdeenshire","Children","03/04/2023
 NA,"Private","Smith, Nichola","Falkirk","Falkirk","Children","09/10/2024",5,5,5,5,"19/09/2024","2003_9",0,0
 NA,"Private","Donaldson, Caron Marie","Glasgow","North Lanarkshire","Children","06/03/2019",4,NA,4,4,"21/01/2019","2003_6",0,0
 NA,"Private","Crawford, Elaine","Kinross","Perth & Kinross","Children","14/03/2017",4,NA,4,4,"27/03/2017","2003_8",0,0
-NA,"Private","McArthur, Carol","Dalkeith","Midlothian","Children","09/05/2025",4,3,3,3,"19/03/2025","2004_2",0,0
 NA,"Private","Dickson, Deborah","Edinburgh","City of Edinburgh","Children","08/01/2018",4,NA,4,4,"23/11/2017","2004_4",0,0
 NA,"Private","Masson, Lorna","Cumnock","East Ayrshire","Children","14/11/2018",5,NA,5,5,"30/08/2018","2003_12",0,0
 NA,"Private","Weir, Anne","Glasgow","East Renfrewshire","Children","08/10/2018",5,NA,4,5,"22/08/2018","2004_2",0,0
-NA,"Private","McMillan, Brenda","Glasgow","East Renfrewshire","Children","16/04/2018",5,NA,4,5,"05/03/2018","2003_7",0,0
 NA,"Private","Grassom, Rhona","Glasgow","South Lanarkshire","Children","16/04/2024",4,4,4,4,"04/04/2024","2003_11",0,0
 NA,"Private","McNeillie, Michelle","Lochwinnoch","Renfrewshire","Children","22/01/2020",4,NA,4,4,"01/11/2019","2003_4",0,0
 NA,"Private","Twaddle, May","Larkhall","South Lanarkshire","Children","18/07/2024",4,4,4,4,"11/07/2024","2004_4",0,0
 NA,"Private","Rae, Andrea","Stirling","Stirling","Children","18/09/2024",5,5,5,4,"14/08/2024","2004_3",0,0
 NA,"Private","Harrold, Elliot","Musselburgh","East Lothian","Children","08/07/2019",4,NA,4,5,"22/03/2019","2003_11",0,0
-NA,"Private","Baxter, Carol Anne","Dunfermline","Fife","Children","16/09/2019",5,5,5,5,"02/05/2019","2004_5",0,0
+NA,"Private","Baxter, Carol Anne","Dunfermline","Fife","Children","16/09/2019",5,5,5,5,"02/05/2019","2004_5",1,0
 NA,"Private","Richardson, Linda","Glasgow","East Dunbartonshire","Children","19/06/2019",5,NA,5,5,"02/05/2019","2004_1",0,0
 NA,"Private","McIntosh, Tracey","Edinburgh","City of Edinburgh","Children","06/08/2024",5,5,5,5,"30/07/2024","2004_3",0,0
 NA,"Private","Innes, Lisa","Dundee","Dundee City","Children","24/12/2024",4,4,4,4,"26/11/2024","2004_1",0,0
@@ -624,7 +610,7 @@ NA,"Private","Wark, Donna","Larkhall","South Lanarkshire","Children","14/01/2019
 NA,"Private","Bolton, Kerry","Buckie","Moray","Children","21/06/2022",5,NA,5,5,"06/05/2022","2004_5",0,0
 NA,"Private","Wardrop, Rebecca","Livingston","West Lothian","Children","21/08/2017",5,NA,5,5,"12/07/2017","2004_4",0,0
 NA,"Private","Edwards, Gillian","Ellon","Aberdeenshire","Children","22/01/2024",4,4,4,4,"10/01/2024","2004_4",0,0
-NA,"Private","Cruickshank, Donna","Ellon","Aberdeenshire","Children","31/01/2018",5,NA,5,5,"13/11/2017","2004_9",0,0
+NA,"Private","Cruickshank, Donna","Ellon","Aberdeenshire","Children","25/06/2025",4,4,3,4,"14/05/2025","2004_9",0,0
 NA,"Private","Simpson, Philomena","Airdrie","North Lanarkshire","Children","03/11/2022",5,4,4,4,"23/09/2022","2004_8",0,0
 NA,"Private","McGuire, Elaine","Glasgow","East Dunbartonshire","Children","22/10/2024",5,5,6,5,"02/09/2024","2004_8",0,0
 NA,"Private","Callaghan, Dorothy","Coatbridge","North Lanarkshire","Children","11/10/2019",5,NA,4,5,"26/08/2019","2005_2",0,0
@@ -685,7 +671,7 @@ NA,"Private","McGuire, Gillian","Glasgow","East Renfrewshire","Children","09/05/
 NA,"Private","Ogg, Sadie","Keith","Moray","Children","06/07/2018",5,NA,4,5,"21/05/2018","2005_1",0,0
 NA,"Private","Morrison, Sarah Jane","Glasgow","South Lanarkshire","Children","15/10/2019",5,NA,4,5,"23/09/2019","2005_3",0,0
 NA,"Private","Godsman, Kate","Ellon","Aberdeenshire","Children","14/05/2024",5,5,5,5,"22/04/2024","2005_2",0,0
-NA,"Private","Rising Towers Daycare","Perth","Perth & Kinross","Children","30/07/2024",4,3,2,3,"04/07/2024","2005_11",0,0
+NA,"Private","Rising Towers Daycare","Perth","Perth & Kinross","Children","30/07/2024",4,3,2,3,"04/07/2024","2005_11",1,0
 NA,"Private","Ronald, Karen","Beith","North Ayrshire","Children","17/01/2019",5,NA,4,5,"12/11/2018","2005_5",0,0
 NA,"Private","Morton, Suzanne","Cupar","Fife","Children","19/11/2019",5,NA,5,6,"16/09/2019","2005_8",0,0
 NA,"Private","Ewen, Isla","Newport-On-Tay","Fife","Children","26/02/2024",5,5,5,5,"26/01/2024","2005_3",0,0
@@ -703,7 +689,7 @@ NA,"Private","Barnes, Tessa","Perth","Perth & Kinross","Children","20/02/2025",4
 NA,"Private","Liz's Lambs Childcare","Dundee","Dundee City","Children","17/10/2018",4,NA,5,5,"05/03/2025","2005_3",0,0
 NA,"Private","Dunlop, Patricia","Linlithgow","West Lothian","Children","06/01/2023",5,4,5,5,"23/11/2022","2005_2",0,0
 NA,"Private","Aitken, Alison","Larbert","Falkirk","Children","05/02/2019",5,NA,5,5,"12/12/2018","2006_8",0,0
-NA,"Private","Stewart, Shona C","Auchterarder","Perth & Kinross","Children","19/06/2024",4,4,3,4,"05/05/2025","2004_12",0,0
+NA,"Private","Stewart, Shona C","Auchterarder","Perth & Kinross","Children","04/06/2025",3,4,3,4,"05/05/2025","2004_12",0,0
 NA,"Private","Carroll, Wendy","Glasgow","Glasgow City","Children","25/09/2018",4,NA,4,4,"29/08/2018","2005_5",0,0
 NA,"Private","Muir, Heather","Glasgow","North Lanarkshire","Children","12/08/2019",5,NA,5,5,"17/06/2019","2005_11",0,0
 NA,"Private","Libbys Childcare","Motherwell","North Lanarkshire","Children","21/05/2024",6,6,5,5,"19/04/2024","2004_12",0,0
@@ -729,7 +715,6 @@ NA,"Private","McDill, Ann","Maybole","South Ayrshire","Children","16/07/2019",5,
 NA,"Private","Lee, Caroline","Ayr","South Ayrshire","Children","23/09/2022",4,5,4,5,"26/08/2022","2006_8",0,0
 NA,"Private","Tait, Sharon","Denny","Falkirk","Children","22/11/2023",5,5,5,5,"24/10/2023","2005_5",0,0
 NA,"Private","Grant, Pamela","Elgin","Moray","Children","08/11/2022",5,5,5,5,"01/09/2022","2005_6",0,0
-NA,"Private","Doran, Mary","Glasgow","Glasgow City","Children","05/06/2019",5,NA,5,6,"06/05/2019","2006_5",0,0
 NA,"Private","Penpraze, Rachael","South Queensferry","City of Edinburgh","Children","10/05/2018",4,NA,5,5,"27/03/2018","2005_7",0,0
 NA,"Private","Young, Susan","Airdrie","North Lanarkshire","Children","28/08/2023",4,4,4,4,"01/08/2023","2005_10",0,0
 NA,"Private","Donna Thomline childminding service","Edinburgh","City of Edinburgh","Children","11/06/2018",5,4,4,5,"25/04/2018","2005_7",0,0
@@ -767,7 +752,6 @@ NA,"Private","Gordon, Laura","Prestwick","South Ayrshire","Children","19/06/2018
 NA,"Private","Bowie, Morag","Glasgow","Glasgow City","Children","11/05/2017",4,NA,4,4,"24/04/2017","2006_1",0,0
 NA,"Private","Fraser, Alison","Inverness","Highland","Children","18/04/2025",4,4,3,3,"13/03/2025","2005_12",0,0
 NA,"Private","Young, Margaret","Glasgow","South Lanarkshire","Children","16/10/2017",5,NA,4,5,"13/09/2017","2006_1",0,0
-NA,"Private","Robertson, Donna","Grangemouth","Falkirk","Children","26/05/2025",4,4,3,4,"14/05/2025","2006_1",0,0
 NA,"Private","Anderson, Margaret","Kirkwall","Orkney Islands","Children","15/10/2018",5,NA,4,5,"03/09/2018","2005_9",0,0
 NA,"Private","Demengeli, Anne","Edinburgh","City of Edinburgh","Children","29/01/2025",4,4,4,4,"16/12/2024","2006_7",0,0
 NA,"Private","Arthur, Lorna","Lochgelly","Fife","Children","22/02/2023",4,4,4,4,"16/01/2023","2005_10",0,0
@@ -832,7 +816,7 @@ NA,"Private","Lynne Stewart and Lynsey Martin","Kilmarnock","East Ayrshire","Chi
 NA,"Private","Birkett, Sharon","Arbroath","Angus","Children","15/05/2024",5,5,5,5,"03/04/2024","2006_8",0,0
 NA,"Private","Mands, Gail","Elgin","Moray","Children","16/09/2019",4,NA,4,5,"31/07/2019","2006_11",0,0
 NA,"Private","Taylor, Yvonne","Banff","Aberdeenshire","Children","21/02/2025",4,4,4,4,"04/02/2025","2006_8",0,0
-NA,"Private","McMurchie, Arlene","Denny","Falkirk","Children","15/09/2022",5,5,5,5,"09/08/2022","2006_9",0,0
+NA,"Private","McMurchie, Arlene","Kincardine","Fife","Children","15/09/2022",5,5,5,5,"09/08/2022","2006_9",0,0
 NA,"Private","McMinn, Mairi","Carluke","South Lanarkshire","Children","22/09/2022",4,4,4,4,"13/09/2022","2006_9",0,0
 NA,"Private","Boyd, Michelle","Motherwell","North Lanarkshire","Children","24/08/2022",4,4,4,4,"29/07/2022","2007_4",0,0
 NA,"Private","Craig, Claire","Glasgow","South Lanarkshire","Children","28/09/2018",5,NA,5,5,"29/08/2018","2006_9",0,0
@@ -878,18 +862,16 @@ NA,"Private","The Wright Childcare","Denny","Falkirk","Children","17/06/2024",5,
 NA,"Private","Paris, Pamela Ann","Glasgow","South Lanarkshire","Children","30/11/2022",4,4,4,4,"21/10/2022","2007_8",0,0
 NA,"Private","Tait, Carolanne","Ardrossan","North Ayrshire","Children","09/05/2023",5,5,5,5,"24/03/2023","2007_1",0,0
 NA,"Private","Blair, Lorna","Cupar","Fife","Children","16/02/2023",4,4,4,4,"27/10/2022","2007_8",0,0
-NA,"Private","Smiley Faces","Glasgow","South Lanarkshire","Children","20/09/2017",6,NA,5,6,"13/09/2017","2007_11",0,0
 NA,"Private","Stewart, Marina","Irvine","North Ayrshire","Children","15/05/2018",4,NA,5,5,"03/04/2018","2008_5",0,0
 NA,"Private","Little Sprouts Childcare","Duns","Scottish Borders","Children","09/05/2023",4,4,4,4,"16/03/2023","2007_1",0,0
 NA,"Private","McAusland, Jane","Cumnock","East Ayrshire","Children","14/08/2023",5,5,5,5,"21/07/2023","2007_7",0,0
 NA,"Private","Murray, Denise","Largs","North Ayrshire","Children","21/09/2022",5,5,4,4,"19/08/2022","2007_2",0,0
 NA,"Private","McCardle, Margaret","Shotts","North Lanarkshire","Children","29/08/2024",5,5,5,5,"29/07/2024","2007_4",0,0
 NA,"Private","McGarrity, Karen","Glasgow","Glasgow City","Children","14/12/2022",4,4,4,4,"12/10/2022","2008_6",0,0
-NA,"Private","Michie, Tracy","Clydebank","West Dunbartonshire","Children","31/10/2019",5,NA,4,5,"03/09/2019","2007_2",0,0
 NA,"Private","Sharp, Simone","Kilmarnock","East Ayrshire","Children","07/06/2017",5,NA,4,5,"25/04/2017","2007_4",0,0
 NA,"Private","Hardie, Lesley","Tranent","East Lothian","Children","11/10/2019",5,NA,5,5,"20/08/2019","2010_1",0,0
 NA,"Private","Smith, Helen","Johnstone","Renfrewshire","Children","02/08/2018",5,NA,5,5,"27/04/2018","2007_2",0,0
-NA,"Private","Cassidy, Angela","Edinburgh","City of Edinburgh","Children","17/08/2017",5,NA,5,5,"03/08/2017","2007_2",0,0
+NA,"Private","Cassidy, Angela","Edinburgh","City of Edinburgh","Children","20/06/2025",5,5,5,5,"30/06/2025","2007_2",0,0
 NA,"Private","Brady, Annemarie","Gourock","Inverclyde","Children","12/08/2019",5,NA,5,5,"06/08/2019","2009_8",0,0
 NA,"Private","Morrison, Sandra","Edinburgh","City of Edinburgh","Children","04/12/2024",4,4,5,4,"19/11/2024","2009_7",0,0
 NA,"Private","McLay, Bernadette","Paisley","Renfrewshire","Children","13/07/2020",5,NA,4,4,"05/03/2020","2007_6",0,0
@@ -934,12 +916,11 @@ NA,"Private","Campbell, Shona","Portree","Highland","Children","11/01/2017",5,NA
 NA,"Private","Sharkey, Elaine","Lanark","South Lanarkshire","Children","04/07/2018",5,NA,4,5,"07/06/2018","2008_9",0,0
 NA,"Private","Rankin, Nicola","Airdrie","North Lanarkshire","Children","16/01/2019",5,NA,5,5,"11/12/2018","2007_9",0,0
 NA,"Private","Small, Hayley","Edinburgh","City of Edinburgh","Children","14/01/2020",5,5,5,5,"22/12/2019","2007_12",0,0
-NA,"Private","McLauchlan, Tracy","Westhill","Aberdeenshire","Children","03/03/2020",5,NA,4,5,"30/04/2025","2007_9",0,0
+NA,"Private","McLauchlan, Tracy","Westhill","Aberdeenshire","Children","04/06/2025",4,4,4,4,"30/04/2025","2007_9",0,0
 NA,"Private","Williams, Roseann","Glasgow","South Lanarkshire","Children","03/10/2023",5,5,5,4,"18/08/2023","2007_12",0,0
 NA,"Private","Grubb, Tony","Kirkcaldy","Fife","Children","12/11/2019",5,5,5,5,"06/09/2019","2007_10",0,0
 NA,"Private","PH Childcare","Perth","Perth & Kinross","Children","19/01/2022",4,NA,5,5,"10/12/2021","2007_9",0,0
 NA,"Private","Edgar, Jane","Linlithgow","West Lothian","Children","14/06/2024",4,5,4,4,"17/05/2024","2007_10",0,0
-NA,"Private","McGinlay, Jane","Dundee","Dundee City","Children","11/03/2025",4,4,3,4,"12/02/2025","2007_7",0,0
 NA,"Private","Macmillan, Alice","Isle Of Lewis","Na h-Eileanan Siar","Children","24/10/2024",5,5,5,5,"14/10/2024","2007_10",0,0
 NA,"Private","Warwick, Ruth","Irvine","North Ayrshire","Children","21/05/2018",5,NA,4,5,"23/04/2018","2007_8",0,0
 NA,"Private","Howie, Lyn","Falkirk","West Lothian","Children","11/12/2024",5,5,5,5,"15/11/2024","2007_12",0,0
@@ -949,7 +930,7 @@ NA,"Private","Porter, Linda","Elgin","Moray","Children","24/04/2017",5,NA,5,5,"0
 NA,"Private","Sutherland, Lorraine","Thurso","Highland","Children","31/05/2022",5,NA,5,5,"14/04/2022","2007_10",0,0
 NA,"Private","Curran, Annette","Greenock","Inverclyde","Children","28/04/2023",4,4,4,4,"31/03/2023","2007_11",0,0
 NA,"Private","Calder, Tina","Tranent","East Lothian","Children","09/07/2019",4,NA,4,4,"27/05/2019","2007_10",0,0
-NA,"Private","Meechan, Tracey","Livingston","West Lothian","Children","18/04/2017",5,NA,4,5,"20/03/2017","2008_10",0,3
+NA,"Private","Meechan, Tracey","Livingston","West Lothian","Children","13/06/2025",4,4,3,3,"12/05/2025","2008_10",0,3
 NA,"Private","O'Hagan, Caroline","Port Glasgow","Inverclyde","Children","13/01/2017",5,NA,5,5,"24/11/2016","2008_3",0,0
 NA,"Private","Lynch, Mhairi","Falkirk","Falkirk","Children","05/09/2018",5,NA,5,5,"24/07/2018","2008_8",0,0
 NA,"Private","Mann, Claire","Stonehaven","Aberdeenshire","Children","11/12/2024",5,5,4,4,"14/11/2024","2007_10",0,0
@@ -985,7 +966,7 @@ NA,"Private","Bonnar, Elaine","Greenock","Inverclyde","Children","31/08/2023",5,
 NA,"Private","Burns, Nicola","Kilwinning","North Ayrshire","Children","06/03/2024",5,6,5,6,"14/02/2024","2007_10",0,0
 NA,"Private","Cee Cee's Childcare","Renfrew","Renfrewshire","Children","01/10/2024",4,4,4,5,"27/08/2024","2007_12",0,0
 NA,"Private","Campbell, Morag","Motherwell","North Lanarkshire","Children","15/11/2022",4,5,4,5,"24/10/2022","2008_3",0,0
-NA,"Private","Munro, Helen","Glasgow","South Lanarkshire","Children","02/03/2018",4,NA,4,4,"15/01/2018","2008_3",0,0
+NA,"Private","Munro, Helen","Glasgow","South Lanarkshire","Children","04/06/2025",4,4,4,4,"14/05/2025","2008_3",0,0
 NA,"Private","Menzies, Mhairi","Denny","Falkirk","Children","29/09/2022",4,4,4,4,"24/08/2022","2008_5",0,0
 NA,"Private","Thomson, Lynnette","Bonnybridge","Falkirk","Children","27/06/2023",5,5,5,5,"24/05/2023","2007_11",0,0
 NA,"Private","Connie & Joanne Watt","Alva","Clackmannanshire","Children","18/09/2020",5,NA,4,5,"12/11/2019","2007_11",0,0
@@ -993,7 +974,7 @@ NA,"Private","Radigan, Gillian","Motherwell","North Lanarkshire","Children","18/
 NA,"Private","Trueman, Wendy","Thurso","Highland","Children","14/02/2024",5,5,5,5,"26/01/2024","2008_4",0,0
 NA,"Private","Mbarki, Anouar","Aberdeen","Aberdeen City","Children","28/02/2020",4,NA,4,4,"04/12/2019","2008_5",0,0
 NA,"Private","Katey's Childminding Service","Ardrossan","North Ayrshire","Children","03/08/2023",5,5,4,4,"11/07/2023","2008_3",0,0
-NA,"Private","Grant, Vicki","Falkirk","Falkirk","Children","07/03/2024",4,4,4,4,"07/02/2024","2008_9",0,0
+NA,"Private","Grant, Vicki","Grangemouth, Falkirk","Falkirk","Children","07/03/2024",4,4,4,4,"07/02/2024","2008_9",0,0
 NA,"Private","Bell, Kathleen","Livingston","West Lothian","Children","03/05/2022",4,NA,4,5,"17/03/2022","2008_4",0,0
 NA,"Private","Yvonne Wright Childminding","Glenrothes","Fife","Children","10/12/2019",4,NA,4,4,"24/09/2019","2008_5",0,0
 NA,"Private","Woodward, Karen","Livingston","West Lothian","Children","15/12/2022",5,5,5,5,"31/10/2022","2010_1",0,0
@@ -1047,7 +1028,6 @@ NA,"Private","MacDonald, Sharon","Falkirk","Falkirk","Children","19/12/2019",5,N
 NA,"Private","Kerr, Annette & James","Paisley","Renfrewshire","Children","12/12/2024",4,4,4,4,"31/10/2024","2009_4",0,0
 NA,"Private","Carol Murray & Maureen McCaffer","Glasgow","North Lanarkshire","Children","18/09/2024",5,5,5,5,"29/08/2024","2008_7",0,0
 NA,"Private","Roles, Gayle","Airdrie","North Lanarkshire","Children","02/08/2023",5,5,5,5,"06/07/2023","2008_8",0,0
-NA,"Private","Pratt, Kelly-Marie","Edinburgh","City of Edinburgh","Children","08/03/2018",4,NA,4,4,"31/01/2018","2009_5",0,0
 NA,"Private","Porter-Smith, Rebecca","Helensburgh","Argyll & Bute","Children","05/07/2019",5,4,5,6,"12/06/2019","2008_6",0,0
 NA,"Private","Star Kidz Childminding","Glasgow","Glasgow City","Children","22/06/2020",5,NA,5,5,"13/01/2020","2008_9",0,0
 NA,"Private","Rodgers, Wendy","Edinburgh","City of Edinburgh","Children","26/02/2019",5,NA,4,5,"07/11/2018","2008_9",0,0
@@ -1063,11 +1043,10 @@ NA,"Private","Hislop, Kirsty","Lossiemouth","Moray","Children","31/08/2023",5,5,
 NA,"Private","Waugh, Maureen","Maybole","South Ayrshire","Children","06/07/2018",5,NA,5,5,"06/06/2018","2009_1",0,0
 NA,"Private","Larman, Fiona","Glasgow","East Dunbartonshire","Children","17/03/2020",5,NA,5,5,"29/01/2020","2009_7",0,0
 NA,"Private","Lawson, Lynne","Falkirk","Falkirk","Children","20/02/2024",5,5,5,5,"11/01/2024","2009_5",0,0
-NA,"Private","Lang, Gillian","Airdrie","North Lanarkshire","Children","24/06/2019",5,NA,5,5,"21/05/2019","2009_9",0,0
+NA,"Private","Lang, Gillian","Airdrie","North Lanarkshire","Children","25/06/2025",5,5,4,5,"28/05/2025","2009_9",0,0
 NA,"Private","Donnelly, Jacqueline","Galston","East Ayrshire","Children","30/05/2018",5,NA,4,4,"30/04/2018","2009_4",0,0
 NA,"Private","Safe 'n' Sound Childminding Service","Falkirk","Falkirk","Children","04/10/2019",5,NA,5,5,"14/08/2019","2009_2",0,0
 NA,"Private","Spicer, Jackie","Invergordon","Highland","Children","09/08/2023",5,4,4,5,"10/07/2023","2009_6",0,0
-NA,"Private","Murdoch, Tracy","Prestwick","South Ayrshire","Children","25/09/2019",5,4,4,4,"26/08/2019","2009_5",0,0
 NA,"Private","Anderson, Elaine","Strathaven","South Lanarkshire","Children","05/07/2023",5,5,5,5,"21/06/2023","2009_9",0,0
 NA,"Private","McConnell, Angela","Greenock","Inverclyde","Children","15/06/2020",4,NA,4,5,"06/02/2020","2009_5",0,0
 NA,"Private","Alldridge, Louise","Kilmarnock","East Ayrshire","Children","09/09/2019",5,4,5,5,"29/07/2019","2009_4",0,0
@@ -1082,19 +1061,16 @@ NA,"Private","Cheshire, Francisca","Glasgow","South Lanarkshire","Children","05/
 NA,"Private","Mackie, Aileen","Macduff","Aberdeenshire","Children","05/06/2024",4,4,4,4,"13/05/2024","2009_6",0,0
 NA,"Private","Taylor, Claire","Ardrossan","North Ayrshire","Children","02/05/2022",5,NA,5,5,"07/04/2022","2009_4",0,0
 NA,"Private","Logie, Lorraine","Glasgow","South Lanarkshire","Children","30/08/2018",6,NA,5,6,"28/08/2018","2009_2",0,0
-NA,"Private","Little Angels Childcare Johnstone","Johnstone","Renfrewshire","Children","25/10/2020",4,NA,3,3,"11/03/2020","2009_10",0,0
 NA,"Private","Maheen, Aisha","Edinburgh","City of Edinburgh","Children","22/04/2025",4,3,3,3,"12/03/2025","2009_3",0,0
 NA,"Private","Walls, Linda","Glasgow","East Dunbartonshire","Children","19/07/2018",5,NA,5,6,"21/06/2018","2009_1",0,0
 NA,"Private","Salama, Wafaa","Edinburgh","City of Edinburgh","Children","16/11/2017",4,NA,4,4,"29/09/2017","2009_1",0,0
 NA,"Private","Joginder & Sukhminder Athwal","Dundee","Dundee City","Children","30/04/2018",5,5,5,5,"20/03/2018","2009_2",0,0
-NA,"Private","Clark, Deborah","Glasgow","South Lanarkshire","Children","09/07/2018",5,5,5,5,"11/06/2018","2009_1",0,0
 NA,"Private","Martin, Miranda Sophie","Glasgow","South Lanarkshire","Children","07/02/2019",5,NA,5,5,"17/12/2018","2009_3",0,0
 NA,"Private","Fraser, Hazel","Muir Of Ord","Highland","Children","06/09/2024",5,5,4,5,"13/08/2024","2009_1",0,0
 NA,"Private","Forsyth ,Andria","Kirkcaldy","Fife","Children","09/05/2024",5,5,5,5,"19/04/2024","2008_12",0,0
 NA,"Private","Keli Tots","Forfar","Angus","Children","01/08/2023",4,5,5,5,"29/06/2023","2010_6",0,0
 NA,"Private","MacKay, Debbie","Lairg","Highland","Children","03/06/2016",5,NA,5,5,"14/03/2016","2009_7",0,0
 NA,"Private","Naylor, Sonia","Edinburgh","City of Edinburgh","Children","03/10/2024",4,4,4,4,"30/08/2024","2009_9",0,0
-NA,"Private","Riley, Elinor","Hamilton","South Lanarkshire","Children","16/06/2020",4,NA,4,4,"03/03/2020","2009_1",0,0
 NA,"Private","Samuels, Mary-Anne","Glasgow","Glasgow City","Children","28/06/2019",5,5,5,5,"26/04/2019","2009_9",0,0
 NA,"Private","Francis, Mairi","Fraserburgh","Aberdeenshire","Children","03/09/2018",5,NA,5,5,"26/07/2018","2009_4",0,0
 NA,"Private","Kane, Gail","Dundee","Dundee City","Children","06/09/2023",3,3,3,3,"18/08/2023","2009_10",0,0
@@ -1106,7 +1082,7 @@ NA,"Private","Currie, Kirsty","Glasgow","South Lanarkshire","Children","11/06/20
 NA,"Private","Murray, Frances","Glasgow","East Dunbartonshire","Children","27/09/2019",5,NA,5,5,"07/08/2019","2009_9",0,0
 NA,"Private","Imrie, Ruth","Edinburgh","City of Edinburgh","Children","06/10/2016",5,NA,5,5,"18/04/2016","2009_1",0,0
 NA,"Private","Busy Lizzie","Glasgow","North Lanarkshire","Children","29/08/2022",5,5,4,5,"20/07/2022","2010_3",0,0
-NA,"Private","Muirhead, Lorna","Bathgate","West Lothian","Children","24/07/2017",5,NA,4,5,"12/06/2017","2010_3",0,0
+NA,"Private","Muirhead, Lorna","Bathgate","West Lothian","Children","26/06/2025",5,5,5,5,"08/05/2025","2010_3",0,0
 NA,"Private","Duncan-Kerr, Fiona","Peebles","Scottish Borders","Children","16/10/2024",5,6,6,6,"10/09/2024","2009_3",0,0
 NA,"Private","Sarah Cooks Child Minding Service","Turriff","Aberdeenshire","Children","25/10/2019",5,NA,4,5,"11/09/2019","2009_9",0,0
 NA,"Private","Macadam, Pauline","Dundee","Dundee City","Children","02/07/2024",3,4,4,4,"13/06/2024","2009_12",0,0
@@ -1120,7 +1096,7 @@ NA,"Private","Ross, Kirsty","Glasgow","South Lanarkshire","Children","06/01/2023
 NA,"Private","Gault, Wendy","Inverurie","Aberdeenshire","Children","28/01/2019",5,NA,4,5,"20/12/2018","2009_3",0,0
 NA,"Private","Eccleson, Tracey","Airdrie","North Lanarkshire","Children","10/01/2023",5,5,5,5,"23/11/2022","2009_7",0,0
 NA,"Private","Coulthard, Pamela","Glasgow","East Renfrewshire","Children","14/09/2020",5,NA,5,5,"05/03/2020","2009_5",0,0
-NA,"Private","McGugan, Carol Ann","Bathgate","West Lothian","Children","05/08/2016",5,NA,4,5,"13/05/2016","2009_9",0,0
+NA,"Private","McGugan, Carol Ann","Bathgate","West Lothian","Children","24/06/2025",3,4,2,3,"21/05/2025","2009_9",0,0
 NA,"Private","Temple, Michelle","Westhill","Aberdeenshire","Children","20/04/2023",4,4,4,4,"06/03/2023","2009_7",0,0
 NA,"Private","McGoff, Sharleen","Falkirk","Falkirk","Children","30/08/2019",5,NA,5,5,"31/07/2019","2009_8",0,0
 NA,"Private","Perrie, Lorna & Allan","Strathaven","South Lanarkshire","Children","24/07/2024",5,5,5,5,"19/06/2024","2009_12",0,0
@@ -1208,11 +1184,9 @@ NA,"Private","Burns, Michelle","Irvine","North Ayrshire","Children","19/04/2022"
 NA,"Private","Campbell, Myra","Dalkeith","Midlothian","Children","28/03/2017",5,NA,5,5,"19/01/2017","2010_3",0,0
 NA,"Private","Haken, Lara","Livingston","West Lothian","Children","27/03/2025",5,5,6,6,"27/02/2025","2010_3",0,0
 NA,"Private","Kelso, Sharon","Stevenston","North Ayrshire","Children","21/05/2025",5,5,5,4,"01/05/2025","2011_11",0,0
-NA,"Private","Yuill, Susan","Glasgow","Stirling","Children","01/10/2018",5,NA,4,5,"30/08/2018","2010_5",0,0
 NA,"Private","Coull, Flora","Peebles","Scottish Borders","Children","01/10/2024",4,4,4,4,"28/08/2024","2010_6",0,0
 NA,"Private","Lyndsey's Little People","Cowdenbeath","Fife","Children","16/02/2023",5,4,4,5,"16/01/2023","2010_6",1,0
 NA,"Private","Sadler, Zoe","Ellon","Aberdeenshire","Children","08/03/2017",6,NA,6,6,"01/10/2021","2010_9",0,0
-NA,"Private","Petrie, Pamela","Aberdeen","Aberdeen City","Children","26/10/2020",4,NA,4,4,"15/03/2020","2010_8",0,0
 NA,"Private","Hatcher, Nicola","Tillicoultry","Clackmannanshire","Children","23/05/2023",5,4,4,5,"26/04/2023","2010_3",0,0
 NA,"Private","Rattray, Mary","Glasgow","Glasgow City","Children","27/06/2022",5,NA,5,5,"04/05/2022","2010_10",0,0
 NA,"Private","Jackie's Juniors","Duns","Scottish Borders","Children","18/09/2024",4,4,4,4,"26/08/2024","2010_11",0,0
@@ -1222,7 +1196,6 @@ NA,"Private","Sloan, Laura","Kilmarnock","East Ayrshire","Children","03/11/2017"
 NA,"Private","Killen, Frances","Glasgow","East Renfrewshire","Children","31/10/2016",5,NA,5,5,"13/09/2016","2010_7",0,0
 NA,"Private","Puddleducks Childminding","Castle Douglas","Dumfries & Galloway","Children","30/08/2022",5,5,5,5,"25/08/2022","2010_6",0,0
 NA,"Private","Todd, Kylie","Bonnyrigg","Midlothian","Children","01/08/2024",5,5,5,5,"04/07/2024","2010_12",0,0
-NA,"Private","McBride, Louise","Glasgow","East Dunbartonshire","Children","14/06/2016",5,NA,4,4,"22/04/2016","2010_9",0,0
 NA,"Private","McCabe, Lorraine","Dundee","Dundee City","Children","11/01/2023",5,4,5,5,"09/12/2022","2011_6",0,0
 NA,"Private","Cannon, Bernadette","Kinross","Perth & Kinross","Children","12/07/2024",5,4,4,4,"05/06/2024","2010_7",0,0
 NA,"Private","Sangster, Beverley","Aberdeen","Aberdeen City","Children","30/10/2024",5,5,4,4,"08/10/2024","2010_7",0,0
@@ -1254,15 +1227,14 @@ NA,"Private","Country Kids Limited","Ellon","Aberdeenshire","Children","03/04/20
 NA,"Private","Chalmers, Karen","Renfrew","Renfrewshire","Children","15/10/2021",5,NA,5,5,"17/09/2021","2010_10",0,0
 NA,"Private","Henry, Kirsten","Edinburgh","City of Edinburgh","Children","27/01/2025",4,4,4,5,"18/12/2024","2010_11",0,0
 NA,"Private","Bartkowiak, Izabela","Newton Stewart","Dumfries & Galloway","Children","05/10/2021",4,4,4,4,"25/03/2021","2012_3",0,0
-NA,"Private","Cherrie, Marion","Motherwell","North Lanarkshire","Children","19/10/2018",5,NA,5,5,"27/08/2018","2010_8",0,0
 NA,"Private","Reid, Laura Jayne","Ardrossan","North Ayrshire","Children","08/06/2022",5,NA,5,5,"21/04/2022","2010_9",0,0
 NA,"Private","Yellop, Jordanna","Biggar","South Lanarkshire","Children","23/05/2024",5,5,5,5,"07/05/2024","2010_12",0,0
 NA,"Private","Carlin, Deborah","Strathaven","South Lanarkshire","Children","26/06/2017",5,NA,4,5,"13/06/2017","2011_8",0,0
-NA,"Private","Baig, Sanaa","Glasgow","Glasgow City","Children","12/05/2025",4,4,4,4,"22/01/2025","2011_7",0,0
+NA,"Private","Baig, Sanaa","Glasgow","Glasgow City","Children","12/05/2025",4,4,4,4,"31/03/2025","2011_7",0,0
 NA,"Private","Mess, Shirley","Irvine","North Ayrshire","Children","15/12/2023",4,4,4,4,"13/11/2023","2011_10",0,0
 NA,"Private","Jackson, Evelyn","Lochwinnoch","Renfrewshire","Children","18/06/2021",4,4,4,4,"07/05/2021","2011_10",0,0
-NA,"Private","Ireland, Alison","Inverness","Highland","Children","08/02/2017",5,NA,5,5,"08/12/2016","2011_3",0,0
-NA,"Private","Caz's Kidz","Falkirk","Falkirk","Children","26/04/2018",5,NA,5,5,"12/03/2018","2012_6",0,0
+NA,"Private","Ireland, Alison","Inverness","Highland","Children","26/06/2025",4,4,4,4,"04/06/2025","2011_3",0,0
+NA,"Private","Caz's Kidz","Falkirk","Falkirk","Children","17/06/2025",4,3,3,4,"30/05/2025","2012_6",0,0
 NA,"Private","Allan, Rhona","Darvel","East Ayrshire","Children","09/12/2022",4,4,4,4,"29/11/2022","2011_1",0,0
 NA,"Private","Aitken, Dorothy","Dunfermline","Fife","Children","24/10/2024",4,3,3,3,"25/09/2024","2011_1",0,0
 NA,"Private","Pairman, Mandy","Helensburgh","Argyll & Bute","Children","06/12/2016",5,NA,6,6,"04/10/2021","2011_3",0,0
@@ -1288,7 +1260,7 @@ NA,"Private","MacFarlane, Angela","Inverness","Highland","Children","31/01/2024"
 NA,"Private","Sim, Amanda","Grantown-On-Spey","Highland","Children","02/03/2017",4,NA,4,5,"12/01/2017","2011_12",0,0
 NA,"Private","Rushforth, Leanne","Stirling","Stirling","Children","30/04/2019",5,4,4,5,"18/02/2019","2011_3",0,0
 NA,"Private","Mann, Jennifer","Carnoustie","Angus","Children","13/02/2024",4,4,4,4,"17/01/2024","2011_7",0,0
-NA,"Private","Elaine Michie Childminding","Glasgow","Glasgow City","Children","07/09/2016",4,NA,4,5,"02/05/2025","2011_11",0,0
+NA,"Private","Elaine Michie Childminding","Glasgow","Glasgow City","Children","02/06/2025",5,5,5,5,"02/05/2025","2011_11",0,0
 NA,"Private","Watson, Ann","Edinburgh","City of Edinburgh","Children","15/12/2023",5,5,4,5,"24/11/2023","2011_9",0,0
 NA,"Private","Kelli Buglass","Edinburgh","City of Edinburgh","Children","14/02/2023",4,4,4,4,"01/12/2022","2011_8",0,0
 NA,"Private","Young, Debra","Edinburgh","City of Edinburgh","Children","18/04/2019",4,NA,4,4,"14/03/2019","2011_4",0,0
@@ -1312,7 +1284,7 @@ NA,"Private","Wilson, Morelle","Westhill","Aberdeenshire","Children","29/05/2024
 NA,"Private","Joanne Fowler Childminding","Leven","Fife","Children","11/07/2018",5,NA,5,5,"25/05/2018","2011_4",0,0
 NA,"Private","Tracy's Childminding","Falkirk","Falkirk","Children","21/03/2024",5,5,5,5,"16/02/2024","2011_7",0,0
 NA,"Private","Lynsey Brogan's Childminding","Clydebank","West Dunbartonshire","Children","07/08/2023",5,5,5,5,"22/06/2023","2011_10",0,0
-NA,"Private","Robertson, Lorna","Kirkwall","Orkney Islands","Children","07/06/2017",5,NA,5,5,"11/04/2017","2011_6",0,0
+NA,"Private","Robertson, Lorna","Kirkwall","Orkney Islands","Children","26/06/2025",5,5,5,5,"24/04/2025","2011_6",0,0
 NA,"Private","Rix, Kelly","Bishopton","Renfrewshire","Children","06/11/2018",5,NA,5,5,"04/09/2018","2011_4",0,0
 NA,"Private","Janie's Childminding","Glasgow","East Renfrewshire","Children","06/09/2016",5,NA,5,5,"19/07/2016","2011_7",0,0
 NA,"Private","Gallacher, Lesley","Paisley","Renfrewshire","Children","21/05/2024",5,5,5,5,"13/05/2024","2011_4",0,0
@@ -1320,7 +1292,7 @@ NA,"Private","Katy's Kids","Oban","Argyll & Bute","Children","24/12/2024",5,5,5,
 NA,"Private","Barclay, Lanie","Dundee","Dundee City","Children","20/03/2024",5,5,5,5,"22/02/2024","2011_9",0,0
 NA,"Private","Graham, Michelle","Johnstone","Renfrewshire","Children","18/04/2018",4,NA,4,4,"20/03/2018","2011_9",0,0
 NA,"Private","McRae, Linda","Aberdeenshire","Aberdeenshire","Children","05/09/2023",4,5,4,5,"02/08/2023","2011_8",0,0
-NA,"Private","Smith, Kym","Lanark","South Lanarkshire","Children","21/08/2024",3,4,3,4,"31/07/2024","2011_7",0,0
+NA,"Private","Smith, Kym","Lanark","South Lanarkshire","Children","20/06/2025",4,4,4,4,"28/05/2025","2011_7",0,0
 NA,"Private","Monaghan, Julie","Renfrew","Renfrewshire","Children","22/10/2018",5,NA,4,5,"26/09/2018","2011_5",0,0
 NA,"Private","Fleming, Julia","Lairg","Highland","Children","26/09/2024",4,2,3,3,"09/08/2024","2011_11",0,0
 NA,"Private","Kelly, Rose","Glasgow","South Lanarkshire","Children","18/03/2024",5,5,5,5,"20/02/2024","2011_6",0,0
@@ -1330,7 +1302,7 @@ NA,"Private","Morrison, Lisa","Glasgow","South Lanarkshire","Children","11/06/20
 NA,"Private","Coutts, Tracie","Aberdeen","Aberdeenshire","Children","29/01/2024",5,5,5,5,"22/01/2024","2011_7",0,0
 NA,"Private","Wilson, Anne Marie","Linlithgow","West Lothian","Children","03/05/2019",5,NA,4,5,"09/04/2019","2011_11",0,0
 NA,"Private","McKellar, Tanya","Glasgow","East Renfrewshire","Children","27/08/2024",5,4,4,4,"22/08/2024","2011_10",0,0
-NA,"Private","Kirkpatrick, Lynne","Glasgow","East Renfrewshire","Children","09/05/2018",5,NA,5,5,"13/03/2018","2011_10",0,0
+NA,"Private","Kirkpatrick, Lynne","Glasgow","East Renfrewshire","Children","20/06/2025",5,5,5,5,"22/05/2025","2011_10",0,0
 NA,"Private","Kathleen's Childminding Service","Blairgowrie","Perth & Kinross","Children","26/09/2023",5,5,5,4,"11/08/2023","2011_6",0,0
 NA,"Private","Devine, Victoria","Glasgow","Glasgow City","Children","17/07/2020",5,NA,4,5,"02/03/2020","2012_2",0,0
 NA,"Private","Munro, Sarah","Shetland","Shetland Islands","Children","01/06/2016",5,NA,5,5,"24/05/2016","2011_6",0,0
@@ -1365,7 +1337,7 @@ NA,"Private","Wright, Margaret-Ann","Blairgowrie","Perth & Kinross","Children","
 NA,"Private","Allan, Leigh","Ellon","Aberdeenshire","Children","05/09/2023",4,4,4,4,"07/08/2023","2012_2",0,0
 NA,"Private","Mrs Angela D Watson","Glasgow","East Renfrewshire","Children","19/06/2024",5,4,4,5,"15/04/2024","2012_1",0,0
 NA,"Private","Sandra Isles Childminding Service","Falkirk","Falkirk","Children","14/03/2024",5,5,5,5,"12/02/2024","2011_12",0,0
-NA,"Private","Lawrie, Fiona","Edinburgh","City of Edinburgh","Children","13/01/2017",5,NA,5,5,"24/04/2025","2012_2",0,0
+NA,"Private","Lawrie, Fiona","Edinburgh","City of Edinburgh","Children","03/06/2025",4,4,4,4,"24/04/2025","2012_2",0,0
 NA,"Private","Bodys, Gillian","Cumnock","East Ayrshire","Children","22/01/2020",6,5,5,5,"29/10/2019","2011_12",0,0
 NA,"Private","Yvonne Hay Childminding","Glasgow","Glasgow City","Children","05/08/2024",5,5,5,5,"15/07/2024","2012_2",0,0
 NA,"Private","Simpson, Laura","Forfar","Angus","Children","25/04/2025",5,5,5,4,"16/04/2025","2012_7",0,0
@@ -1387,7 +1359,7 @@ NA,"Private","Chalmers, Elaine","Coatbridge","North Lanarkshire","Children","06/
 NA,"Private","Kidz@ Karen's","Peebles","Scottish Borders","Children","01/11/2022",5,5,5,5,"28/09/2022","2012_4",0,0
 NA,"Private","Wellie Boots","Huntly","Aberdeenshire","Children","15/11/2023",5,6,5,6,"17/10/2023","2013_2",0,0
 NA,"Private","Busy B's","Westhill","Aberdeenshire","Children","12/03/2025",4,4,4,5,"06/02/2025","2012_4",1,0
-NA,"Private","Cowe, Donna","East Linton","East Lothian","Children","13/11/2017",5,NA,4,5,"06/09/2017","2012_8",0,0
+NA,"Private","Cowe, Donna","East Linton","East Lothian","Children","13/11/2017",5,NA,4,5,"06/09/2017","2012_8",1,0
 NA,"Private","Angie Browne's Childminding Service","Glasgow","South Lanarkshire","Children","06/06/2024",5,5,5,5,"07/05/2024","2012_5",0,0
 NA,"Private","Dawn's Childminding Service","Glasgow","South Lanarkshire","Children","14/06/2017",4,NA,4,4,"16/05/2017","2012_4",0,0
 NA,"Private","Rathey, Fiona","Glasgow","Glasgow City","Children","14/12/2017",4,NA,4,4,"16/11/2017","2012_7",0,0
@@ -1411,8 +1383,8 @@ NA,"Private","Singh, Laura","Linlithgow","West Lothian","Children","21/07/2017",
 NA,"Private","Kiddies Childminding Services","Tillicoultry","Clackmannanshire","Children","01/05/2017",4,NA,4,4,"10/04/2017","2012_8",0,0
 NA,"Private","Julie's Childcare Service","Inverness","Highland","Children","20/10/2023",4,4,4,4,"30/08/2023","2012_6",0,0
 NA,"Private","Little Lambs Childminding","Aberdeen","Aberdeen City","Children","31/01/2025",4,4,4,4,"15/01/2025","2012_8",0,0
-NA,"Private","Childminding By Kerry","Stonehaven","Aberdeenshire","Children","05/06/2019",4,NA,4,4,"12/02/2019","2012_7",0,0
-NA,"Private","Anderson Childminding","Leven","Fife","Children","06/02/2024",3,4,3,4,"16/01/2024","2012_7",1,0
+NA,"Private","Childminding By Kerry","Stonehaven","Aberdeenshire","Children","11/06/2025",4,5,4,4,"06/05/2025","2012_7",0,0
+NA,"Private","Anderson Childminding","Leven","Fife","Children","30/06/2025",4,4,3,4,"26/05/2025","2012_7",1,0
 NA,"Private","Low Town Childminding","Stirling","Stirling","Children","26/09/2024",4,5,3,4,"16/08/2024","2012_10",0,0
 NA,"Private","Angela McKinlay - Childminder","Livingston","West Lothian","Children","27/05/2025",5,5,5,5,"30/04/2025","2012_7",0,0
 NA,"Private","Jaszewski, Debbie","Girvan","South Ayrshire","Children","22/05/2018",5,NA,5,5,"12/04/2018","2012_5",0,0
@@ -1424,12 +1396,11 @@ NA,"Private","PiPsqueaks","Tranent","East Lothian","Children","26/03/2025",4,4,3
 NA,"Private","Sarah's Childminding","Langholm","Dumfries & Galloway","Children","27/09/2017",5,NA,5,5,"31/08/2017","2012_7",0,0
 NA,"Private","Samantha Jones Childminding","Perth","Perth & Kinross","Children","03/01/2020",4,NA,4,5,"19/11/2019","2012_10",0,0
 NA,"Private","Hurst, Naomi","Aberdeen","Aberdeen City","Children","02/12/2019",5,NA,5,5,"08/10/2019","2012_9",0,0
-NA,"Private","AskLynn 4 Childminding","Peterhead","Aberdeenshire","Children","09/07/2024",3,4,3,3,"10/06/2024","2012_7",0,0
 NA,"Private","Edmondson, Melanie","Melrose","Scottish Borders","Children","24/08/2022",4,4,4,4,"21/07/2022","2012_7",0,0
 NA,"Private","Duguid, Andrea","Turriff","Aberdeenshire","Children","20/04/2018",5,NA,5,5,"20/03/2018","2012_8",0,0
 NA,"Private","Maria's Childminding","Aberdeen","Aberdeen City","Children","31/05/2018",5,NA,5,5,"29/03/2018","2012_9",0,0
 NA,"Private","Lynnette Graham Childminding Services","Glasgow","East Dunbartonshire","Children","13/05/2025",5,5,5,4,"15/04/2025","2012_9",0,0
-NA,"Private","Johnston, Christina","Kirkwall","Orkney Islands","Children","07/06/2017",5,NA,5,5,"11/05/2017","2012_6",0,0
+NA,"Private","Johnston, Christina","Kirkwall","Orkney Islands","Children","26/06/2025",5,5,5,5,"23/04/2025","2012_6",0,0
 NA,"Private","Su Kirbitson Childminding Services","Edinburgh","City of Edinburgh","Children","11/06/2024",5,5,4,4,"09/05/2024","2012_7",0,0
 NA,"Private","Oldale-Farquhar, Gladys","Aberdeen","Aberdeen City","Children","20/06/2017",5,NA,5,5,"24/03/2025","2012_8",0,0
 NA,"Private","Ina's Childminding","Lochgelly","Fife","Children","01/11/2022",5,5,4,4,"20/10/2022","2012_9",0,0
@@ -1478,14 +1449,14 @@ NA,"Private","Leona Dean Childminder","Inverness","Highland","Children","19/04/2
 NA,"Private","Sam's Childminding Services","Aberdeen","Aberdeenshire","Children","25/08/2023",4,4,4,4,"26/07/2023","2013_1",0,0
 NA,"Private","Kirsty's Childminding Services","Aberdeen","Aberdeen City","Children","04/02/2025",4,4,4,4,"10/01/2025","2013_1",0,0
 NA,"Private","Helen Blair Childminding","Dumbarton","Argyll & Bute","Children","23/04/2025",4,4,4,4,"05/03/2025","2013_1",0,0
-NA,"Private","Birnie, Sharon","Elgin","Moray","Children","17/05/2024",3,4,4,4,"16/04/2024","2013_1",0,0
+NA,"Private","Birnie, Sharon","Elgin","Moray","Children","24/06/2025",4,5,5,5,"28/05/2025","2013_1",0,0
 NA,"Private","Jo-Jo's Juniors","Kilmarnock","East Ayrshire","Children","27/05/2019",5,NA,5,5,"23/04/2019","2013_5",0,0
 NA,"Private","Heather's Childminding Services","Stonehaven","Aberdeenshire","Children","12/01/2023",5,5,4,5,"16/12/2022","2013_3",0,0
 NA,"Private","Fees C.M. Service","Aberdeen","Aberdeen City","Children","04/02/2019",5,NA,5,5,"10/12/2018","2013_3",0,0
 NA,"Private","Mary Morrison's Childminding","Lanark","South Lanarkshire","Children","28/08/2023",5,5,5,5,"13/07/2023","2012_11",0,0
 NA,"Private","Hunter, Kerry","Glasgow","North Lanarkshire","Children","12/06/2024",5,5,5,5,"28/05/2024","2013_2",0,0
-NA,"Private","Hazel's Childminding Services","Larbert","Falkirk","Children","04/06/2018",5,NA,4,5,"27/04/2018","2013_4",0,0
-NA,"Private","Lisa's Childminding Service","Glasgow","South Lanarkshire","Children","07/05/2018",5,NA,5,5,"21/05/2025","2013_4",0,0
+NA,"Private","Hazel's Childminding Services","Larbert","Falkirk","Children","26/06/2025",5,5,5,5,"15/05/2025","2013_4",0,0
+NA,"Private","Lisa's Childminding Service","Glasgow","South Lanarkshire","Children","03/06/2025",5,5,5,5,"21/05/2025","2013_4",0,0
 NA,"Private","Karen Robertson Childminder","Larbert","Falkirk","Children","16/05/2018",5,NA,4,5,"12/04/2018","2013_6",0,0
 NA,"Private","Claire McDougall Childminder","Kirkliston","City of Edinburgh","Children","20/12/2018",5,NA,5,5,"20/03/2018","2013_2",0,0
 NA,"Private","Lynsey's Childminding","Blairgowrie","Perth & Kinross","Children","26/09/2023",5,5,5,4,"11/08/2023","2013_6",0,0
@@ -1504,7 +1475,7 @@ NA,"Private","Joanna Barron Childminder","Glasgow","East Dunbartonshire","Childr
 NA,"Private","Gemma Robertson","Arbroath","Angus","Children","10/01/2024",5,5,5,5,"21/11/2023","2013_5",0,0
 NA,"Private","Marianne Jeffrey","Motherwell","North Lanarkshire","Children","26/02/2024",5,5,5,5,"31/01/2024","2013_4",0,0
 NA,"Private","Gilda's Childcare","Glasgow","East Dunbartonshire","Children","03/03/2025",4,4,4,4,"06/02/2025","2013_8",0,0
-NA,"Private","Chickadee's Childcare","Kirkliston","City of Edinburgh","Children","28/03/2019",5,NA,5,5,"20/08/2018","2013_7",0,0
+NA,"Private","Chickadee's Childcare","Kirkliston","City of Edinburgh","Children","23/06/2025",4,4,4,4,"21/05/2025","2013_7",0,0
 NA,"Private","Carol Gillies Childminder","Glasgow","South Lanarkshire","Children","16/09/2019",5,NA,5,5,"08/08/2019","2013_5",0,0
 NA,"Private","Allan, Fiona","Aberdeen","Aberdeen City","Children","31/10/2019",5,NA,5,5,"30/09/2019","2013_5",0,0
 NA,"Private","Guardianship Childminding","Tranent","East Lothian","Children","01/05/2023",5,4,4,4,"22/03/2023","2014_11",0,0
@@ -1637,7 +1608,7 @@ NA,"Private","Cat's Childminding Service","Glasgow","North Lanarkshire","Childre
 NA,"Private","Little Rascals Childminding","Musselburgh","East Lothian","Children","17/10/2022",4,4,4,5,"26/08/2022","2014_7",0,0
 NA,"Private","Sharon Oswald Out of School Care","Glasgow","South Lanarkshire","Children","09/03/2023",4,4,4,4,"30/01/2023","2014_10",0,2
 NA,"Private","Dawn Connah Childminding","Peterhead","Aberdeenshire","Children","28/03/2018",5,NA,4,4,"22/02/2018","2014_6",0,0
-NA,"Private","G4 Minders","Glasgow","Glasgow City","Children","29/11/2019",5,NA,5,5,"25/10/2019","2014_9",0,0
+NA,"Private","G4 Minders","Glasgow","Glasgow City","Children","27/06/2025",4,4,4,4,"29/05/2025","2014_9",0,0
 NA,"Private","Bell, Sharon","Kilmarnock","East Ayrshire","Children","22/05/2025",5,5,4,5,"07/05/2025","2014_6",0,0
 NA,"Private","Cherry Tree Childminding Service","Glasgow","South Lanarkshire","Children","12/12/2019",5,4,4,5,"31/10/2019","2014_6",0,0
 NA,"Private","McDonald Childminding","Penicuik","Midlothian","Children","09/03/2023",4,4,4,4,"24/01/2023","2014_8",0,0
@@ -1656,7 +1627,6 @@ NA,"Private","Byrne, Nicola","Glasgow","Glasgow City","Children","17/01/2020",4,
 NA,"Private","Fiona's Childminding Service","Newport-On-Tay","Fife","Children","06/02/2020",5,NA,4,5,"16/01/2020","2014_7",0,0
 NA,"Private","Cassidy, Pauline","Aberdeen","Aberdeen City","Children","03/04/2024",4,4,4,4,"14/02/2024","2014_8",0,0
 NA,"Private","Livingston, Catherine","Kilwinning","North Ayrshire","Children","02/05/2017",5,NA,5,5,"24/02/2017","2015_3",0,0
-NA,"Private","Amy Wilson Childminding","Dunfermline","Fife","Children","05/08/2019",5,5,5,5,"27/06/2019","2014_8",0,0
 NA,"Private","Carr, Wendy","Kilmarnock","East Ayrshire","Children","17/10/2022",5,5,5,5,"08/09/2022","2014_7",0,0
 NA,"Private","Johnston, Louise","Elgin","Moray","Children","08/12/2022",5,5,5,5,"01/11/2022","2014_8",0,0
 NA,"Private","Sharon Carpenter Childminder","Crieff","Perth & Kinross","Children","20/02/2020",5,NA,4,5,"10/01/2020","2014_10",0,0
@@ -1664,7 +1634,7 @@ NA,"Private","Geraldine Barr Childminding","West Kilbride","North Ayrshire","Chi
 NA,"Private","Balkenny Childminding","Maybole","South Ayrshire","Children","04/03/2020",5,NA,5,5,"12/02/2020","2014_7",0,0
 NA,"Private","Claire Bear Childcare","Kirkcaldy","Fife","Children","28/09/2022",5,4,4,4,"27/07/2022","2014_9",0,0
 NA,"Private","Tammy Francis Childminding","Paisley","Renfrewshire","Children","15/06/2020",4,NA,4,4,"04/02/2020","2014_8",0,0
-NA,"Private","McSheffrey, Ruth","Elgin","Moray","Children","11/01/2017",5,NA,5,5,"18/11/2016","2014_12",0,0
+NA,"Private","McSheffrey, Ruth","Elgin","Moray","Children","19/06/2025",5,4,4,5,"08/05/2025","2014_12",0,0
 NA,"Private","Sandi's Little Mon-stars","Carluke","South Lanarkshire","Children","10/01/2020",5,NA,5,5,"28/11/2019","2014_10",0,0
 NA,"Private","Linda Shirreffs Childminding","Aberdeen","Aberdeen City","Children","13/09/2017",4,NA,4,4,"11/07/2017","2014_9",0,0
 NA,"Private","Claire Munro Childminding","Aberdeen","Aberdeen City","Children","31/08/2023",5,4,4,4,"18/08/2023","2014_10",0,0
@@ -1681,8 +1651,6 @@ NA,"Private","Debbie's Day Care","Dundee","Angus","Children","28/05/2024",5,5,4,
 NA,"Private","Kathryn's Child Care Services","Dunblane","Stirling","Children","07/01/2020",5,NA,5,5,"05/12/2019","2014_10",0,0
 NA,"Private","Welly Walkers Childminding Family","Banff","Aberdeenshire","Children","19/02/2024",5,6,5,6,"06/02/2024","2014_10",0,0
 NA,"Private","Vanessa Cairns Childminding Service","Kirkliston","City of Edinburgh","Children","15/03/2018",5,NA,5,5,"30/01/2018","2014_11",0,0
-NA,"Private","Maggie's Childminding at Old Mill Farm","Auchterarder","Perth & Kinross","Children","04/04/2024",4,4,3,4,"28/02/2024","2014_10",0,2
-NA,"Private","Taylor, Marion","Greenock","Inverclyde","Children","28/08/2019",5,NA,5,5,"06/08/2019","2014_9",0,0
 NA,"Private","Mitchell, Eleanor","Glasgow","South Lanarkshire","Children","05/10/2021",4,NA,4,4,"09/03/2020","2014_12",0,0
 NA,"Private","Jack's Juniors Childminding Service","Dundee","Perth & Kinross","Children","16/10/2019",5,NA,5,5,"26/08/2019","2014_11",0,0
 NA,"Private","Kirk, Tracey","Glasgow","South Lanarkshire","Children","08/07/2019",5,NA,4,5,"24/06/2019","2014_9",0,0
@@ -1712,7 +1680,6 @@ NA,"Private","Bumbly Bees","Dundee","Dundee City","Children","29/05/2023",5,5,5,
 NA,"Private","Ruth's Childminding","Montrose","Aberdeenshire","Children","08/01/2020",5,NA,5,5,"13/12/2019","2014_12",0,0
 NA,"Private","Slackbuie Childminding","Inverness","Highland","Children","30/11/2022",4,4,4,4,"07/11/2022","2015_2",0,0
 NA,"Private","Amanda Connell (Childminding)","Troon","South Ayrshire","Children","22/04/2025",5,4,4,5,"14/03/2025","2014_11",0,0
-NA,"Private","Yvonne Watt Childminding","Penicuik","Midlothian","Children","28/08/2019",5,NA,5,5,"25/07/2019","2014_12",0,0
 NA,"Private","Suky's Childminding Service","Edinburgh","City of Edinburgh","Children","23/10/2024",5,5,5,5,"20/09/2024","2015_5",0,0
 NA,"Private","Home Grown Early Learning and Childcare","Castle Douglas","Dumfries & Galloway","Children","30/07/2020",5,5,5,6,"12/03/2020","2015_2",0,0
 NA,"Private","Denise Gallagher Childminder","Larbert","Falkirk","Children","13/03/2023",4,4,4,5,"11/01/2023","2015_7",0,0
@@ -1751,15 +1718,13 @@ NA,"Private","Janet's Childminding","Livingston","West Lothian","Children","24/0
 NA,"Private","Cheeky Cherubs Childminding","Buckie","Moray","Children","27/09/2024",5,5,5,5,"06/09/2024","2015_7",0,0
 NA,"Private","Hendren, Jacqueline","Ayr","South Ayrshire","Children","14/08/2023",5,5,5,5,"27/06/2023","2015_5",0,0
 NA,"Private","Julie Napier Childminding Services","Aberdeen","Aberdeen City","Children","27/06/2019",5,5,5,5,"29/05/2019","2015_8",0,0
-NA,"Private","Emma Hobbin's Childminding","Lochgelly","Fife","Children","24/09/2018",5,NA,5,5,"22/08/2018","2015_5",0,0
 NA,"Private","Little Angels","Cumnock","East Ayrshire","Children","17/06/2020",6,5,5,6,"24/02/2020","2015_5",0,0
 NA,"Private","Rockova, Alena","Linlithgow","West Lothian","Children","29/03/2023",5,5,5,5,"13/01/2023","2015_9",0,0
 NA,"Private","Arnott, Laura","Aberdeen","Aberdeen City","Children","04/08/2023",5,5,5,5,"05/07/2023","2015_7",0,0
-NA,"Private","Avril Morrice Childminding","Kilmarnock","East Ayrshire","Children","07/07/2017",4,NA,4,4,"20/06/2017","2015_8",0,0
 NA,"Private","Barbara's Childminding Service","Inverness","Highland","Children","28/04/2022",5,NA,4,5,"13/04/2022","2015_7",0,0
 NA,"Private","Bernadette's Childminding Service","Kirkcaldy","Fife","Children","21/11/2022",4,4,4,5,"09/09/2022","2015_6",0,0
 NA,"Private","Campsie Leisure","Glasgow","East Dunbartonshire","Children","07/12/2023",5,5,5,5,"25/10/2023","2015_10",0,0
-NA,"Private","Myriam Abedi Childminding Service","Glasgow","Glasgow City","Children","10/01/2017",4,NA,5,5,"15/12/2016","2015_10",0,0
+NA,"Private","Myriam Abedi Childminding Service","Glasgow","Glasgow City","Children","10/06/2025",4,5,5,5,"15/05/2025","2015_10",0,0
 NA,"Private","Cheeky Cherubs","Bathgate","West Lothian","Children","23/06/2017",5,NA,4,4,"11/05/2017","2016_2",0,0
 NA,"Private","Fiona Robin Childminding","Beith","North Ayrshire","Children","16/09/2016",5,NA,5,5,"15/07/2016","2015_7",0,0
 NA,"Private","Hayley's Childminding","Forfar","Angus","Children","23/11/2022",6,5,5,6,"28/10/2022","2015_7",0,0
@@ -1769,7 +1734,6 @@ NA,"Private","Wholesome Children","Musselburgh","East Lothian","Children","04/01
 NA,"Private","Smart Kids","Kirkcaldy","Fife","Children","01/12/2022",4,4,4,4,"25/10/2022","2015_10",0,0
 NA,"Private","Little Button Mushroom Childminding","Hamilton","South Lanarkshire","Children","03/10/2016",5,NA,5,5,"19/07/2016","2015_8",0,0
 NA,"Private","Anthea's Childminding Service","Newport On Tay","Fife","Children","26/04/2024",5,5,5,5,"16/04/2024","2015_7",0,0
-NA,"Private","Little Smurfs Childminding Services","Inverness","Highland","Children","22/05/2023",4,3,3,3,"17/04/2023","2015_8",0,0
 NA,"Private","Caroline's","Bathgate","West Lothian","Children","01/08/2016",5,NA,6,6,"30/06/2016","2015_7",0,0
 NA,"Private","Ines Parker Childminding Service","Glasgow","East Dunbartonshire","Children","31/08/2023",5,5,5,5,"24/07/2023","2015_7",0,0
 NA,"Private","Claire Mathieson Childminding","Glasgow","Glasgow City","Children","13/02/2020",4,NA,4,4,"14/01/2020","2015_10",0,0
@@ -1781,7 +1745,6 @@ NA,"Private","Lolo's Rascals","Aberdeen","Aberdeen City","Children","15/02/2018"
 NA,"Private","Honey Bunny Childcare","Kirknewton","City of Edinburgh","Children","05/04/2017",5,NA,5,5,"27/01/2017","2015_9",0,0
 NA,"Private","Pauline Bree Childminding","Glasgow","East Renfrewshire","Children","24/07/2023",5,5,5,5,"23/06/2023","2015_11",0,0
 NA,"Private","Amanda McMenamin Childminding Service","Bonnybridge","Falkirk","Children","17/02/2023",4,4,4,4,"14/11/2022","2015_8",0,0
-NA,"Private","Bonny Kinder","Glasgow","Glasgow City","Children","11/01/2018",4,NA,4,4,"22/11/2017","2015_10",0,0
 NA,"Private","Ryan, Colleen","Fort William","Highland","Children","14/01/2022",5,NA,5,5,"17/11/2021","2015_11",0,0
 NA,"Private","Libby Cross Childminding Service","Glasgow","Glasgow City","Children","01/06/2022",5,NA,5,4,"28/04/2022","2015_9",0,0
 NA,"Private","Daisy Sparkles Childminding","Edinburgh","City of Edinburgh","Children","09/01/2017",5,NA,4,5,"17/11/2016","2015_10",0,0
@@ -1791,7 +1754,7 @@ NA,"Private","K and K Childminding","Peterhead","Aberdeenshire","Children","24/0
 NA,"Private","Cheeky Cherubs","Callander","Stirling","Children","06/06/2023",4,4,3,4,"18/05/2023","2015_8",0,0
 NA,"Private","Grant, Anna","Glenrothes","Fife","Children","02/02/2024",5,5,5,5,"30/01/2024","2015_9",0,0
 NA,"Private","Heather's Hungry Caterpillars Child Minding Service","Kilwinning","North Ayrshire","Children","24/10/2024",5,4,4,5,"17/09/2024","2015_8",0,0
-NA,"Private","Lamb, Angela","Aberdeen","Aberdeen City","Children","31/01/2017",4,NA,4,4,"18/11/2016","2015_9",0,0
+NA,"Private","Lamb, Angela","Aberdeen","Aberdeen City","Children","12/06/2025",4,3,3,3,"09/05/2025","2015_9",0,0
 NA,"Private","Litwinienko, Dagmara","Livingston","West Lothian","Children","17/01/2018",4,NA,4,4,"30/11/2017","2015_12",0,0
 NA,"Private","Elaine Macaulay Childminding","Livingston","West Lothian","Children","01/07/2024",4,4,4,4,"24/05/2024","2015_9",0,0
 NA,"Private","Robertson, Heather","Westhill","Aberdeenshire","Children","27/09/2023",5,5,4,4,"07/09/2023","2015_10",0,0
@@ -1811,7 +1774,7 @@ NA,"Private","Lynsay Mercer Childminding","Bo'ness","Falkirk","Children","21/12/
 NA,"Private","Cheeky Treasures","Glasgow","Glasgow City","Children","10/05/2018",5,5,4,5,"26/02/2018","2015_9",0,0
 NA,"Private","Grace's Childminding","Broxburn","West Lothian","Children","12/08/2024",4,4,3,4,"23/07/2024","2015_9",0,0
 NA,"Private","Children First","Glasgow","Glasgow City","Children","22/02/2017",4,NA,4,4,"17/01/2017","2016_1",0,0
-NA,"Private","Biggar Little Ones - Registered Childminding Service","Biggar","South Lanarkshire","Children","17/10/2016",5,NA,4,5,"01/09/2016","2015_9",0,0
+NA,"Private","Biggar Little Ones - Registered Childminding Service","Biggar","South Lanarkshire","Children","17/10/2016",5,NA,4,5,"17/06/2025","2015_9",0,0
 NA,"Private","Gemma Lander Childminder Service","Elgin","Moray","Children","05/01/2022",6,NA,5,5,"15/11/2021","2015_10",0,0
 NA,"Private","Lizzie's Day Care","Newbridge","City of Edinburgh","Children","12/07/2024",5,5,5,5,"17/06/2024","2015_11",0,0
 NA,"Private","Elizabeth Orr Childminding","Paisley","Renfrewshire","Children","04/03/2024",4,4,4,4,"02/02/2024","2016_4",0,0
@@ -1829,7 +1792,7 @@ NA,"Private","Rebecca's Childminding","Newton Stewart","Dumfries & Galloway","Ch
 NA,"Private","Lisa Marshall's Childminding","Kinross","Perth & Kinross","Children","19/12/2018",4,NA,4,4,"06/11/2018","2015_12",0,0
 NA,"Private","Emma's Childminding Service","Inverness","Highland","Children","23/08/2022",5,5,4,5,"16/08/2022","2015_11",0,0
 NA,"Private","Wendy House Childcare","Dundee","Angus","Children","06/12/2022",5,5,4,5,"30/09/2022","2015_12",0,0
-NA,"Private","Brigid's Childminding Service","Dunfermline","Fife","Children","30/04/2021",5,5,5,5,"12/03/2021","2015_11",0,0
+NA,"Private","Brigid's Childminding Service","Dunfermline","Fife","Children","18/06/2025",5,5,5,5,"06/06/2025","2015_11",0,0
 NA,"Private","Elizabeth Ferrier Childminding Service","Glasgow","South Lanarkshire","Children","16/11/2022",4,4,4,5,"26/10/2022","2015_11",0,0
 NA,"Private","Shooting Stars Childminding","Cumbernauld","North Lanarkshire","Children","21/02/2019",4,NA,4,4,"08/01/2019","2015_11",0,0
 NA,"Private","McIntyre, Tracey","Kilmarnock","East Ayrshire","Children","04/10/2024",5,5,5,5,"23/08/2024","2015_11",0,0
@@ -1851,16 +1814,15 @@ NA,"Private","My Little Butterflies","Inverness","Highland","Children","09/09/20
 NA,"Private","Carole's Kiddies","Erskine","Renfrewshire","Children","23/06/2022",4,NA,5,5,"26/05/2022","2016_1",0,0
 NA,"Private","Karen's Childminding Service","Glasgow","North Lanarkshire","Children","27/11/2019",4,NA,4,5,"25/10/2019","2016_1",0,0
 NA,"Private","Kimberley McLean Childminding Services","Aberdeen","Aberdeen City","Children","04/12/2024",5,5,5,5,"04/11/2024","2016_3",0,0
-NA,"Private","Lindsay's Childminding Service","Campbeltown","Argyll & Bute","Children","21/06/2017",5,NA,5,5,"06/06/2017","2016_4",0,0
+NA,"Private","Lindsay's Childminding Service","Campbeltown","Argyll & Bute","Children","11/06/2025",4,5,5,5,"02/05/2025","2016_4",0,0
 NA,"Private","Tinytots Childminding","Airdrie","North Lanarkshire","Children","05/09/2022",4,5,4,5,"31/08/2022","2016_3",0,0
 NA,"Private","Kerry Childminding","Inverurie","Aberdeenshire","Children","24/03/2023",5,5,4,5,"20/02/2023","2016_2",0,0
 NA,"Private","Jenna Lunam Childminding","Dunbar","East Lothian","Children","12/01/2022",4,NA,4,4,"12/11/2021","2016_2",0,0
 NA,"Private","Happy Bees","Westhill","Aberdeenshire","Children","07/02/2019",4,NA,4,5,"11/12/2018","2016_2",0,0
 NA,"Private","Happy Bunnies","Dundee","Dundee City","Children","22/11/2023",5,5,5,5,"20/11/2023","2016_2",0,0
 NA,"Private","Heather Morrison Childminding","Kilmarnock","East Ayrshire","Children","10/07/2024",5,5,5,5,"17/04/2024","2016_2",0,0
-NA,"Private","Angel's Little Angels","Bathgate","West Lothian","Children","05/06/2024",4,3,3,4,"09/05/2024","2016_3",0,0
+NA,"Private","Angel's Little Angels","Bathgate","West Lothian","Children","13/06/2025",4,3,3,3,"21/05/2025","2016_3",0,0
 NA,"Private","Emma Louise McClenaghan Childminder","Bellshill","North Lanarkshire","Children","31/10/2022",5,5,5,5,"20/10/2022","2016_3",0,0
-NA,"Private","Kiddiewinks","Dunfermline","Fife","Children","22/11/2022",4,4,4,4,"19/10/2022","2016_2",0,0
 NA,"Private","Littletoots Childminding","Dundee","Dundee City","Children","23/04/2018",4,NA,4,5,"11/01/2018","2016_3",0,0
 NA,"Private","Roisin Kibble Childminding","Edinburgh","City of Edinburgh","Children","06/11/2024",5,5,5,5,"03/10/2024","2016_3",0,0
 NA,"Private","Lynne Marshall Childminding","Kinross","Perth & Kinross","Children","10/10/2024",4,4,4,3,"21/08/2024","2016_3",0,0
@@ -1873,7 +1835,7 @@ NA,"Private","Erica Grove Childcare","Dunfermline","Fife","Children","11/05/2023
 NA,"Private","K's Kids","Mauchline","East Ayrshire","Children","21/03/2022",4,NA,4,4,"11/03/2022","2016_2",0,0
 NA,"Private","Clarke's Creative Club","Bonnyrigg","Midlothian","Children","19/02/2024",5,5,5,5,"17/01/2024","2016_3",0,0
 NA,"Private","Here4you Childminding","Perth","Perth & Kinross","Children","12/09/2023",5,5,5,5,"10/08/2023","2016_2",0,0
-NA,"Private","Lucy Dorn Childminding","Glasgow","East Dunbartonshire","Children","20/03/2017",5,NA,5,5,"28/02/2017","2016_3",0,0
+NA,"Private","Lucy Dorn Childminding","Glasgow","East Dunbartonshire","Children","30/06/2025",5,4,4,5,"22/05/2025","2016_3",0,0
 NA,"Private","Jen's Childminding","Prestonpans","East Lothian","Children","01/06/2017",5,NA,5,5,"19/05/2017","2016_4",0,0
 NA,"Private","Webster, Dawn","Aberdeen","Aberdeen City","Children","28/04/2017",4,NA,4,5,"08/03/2017","2016_3",0,0
 NA,"Private","Clelland, Susan","Shetland","Shetland Islands","Children","13/05/2019",4,NA,4,5,"29/04/2019","2016_3",0,0
@@ -1886,17 +1848,16 @@ NA,"Private","Tojo and Toots Childminding Service","Dunfermline","Fife","Childre
 NA,"Private","Sandra Miller Childminding","Irvine","North Ayrshire","Children","02/08/2019",4,NA,4,5,"16/04/2019","2016_5",0,0
 NA,"Private","Messy Nessie Child Care","Inverness","Highland","Children","21/08/2023",5,5,5,5,"19/07/2023","2016_5",0,0
 NA,"Private","Audrey Keith Childminding","Cowdenbeath","Fife","Children","20/07/2023",5,4,4,4,"28/06/2023","2016_4",0,0
-NA,"Private","Jaynene Barnfather Childminding","Falkirk","Falkirk","Children","31/05/2024",3,4,3,4,"24/04/2024","2016_6",0,0
+NA,"Private","Jaynene Barnfather Childminding","Falkirk","Falkirk","Children","25/06/2025",4,3,3,4,"29/05/2025","2016_6",0,0
 NA,"Private","Michelle Prior Childminding","Dundee","Dundee City","Children","05/05/2023",4,4,4,5,"11/04/2023","2016_7",0,0
 NA,"Private","Little Stars Childminding","Stirling","Stirling","Children","23/02/2024",4,4,4,4,"26/01/2024","2016_6",0,0
 NA,"Private","Aunty Lou's Childminding","Turriff","Aberdeenshire","Children","10/04/2024",5,5,4,4,"07/03/2024","2016_6",0,0
 NA,"Private","Little Gems","Dumfries","Dumfries & Galloway","Children","21/05/2019",5,5,5,5,"01/05/2019","2016_5",0,0
 NA,"Private","Zara's Childminding","Falkirk","Falkirk","Children","03/07/2023",5,5,4,5,"09/06/2023","2016_7",0,0
 NA,"Private","Daisy Chains Childminding Service","Aberdeen","Aberdeenshire","Children","27/02/2024",5,5,5,5,"30/01/2024","2016_7",0,0
-NA,"Private","Jackie's Childminding","Glasgow","East Dunbartonshire","Children","20/07/2018",4,NA,4,4,"11/05/2018","2016_5",0,0
+NA,"Private","Jackie's Childminding","Glasgow","East Dunbartonshire","Children","10/06/2025",4,4,4,5,"06/05/2025","2016_5",0,0
 NA,"Private","Homestead Childminding Service","Aboyne","Aberdeenshire","Children","04/12/2023",5,5,4,5,"31/10/2023","2016_6",0,0
 NA,"Private","Ribeiro Halm, Raquel","Aberdeen","Aberdeen City","Children","16/05/2018",5,NA,5,5,"27/03/2025","2016_8",0,0
-NA,"Private","Angela Wilson Childminding","Glasgow","Glasgow City","Children","07/06/2017",4,NA,5,5,"18/05/2017","2016_6",0,0
 NA,"Private","Donna McEwing Childminding","Forfar","Angus","Children","31/08/2022",5,4,4,4,"11/08/2022","2016_7",0,0
 NA,"Private","Kelly McColl Childminding","Aberdeen","Aberdeen City","Children","08/01/2020",5,NA,4,5,"05/12/2019","2016_8",0,0
 NA,"Private","Little Raes of Sunshine","Carnoustie","Angus","Children","05/09/2024",3,4,3,3,"02/08/2024","2016_7",0,0
@@ -1906,7 +1867,7 @@ NA,"Private","The Wise Young Owls Childminding","Motherwell","North Lanarkshire"
 NA,"Private","Anne's Childminding Service","Glasgow","North Lanarkshire","Children","28/05/2024",4,4,4,4,"29/04/2024","2016_7",0,0
 NA,"Private","Wendy's Childminding","Kinross","Perth & Kinross","Children","24/07/2017",5,NA,4,5,"29/06/2017","2016_6",0,0
 NA,"Private","Afton Anderson Childminding","Lanark","South Lanarkshire","Children","16/06/2020",5,NA,4,5,"16/03/2020","2016_11",0,0
-NA,"Private","Morgan Moir Childminding Service","Aberdeen","Aberdeenshire","Children","31/07/2017",5,NA,5,5,"14/06/2017","2016_6",0,0
+NA,"Private","Morgan Moir Childminding Service","Aberdeen","Aberdeenshire","Children","20/06/2025",5,5,5,5,"19/05/2025","2016_6",0,0
 NA,"Private","Kelly's Kidzcare","Dumfries","Dumfries & Galloway","Children","15/06/2020",5,NA,5,5,"18/02/2020","2016_6",0,0
 NA,"Private","Bright Adventure","Glasgow","Glasgow City","Children","28/11/2019",4,NA,5,5,"07/10/2019","2016_7",0,0
 NA,"Private","Little Buttons","Perth","Perth & Kinross","Children","30/08/2017",4,NA,4,4,"26/06/2017","2016_6",0,0
@@ -1915,7 +1876,7 @@ NA,"Private","Sam's Childminding Services","Helensburgh","Argyll & Bute","Childr
 NA,"Private","The Little Cottage Childminding Service","Turriff","Aberdeenshire","Children","18/02/2019",4,NA,4,4,"03/12/2018","2016_8",0,0
 NA,"Private","Lisa Goldie Childminding","Airdrie","North Lanarkshire","Children","21/08/2024",5,4,4,4,"09/07/2024","2016_7",0,0
 NA,"Private","Claire Bell Childminding","Glasgow","East Renfrewshire","Children","12/07/2017",5,NA,5,5,"20/06/2017","2016_7",0,0
-NA,"Private","Little Hilltop Childcare","Kilmarnock","East Ayrshire","Children","30/08/2017",4,NA,4,5,"23/08/2017","2016_8",0,0
+NA,"Private","Little Hilltop Childcare","Kilmarnock","East Ayrshire","Children","13/06/2025",5,5,5,5,"22/05/2025","2016_8",0,0
 NA,"Private","Duncan, Gail","Leven","Fife","Children","05/02/2025",4,4,3,4,"19/11/2024","2016_9",0,0
 NA,"Private","Pauline's Childcare Services","Bathgate","West Lothian","Children","23/08/2017",4,NA,4,5,"07/08/2017","2016_8",0,0
 NA,"Private","Little Jewels Childminding Service","Dunfermline","Fife","Children","10/10/2024",5,5,5,5,"25/07/2024","2016_6",0,0
@@ -1976,7 +1937,6 @@ NA,"Private","Nicola Logue Childminding","Kilmarnock","East Ayrshire","Children"
 NA,"Private","Happy Days Childminding","Walkerburn","Scottish Borders","Children","21/05/2018",5,NA,5,5,"22/02/2018","2017_3",0,0
 NA,"Private","Theresa's Childminding Service","Huntly","Aberdeenshire","Children","11/03/2024",4,5,4,5,"26/02/2024","2017_4",0,0
 NA,"Private","Michelle Glover's Childminding Services","Glasgow","East Dunbartonshire","Children","18/10/2023",5,5,5,5,"28/09/2023","2017_2",0,0
-NA,"Private","Julie's Childcare","Arisaig","Highland","Children","31/05/2022",5,NA,5,5,"29/04/2022","2017_2",0,0
 NA,"Private","Annie's Kids Childminding","Wishaw","North Lanarkshire","Children","08/07/2024",4,4,4,5,"31/05/2024","2017_1",0,0
 NA,"Private","The Gang Hut Childminding","Montrose","Angus","Children","15/01/2018",5,NA,5,5,"06/12/2017","2017_3",0,0
 NA,"Private","Little Gems","Inverness","Highland","Children","25/10/2022",5,5,5,5,"27/09/2022","2017_2",0,0
@@ -2000,11 +1960,10 @@ NA,"Private","Jen Thomson Childminder","Elgin","Moray","Children","29/06/2022",5
 NA,"Private","Play Learn Grow Childminding Service","Aberdeen","Aberdeenshire","Children","12/11/2019",5,NA,5,5,"08/10/2019","2017_4",0,0
 NA,"Private","Fiona Young Childminding Service","Edinburgh","City of Edinburgh","Children","04/09/2018",5,4,5,5,"15/05/2018","2017_5",0,0
 NA,"Private","Stanek, Adriana","Bathgate","West Lothian","Children","20/08/2018",5,NA,4,4,"20/06/2018","2017_6",0,0
-NA,"Private","Cherry Blossom Childcare","Galston","East Ayrshire","Children","14/06/2018",4,NA,4,5,"08/05/2018","2017_4",0,0
 NA,"Private","AC Childminding","Grangemouth","Falkirk","Children","06/09/2022",4,4,4,4,"03/08/2022","2017_7",0,0
 NA,"Private","Tots to Teens","Elgin","Moray","Children","15/01/2019",4,NA,4,5,"04/12/2018","2017_5",0,0
 NA,"Private","Simone's Childminding","Edinburgh","City of Edinburgh","Children","26/06/2018",4,NA,4,4,"02/05/2018","2017_5",0,0
-NA,"Private","Little Rainbows Childminding","Edinburgh","City of Edinburgh","Children","06/11/2018",5,NA,5,5,"22/08/2018","2018_1",0,0
+NA,"Private","Little Rainbows Childminding","Edinburgh","City of Edinburgh","Children","24/06/2025",5,5,4,5,"27/05/2025","2018_1",0,0
 NA,"Private","Country Care Bears","Dundee","Angus","Children","08/11/2021",4,4,4,4,"13/10/2021","2017_5",0,0
 NA,"Private","Rainbow Corner Childcare","Lanark","South Lanarkshire","Children","06/07/2018",5,NA,4,5,"07/06/2018","2017_6",0,0
 NA,"Private","Mary Jane's Childcare","Dundee","Angus","Children","09/05/2025",4,4,3,3,"01/05/2025","2017_5",0,0
@@ -2012,9 +1971,10 @@ NA,"Private","Lynn Davidson Childminder","Aberdeen","Aberdeen City","Children","
 NA,"Private","The Little Things Childcare","Perth","Perth & Kinross","Children","11/05/2018",5,NA,4,5,"19/04/2018","2017_6",0,0
 NA,"Private","Hastie, Fiona","Kirkcaldy","Fife","Children","13/01/2025",5,4,3,4,"10/12/2024","2017_5",0,0
 NA,"Private","Black Isle Childminder - Karen","Dingwall","Highland","Children","23/05/2018",5,NA,5,5,"10/04/2018","2017_8",0,0
+NA,"Private","McMillan, Jane","Alloa","Clackmannanshire","Children","06/01/2020",5,NA,4,4,"28/11/2019","2017_7",0,0
 NA,"Private","Jenni Clark Childminder","Edinburgh","City of Edinburgh","Children","06/11/2018",5,NA,5,5,"30/08/2018","2017_7",0,0
 NA,"Private","Jenna's After School Care (Childminding)","Airdrie","North Lanarkshire","Children","13/11/2018",4,NA,4,4,"02/10/2018","2017_7",0,0
-NA,"Private","Jaclyn's Childminding","Stirling","Stirling","Children","22/11/2018",4,NA,4,4,"20/09/2018","2017_8",0,0
+NA,"Private","Jaclyn's Childminding","Stirling","Stirling","Children","27/06/2025",2,3,3,2,"02/05/2025","2017_8",0,0
 NA,"Private","Lindsay, June","Glasgow","South Lanarkshire","Children","30/10/2018",4,NA,4,4,"30/08/2018","2017_7",0,0
 NA,"Private","Clare McFarlane Childminding","Glasgow","East Dunbartonshire","Children","20/06/2018",5,NA,5,5,"22/05/2018","2017_6",0,0
 NA,"Private","Vicky's Buzy Bairnz","Falkirk","Falkirk","Children","13/08/2018",4,NA,4,4,"13/06/2018","2017_7",0,0
@@ -2042,7 +2002,7 @@ NA,"Private","The Teeny Wee Holiday Club","Strathpeffer","Highland","Children","
 NA,"Private","Stevenson, Bobbielee","Bathgate","West Lothian","Children","16/12/2021",2,NA,2,3,"28/02/2022","2017_10",0,0
 NA,"Private","Joyce Orr Childminding","Falkirk","Falkirk","Children","25/04/2023",5,5,5,5,"17/04/2023","2017_8",0,0
 NA,"Private","Carol's Childminding Service","Falkirk","Falkirk","Children","22/09/2023",5,4,4,4,"17/08/2023","2017_10",0,0
-NA,"Private","Anderson, Kimberley","Perth","Perth & Kinross","Children","22/08/2018",5,NA,5,5,"14/08/2018","2017_8",0,0
+NA,"Private","Anderson, Kimberley","Perth","Perth & Kinross","Children","04/06/2025",5,5,5,5,"13/05/2025","2017_8",0,0
 NA,"Private","Julienne Paterson Childminding","Inverness","Highland","Children","16/08/2018",4,NA,4,4,"10/07/2018","2017_10",0,0
 NA,"Private","Vicky's Childminding Service","Tranent","East Lothian","Children","23/10/2018",4,NA,4,4,"18/07/2018","2017_10",0,0
 NA,"Private","Linzi's Childminding","Dunfermline","Fife","Children","13/03/2024",5,5,5,5,"29/01/2024","2017_9",0,0
@@ -2064,11 +2024,11 @@ NA,"Private","Blainslie Childminding Services","Galashiels","Scottish Borders","
 NA,"Private","Rose Loughran Childminder","Stevenston","North Ayrshire","Children","11/12/2018",5,NA,4,5,"29/10/2018","2017_10",0,0
 NA,"Private","TLC Childminding","Glasgow","North Lanarkshire","Children","14/05/2019",4,NA,4,4,"27/02/2019","2017_11",0,0
 NA,"Private","Ashley Walker Childcare","Inverurie","Aberdeenshire","Children","30/01/2019",4,NA,4,5,"14/11/2018","2017_11",0,0
-NA,"Private","Alison Nicoll Childminding","Kirriemuir","Angus","Children","11/12/2018",5,NA,4,4,"26/10/2018","2017_11",0,0
+NA,"Private","Alison Nicoll Childminding","Kirriemuir","Angus","Children","27/06/2025",4,4,3,3,"12/06/2025","2017_11",0,0
 NA,"Private","Desyree's Little Butterflies Childminding Service","Bathgate","West Lothian","Children","29/03/2023",4,4,4,4,"20/01/2023","2018_1",0,0
 NA,"Private","Paton, Angela","Alexandria","West Dunbartonshire","Children","08/08/2022",4,NA,4,4,"26/05/2022","2018_3",0,0
-NA,"Private","Looby Lou's Childminding Service","Dunfermline","Fife","Children","07/07/2020",4,NA,4,4,"08/03/2020","2017_12",0,0
-NA,"Private","Kirsty Stewart's Childminding Service","Dundee","Perth & Kinross","Children","23/10/2018",5,NA,5,5,"12/09/2018","2017_10",0,0
+NA,"Private","Looby Lou's Childminding Service","Dunfermline","Fife","Children","12/06/2025",4,4,4,4,"26/05/2025","2017_12",0,0
+NA,"Private","Kirsty Stewart's Childminding Service","Dundee","Perth & Kinross","Children","23/06/2025",4,4,4,4,"26/05/2025","2017_10",0,0
 NA,"Private","Donna's Childminding","Livingston","West Lothian","Children","05/04/2019",4,NA,4,4,"18/03/2019","2018_1",0,0
 NA,"Private","Sleepy Heads Childminding","Innerleithen","Scottish Borders","Children","11/02/2019",5,5,6,6,"24/11/2018","2018_1",0,0
 NA,"Private","Kiddiewinkles Childminding Service","Kilmarnock","East Ayrshire","Children","13/02/2019",5,NA,5,5,"06/02/2019","2018_1",0,0
@@ -2080,7 +2040,6 @@ NA,"Private","Helen Collins Childminding Service","Edinburgh","City of Edinburgh
 NA,"Private","Casa da Jaci","Glasgow","East Dunbartonshire","Children","15/06/2022",4,NA,4,4,"13/04/2022","2018_8",0,0
 NA,"Private","Emma's Childminding","Gullane","East Lothian","Children","09/11/2018",5,NA,5,5,"11/10/2018","2017_12",0,0
 NA,"Private","Sim, Samantha","Elgin","Moray","Children","17/08/2022",4,4,4,4,"27/06/2022","2018_2",0,0
-NA,"Private","Maz's Childcare","Dundee","Angus","Children","16/09/2019",4,NA,4,4,"05/08/2019","2018_3",0,0
 NA,"Private","Michelle Lindsay's Childminding Service","Bathgate","West Lothian","Children","01/11/2018",5,NA,5,5,"23/10/2018","2018_1",0,0
 NA,"Private","Jane Cairnie Childcare","Stevenston","North Ayrshire","Children","13/02/2019",5,4,5,5,"05/02/2019","2018_1",0,0
 NA,"Private","Snails and Tales","Johnstone","Renfrewshire","Children","29/06/2020",4,NA,4,4,"19/02/2020","2018_3",0,0
@@ -2089,7 +2048,7 @@ NA,"Private","Gingersnaps Daycare","Aberdeen","Aberdeen City","Children","16/04/
 NA,"Private","Katie's Childminding - Ralston","Paisley","Renfrewshire","Children","22/02/2019",5,NA,5,5,"14/02/2019","2018_2",0,0
 NA,"Private","Gemma Fitzpatrick Childminding Services","Bathgate","West Lothian","Children","30/01/2019",5,NA,5,5,"10/10/2018","2018_1",0,0
 NA,"Private","Hosea, Darlene","Ellon","Aberdeenshire","Children","18/03/2019",5,NA,5,5,"15/02/2019","2018_3",0,0
-NA,"Private","Karen Wilson's Childminding Service","Dumbarton","West Dunbartonshire","Children","09/05/2019",4,NA,4,4,"10/04/2019","2018_6",0,0
+NA,"Private","Karen Wilson's Childminding Service","Dumbarton","West Dunbartonshire","Children","05/06/2025",5,5,5,5,"17/04/2025","2018_6",0,0
 NA,"Private","Wee Deer Childminding","Dalkeith","Midlothian","Children","17/04/2019",5,NA,5,5,"11/03/2019","2018_3",0,0
 NA,"Private","Gemmell, Lucy","Musselburgh","East Lothian","Children","08/07/2019",4,NA,4,4,"29/04/2019","2018_5",0,0
 NA,"Private","Megan's Childminding","Glenrothes","Fife","Children","22/02/2024",5,5,4,4,"16/01/2024","2018_5",0,0
@@ -2113,8 +2072,7 @@ NA,"Private","Cheryl's Childminding","Airdrie","North Lanarkshire","Children","2
 NA,"Private","Gillian Morell Childminding","Ardrossan","North Ayrshire","Children","15/02/2022",4,NA,5,5,"09/02/2022","2018_4",0,0
 NA,"Private","Shonila's Childminding Services","Livingston","West Lothian","Children","14/02/2024",5,4,4,5,"15/12/2023","2018_9",0,0
 NA,"Private","Garscadden, Charlotte","Lybster","Highland","Children","06/06/2019",5,NA,5,5,"13/05/2019","2018_5",0,0
-NA,"Private","Shannon Morgan's Childminding","Cumnock","East Ayrshire","Children","06/08/2019",4,NA,5,5,"05/08/2019","2018_5",0,0
-NA,"Private","Catherine Middleton Childminding","Glasgow","East Dunbartonshire","Children","09/10/2019",5,NA,4,4,"19/07/2019","2018_5",0,0
+NA,"Private","Shannon Morgan's Childminding","Cumnock","East Ayrshire","Children","25/06/2025",5,5,5,5,"19/06/2025","2018_5",0,0
 NA,"Private","Angela Bray Childminding","Dumfries","Dumfries & Galloway","Children","01/11/2022",5,4,4,5,"12/10/2022","2018_12",0,0
 NA,"Private","Nicola's Childminding","Girvan","South Ayrshire","Children","10/01/2025",3,3,3,3,"12/12/2024","2018_7",0,0
 NA,"Private","Sandra's Childcare Service","Inverness","Highland","Children","10/10/2019",4,NA,4,4,"23/08/2019","2018_6",0,0
@@ -2125,7 +2083,6 @@ NA,"Private","Daisy Dots Childminding","Irvine","North Ayrshire","Children","09/
 NA,"Private","Karen Sclater - Childminder","Orkney","Orkney Islands","Children","27/05/2019",4,NA,4,4,"09/05/2019","2018_6",0,0
 NA,"Private","Keira Walker-Baird","Kilmarnock","East Ayrshire","Children","23/10/2023",5,4,4,5,"02/10/2023","2018_8",0,0
 NA,"Private","Adventure Glen Childcare","Glasgow","North Lanarkshire","Children","01/06/2023",5,5,5,5,"28/04/2023","2018_6",0,0
-NA,"Private","Walker Childminding","Ellon","Aberdeenshire","Children","09/01/2024",5,4,4,4,"12/12/2023","2018_7",0,2
 NA,"Private","Cameron, Margaret","Coatbridge","North Lanarkshire","Children","27/08/2019",5,NA,4,5,"05/06/2019","2018_5",0,0
 NA,"Private","Mummy Bears Childcare","Livingston","West Lothian","Children","14/06/2021",3,3,3,3,"23/04/2021","2018_7",0,0
 NA,"Private","Graham, Helen","Kilmarnock","East Ayrshire","Children","11/12/2024",4,3,4,4,"05/11/2024","2018_10",0,0
@@ -2146,7 +2103,6 @@ NA,"Private","Little Wings Childminding","Falkirk","Falkirk","Children","27/06/2
 NA,"Private","McCabe, Deana","Aberdeen","Aberdeen City","Children","16/03/2020",4,NA,4,4,"29/11/2019","2018_8",0,0
 NA,"Private","Smurfs","Kirkcaldy","Fife","Children","05/06/2024",4,4,4,4,"01/05/2024","2018_9",0,0
 NA,"Private","Inchture Teddy Tots","Perth","Perth & Kinross","Children","02/12/2019",5,NA,5,5,"15/10/2019","2018_8",0,0
-NA,"Private","Happy Days Childminding","Inverness","Highland","Children","19/12/2019",4,NA,4,5,"01/11/2019","2018_8",0,0
 NA,"Private","Mags' Childminding Services","Peterculter","Aberdeen City","Children","19/08/2019",5,NA,4,4,"30/07/2019","2018_8",0,0
 NA,"Private","Sonia's Mile-End Childminding Services","Aberdeen","Aberdeen City","Children","14/01/2020",5,NA,4,5,"11/12/2019","2018_8",0,0
 NA,"Private","Rebecca Taylor Childminding","Edinburgh","City of Edinburgh","Children","13/09/2019",4,NA,4,4,"07/06/2019","2018_8",0,0
@@ -2165,7 +2121,6 @@ NA,"Private","Kelly's Cheeky Monkeys","Falkirk","Falkirk","Children","07/02/2020
 NA,"Private","nicola's childminding service","Irvine","North Ayrshire","Children","22/01/2020",4,NA,4,4,"20/11/2019","2018_10",0,0
 NA,"Private","Lawrie, Nicola","Aberdeen","Aberdeenshire","Children","08/11/2022",5,5,4,4,"12/10/2022","2018_10",0,0
 NA,"Private","Joanne's Childminding Service","Penicuik","Midlothian","Children","28/10/2019",4,NA,4,5,"30/09/2019","2018_9",0,0
-NA,"Private","Little Bleathers","Renfrew","Renfrewshire","Children","31/01/2024",4,3,2,3,"15/01/2024","2018_11",0,0
 NA,"Private","Donna Smith Childminding Services","West Kilbride","North Ayrshire","Children","19/09/2019",5,NA,5,5,"11/09/2019","2018_8",0,0
 NA,"Private","Oot N Aboot Childminding","Burntisland","Fife","Children","27/08/2019",5,NA,4,5,"12/07/2019","2018_9",0,0
 NA,"Private","The Village Childcare","Aberdeen","Aberdeenshire","Children","16/01/2020",4,NA,4,4,"25/11/2019","2018_11",0,0
@@ -2209,7 +2164,6 @@ NA,"Private","Debbie's Childminding","Prestwick","South Ayrshire","Children","15
 NA,"Private","Wierzbicka-Dygas, Renata","Aberdeen","Aberdeen City","Children","16/08/2024",5,5,5,5,"12/07/2024","2019_3",0,0
 NA,"Private","Little Cherubs Childminding","Kirriemuir","Angus","Children","19/11/2021",5,NA,5,5,"06/10/2021","2019_2",0,0
 NA,"Private","Happy Days Childminding","Jedburgh","Scottish Borders","Children","11/02/2020",5,5,5,5,"20/12/2019","2019_2",0,0
-NA,"Private","Lucky Bunnies Childminding","Glasgow","Glasgow City","Children","26/02/2020",4,NA,4,4,"18/02/2020","2019_3",0,2
 NA,"Private","Debbie & Douglas Laing Childminding","Livingston","West Lothian","Children","19/06/2020",5,NA,5,5,"11/03/2020","2019_3",0,0
 NA,"Private","Jeffries, Jill","Edinburgh","City of Edinburgh","Children","26/02/2025",4,3,3,3,"08/01/2025","2019_2",0,0
 NA,"Private","Les Petits Explorateurs","Kilmarnock","East Ayrshire","Children","31/10/2022",4,4,4,4,"20/09/2022","2019_4",0,0
@@ -2273,7 +2227,6 @@ NA,"Private","Explorers Childminding","Glasgow","South Lanarkshire","Children","
 NA,"Private","Nicoll, Yvonne","Falkirk","Falkirk","Children","13/03/2025",4,4,4,4,"27/02/2025","2019_11",0,0
 NA,"Private","Country Bumpkins Childminding","Strathaven","South Lanarkshire","Children","24/06/2022",4,NA,4,5,"01/06/2022","2019_9",0,0
 NA,"Private","Karen MacLennan Childminding","Edinburgh","City of Edinburgh","Children","29/11/2022",5,5,4,5,"29/09/2022","2019_10",0,0
-NA,"Private","Wee Stars Childminding Services","Kirkcaldy","Fife","Children","11/10/2022",5,5,4,5,"05/08/2022","2019_7",0,0
 NA,"Private","Amie's Childminding","Linlithgow","West Lothian","Children","29/08/2022",5,5,4,4,"21/07/2022","2019_9",0,0
 NA,"Private","Little Newts Childminding","Newtyle","Angus","Children","22/09/2021",5,NA,4,5,"06/08/2021","2019_9",0,0
 NA,"Private","Jurgenson, Sarah","Broxburn","West Lothian","Children","09/01/2023",5,5,5,5,"24/11/2022","2019_10",0,0
@@ -2328,7 +2281,7 @@ NA,"Private","Leys View Childcare","Inverness","Highland","Children","27/09/2023
 NA,"Private","Rae of Sunshine Childminding","Shotts","North Lanarkshire","Children","25/11/2021",4,NA,4,4,"23/11/2021","2020_4",0,0
 NA,"Private","Little Explorers Childminding Services","Livingston","West Lothian","Children","29/07/2022",4,NA,4,4,"24/05/2022","2020_3",0,0
 NA,"Private","Potter, Lorna","Helensburgh","Argyll & Bute","Children","03/10/2022",4,4,4,4,"21/07/2022","2020_9",0,0
-NA,"Private","Natasha's Cheeky Monkeys","Grangemouth","Falkirk","Children","19/06/2024",3,3,3,3,"30/04/2024","2020_6",0,0
+NA,"Private","Natasha's Cheeky Monkeys","Grangemouth","Falkirk","Children","25/06/2025",3,3,3,3,"20/05/2025","2020_6",0,0
 NA,"Private","Meadow Minis Childminding","Irvine","North Ayrshire","Children","02/12/2021",4,NA,4,5,"19/10/2021","2020_6",0,0
 NA,"Private","Little Sparkles","Elgin","Moray","Children","15/10/2021",5,4,4,5,"24/08/2021","2020_8",0,0
 NA,"Private","Joanne's Childminding","Ellon","Aberdeenshire","Children","07/06/2022",5,NA,5,5,"05/05/2022","2020_7",0,0
@@ -2359,7 +2312,7 @@ NA,"Private","Lauren Pierce's Childminding","Cowdenbeath","Fife","Children","03/
 NA,"Private","LK Childminding Services","Blairgowrie","Perth & Kinross","Children","21/07/2022",5,NA,4,5,"06/06/2022","2020_7",0,0
 NA,"Private","Kings Heritage Childminding Service","Glasgow","Glasgow City","Children","20/09/2022",4,4,4,4,"08/08/2022","2020_10",0,0
 NA,"Private","Lorraine Drew Childminding","Perth","Perth & Kinross","Children","10/08/2022",5,4,4,4,"09/06/2022","2020_8",0,0
-NA,"Private","Fee's Childminding","Peterhead","Aberdeenshire","Children","14/10/2024",4,5,4,4,"16/09/2024","2020_9",3,0
+NA,"Private","Fee's Childminding","Peterhead","Aberdeenshire","Children","24/06/2025",4,4,4,4,"23/05/2025","2020_9",3,0
 NA,"Private","Shaw, Tracey","Annan","Dumfries & Galloway","Children","08/07/2022",4,NA,4,5,"12/05/2022","2020_12",0,0
 NA,"Private","Jennifer's Explorers Childminding","Carluke","South Lanarkshire","Children","02/08/2024",4,4,4,4,"11/07/2024","2020_8",0,0
 NA,"Private","Basi, Meggan","Stirling","Stirling","Children","05/08/2022",5,4,4,4,"04/07/2022","2020_10",0,0
@@ -2379,7 +2332,6 @@ NA,"Private","Nanny Nicola Registered Childminder","Hamilton","South Lanarkshire
 NA,"Private","Shona Sinclair Childminding","Kinross","Perth & Kinross","Children","10/03/2023",5,5,5,5,"17/02/2023","2020_11",0,0
 NA,"Private","Eskbank Childminding","Dalkeith","Midlothian","Children","16/06/2022",4,NA,4,4,"29/04/2022","2020_12",0,0
 NA,"Private","Primrose Children's Garden","Aberdeen","Aberdeen City","Children","07/11/2022",5,5,5,5,"27/09/2022","2021_3",0,0
-NA,"Private","Casa Feliz","Edinburgh","City of Edinburgh","Children","08/08/2022",4,4,4,4,"20/06/2022","2021_2",0,0
 NA,"Private","Childminding with Rachael","Winchburgh","West Lothian","Children","07/06/2022",5,NA,5,5,"11/05/2022","2020_11",0,0
 NA,"Private","Childminding with Sarah","Inverurie","Aberdeenshire","Children","13/01/2025",4,4,4,4,"03/12/2024","2021_1",0,0
 NA,"Private","Jade Milne Childminding","Aberdeen","Aberdeen City","Children","10/02/2025",3,3,3,3,"16/01/2025","2021_2",0,0
@@ -2401,7 +2353,6 @@ NA,"Private","Auntie Jo's Childminding","Longniddry","East Lothian","Children","
 NA,"Private","Strawberry Patch Childminding","Musselburgh","East Lothian","Children","07/01/2025",4,4,4,4,"25/11/2024","2021_4",1,0
 NA,"Private","Little Dino's childminding service","Grantown-On-Spey","Highland","Children","13/06/2023",4,4,4,4,"16/05/2023","2021_4",0,0
 NA,"Private","Sarah Wallace Childminding","Kirkliston","City of Edinburgh","Children","23/10/2023",5,4,4,5,"27/09/2023","2021_5",0,0
-NA,"Private","Quarry Ridge child minding","Inverkeithing","Fife","Children",NA,NA,NA,NA,NA,NA,"2021_5",0,0
 NA,"Private","Bee Happy Childminding(Broombank)","Nairn","Highland","Children","31/07/2023",5,5,4,5,"11/07/2023","2021_5",0,0
 NA,"Private","Messy Mitts Childminding Service","Dunblane","Stirling","Children","21/06/2023",5,5,4,5,"19/05/2023","2021_5",0,0
 NA,"Private","Jennifers childminding service","Banchory","Aberdeenshire","Children","26/05/2023",5,4,4,4,"21/04/2023","2021_5",0,0
@@ -2430,7 +2381,6 @@ NA,"Private","Little Chicks Childminding","Banchory","Aberdeenshire","Children",
 NA,"Private","Laura's Childminding Services","Fochabers","Moray","Children","24/05/2024",5,4,4,5,"23/04/2024","2021_9",0,0
 NA,"Private","Noah's Ark Childminding Services","Livingston","West Lothian","Children","05/07/2023",4,4,4,5,"23/06/2023","2021_9",0,0
 NA,"Private","Kathryn's Kids Care","Lochgelly","Fife","Children","15/05/2023",5,5,4,5,"11/04/2023","2021_9",0,0
-NA,"Private","Lous Childminding Service","Gretna","Dumfries & Galloway","Children","10/07/2024",5,4,4,4,"29/05/2024","2021_9",0,0
 NA,"Private","Aiste Gvildyte","Helensburgh","Argyll & Bute","Children","04/04/2025",4,4,4,4,"16/01/2025","2021_9",0,0
 NA,"Private","Elaine Parkhill Childminding","Johnstone","Renfrewshire","Children","17/07/2023",5,5,5,5,"16/06/2023","2021_10",0,0
 NA,"Private","Johannas Childminding Group","Aberdeen","Aberdeenshire","Children","18/09/2023",5,4,4,4,"21/08/2023","2021_10",0,0
@@ -2456,7 +2406,6 @@ NA,"Private","AMP Childminding","Helensburgh","Argyll & Bute","Children","05/06/
 NA,"Private","Hazel Rattray","Inverness","Highland","Children","17/10/2023",4,5,5,5,"28/09/2023","2022_2",0,0
 NA,"Private","Heathers childminding service","Inverurie","Aberdeenshire","Children","19/07/2023",5,4,5,4,"23/06/2023","2022_2",0,0
 NA,"Private","Gemma's Childminding Service","Broxburn","West Lothian","Children","13/04/2023",4,4,4,4,"12/04/2023","2022_2",0,0
-NA,"Private","Leanne Kelly Childminder","Troon","South Ayrshire","Children","10/10/2023",5,5,5,5,"29/09/2023","2022_2",0,0
 NA,"Private","Lisa Marie Childminding","Edinburgh","City of Edinburgh","Children","02/09/2024",4,4,4,4,"26/07/2024","2022_2",0,0
 NA,"Private","Helen Crawford Childminding","Thurso","Highland","Children","17/04/2024",5,5,5,5,"15/03/2024","2022_2",0,0
 NA,"Private","India Dorsie Childminding","Arbroath","Angus","Children","06/09/2023",5,5,4,5,"18/08/2023","2022_3",0,0
@@ -2534,7 +2483,6 @@ NA,"Private","Stacey Paterson Childminding","Stirling","Stirling","Children","26
 NA,"Private","Diane's childcare at home","Peterhead","Aberdeenshire","Children","06/05/2024",5,5,4,4,"16/04/2024","2022_11",0,0
 NA,"Private","Molly's Playground - Childminding service","Dalbeattie","Dumfries & Galloway","Children",NA,NA,NA,NA,NA,NA,"2022_11",0,0
 NA,"Private","Maries childminding service","Laurencekirk","Aberdeenshire","Children","15/12/2024",4,4,4,4,"11/11/2024","2022_12",0,0
-NA,"Private","Emma Ross","Inverness","Highland","Children","10/04/2024",4,3,3,4,"27/03/2024","2022_12",0,0
 NA,"Private","Elaine Campbell Childminding Service","Dunblane","Stirling","Children","15/05/2024",4,4,4,4,"04/04/2024","2022_12",0,0
 NA,"Private","Tracey's Little Treasures","Coatbridge","North Lanarkshire","Children","29/01/2025",4,4,4,4,"07/01/2025","2022_12",0,0
 NA,"Private","Katie Jack Childminding","South Queensferry","City of Edinburgh","Children","10/07/2024",4,3,3,4,"24/05/2024","2022_12",0,0
@@ -2552,7 +2500,7 @@ NA,"Private","Vicky Walton","Ullapool","Highland","Children",NA,NA,NA,NA,NA,NA,"
 NA,"Private","Monica Morris Childminding","Kirkcaldy","Fife","Children","24/09/2024",5,5,5,5,"19/06/2024","2023_2",0,0
 NA,"Private","Nikkis Childminding Service","Ellon","Aberdeenshire","Children","11/10/2024",5,5,5,5,"23/09/2024","2023_2",0,0
 NA,"Private","Yellow Giraffe Childminding","Biggar","South Lanarkshire","Children","25/03/2025",5,5,5,5,"07/01/2025","2023_2",0,0
-NA,"Private","Childminding at the Dysons","Muir Of Ord","Highland","Children","19/04/2024",4,3,3,4,"07/03/2024","2023_2",0,0
+NA,"Private","Childminding at the Dysons","Muir Of Ord","Highland","Children","24/06/2025",4,4,4,4,"16/05/2025","2023_2",0,0
 NA,"Private","Childminding with Amy","Buckie","Moray","Children","22/04/2025",4,4,3,4,"18/03/2025","2023_2",0,0
 NA,"Private","Jodie's Childminding Service","Dumfries","Dumfries & Galloway","Children","25/06/2024",4,4,4,4,"17/05/2024","2023_2",0,0
 NA,"Private","Wee Helens Childcare","Isle Of Mull","Argyll & Bute","Children","10/10/2024",4,4,4,4,"06/09/2024","2023_3",0,0
@@ -2572,14 +2520,14 @@ NA,"Private","Leannes Childminding","Aberdeen","Aberdeen City","Children",NA,NA,
 NA,"Private","Amanda's Childminding","Newton Stewart","Dumfries & Galloway","Children",NA,NA,NA,NA,NA,NA,"2023_4",0,0
 NA,"Private","Karen Reed Childminding","Elgin","Moray","Children","01/10/2024",4,3,3,3,"28/08/2024","2023_4",0,0
 NA,"Private","Gartloch Village Childminding","Glasgow","Glasgow City","Children","12/05/2025",5,5,4,4,"17/04/2025","2023_4",0,0
-NA,"Private","Little Guests","Falkirk","Falkirk","Children",NA,NA,NA,NA,NA,NA,"2023_4",0,0
+NA,"Private","Little Guests","Falkirk","Falkirk","Children","27/06/2025",4,4,4,4,"12/06/2025","2023_4",0,0
 NA,"Private","Kelly's Care","Inverness","Highland","Children","10/06/2024",5,4,5,5,"30/04/2024","2023_5",0,0
 NA,"Private","Kathryns Childminding","Ellon","Aberdeenshire","Children",NA,NA,NA,NA,NA,NA,"2023_5",0,0
 NA,"Private","Eilidhs Childminding","Fortrose","Highland","Children","23/01/2025",3,4,3,4,"25/10/2024","2023_5",0,0
 NA,"Private","Lindsey's Childminding","Falkirk","Falkirk","Children","22/05/2025",5,4,5,5,"30/04/2025","2023_5",0,0
 NA,"Private","Little Bugs Childminding","Broxburn","West Lothian","Children",NA,NA,NA,NA,NA,NA,"2023_5",0,0
 NA,"Private","Hillside Tots","Lanark","South Lanarkshire","Children",NA,NA,NA,NA,NA,NA,"2023_5",0,0
-NA,"Private","Hannah Scott","Musselburgh","East Lothian","Children",NA,NA,NA,NA,NA,NA,"2023_5",0,0
+NA,"Private","Hannah Scott","Musselburgh","East Lothian","Children","20/06/2025",4,4,4,4,"14/05/2025","2023_5",0,0
 NA,"Private","Morgans Childminding","Irvine","North Ayrshire","Children",NA,NA,NA,NA,NA,NA,"2023_5",0,0
 NA,"Private","Kayleigh's Childminding","Elgin","Moray","Children",NA,NA,NA,NA,NA,NA,"2023_5",0,0
 NA,"Private","Natalie's Clubhouse","Aberdeen","Aberdeen City","Children",NA,NA,NA,NA,NA,NA,"2023_5",0,0
@@ -2588,14 +2536,11 @@ NA,"Private","Charmander Childminding","Livingston","West Lothian","Children",NA
 NA,"Private","Childminding Care","Edinburgh","City of Edinburgh","Children",NA,NA,NA,NA,NA,NA,"2023_5",0,0
 NA,"Private","Leanne McCaffery","Glasgow","South Lanarkshire","Children",NA,NA,NA,NA,NA,NA,"2023_6",0,0
 NA,"Private","Cosmic Kids Childminding","Mauchline","South Ayrshire","Children","08/05/2025",4,4,4,4,"17/04/2025","2023_6",0,0
-NA,"Private","Jemmas Child minding","Coatbridge","North Lanarkshire","Children",NA,NA,NA,NA,NA,NA,"2023_6",0,0
+NA,"Private","Jemmas Child minding","Coatbridge","North Lanarkshire","Children",NA,NA,NA,NA,NA,"27/05/2025","2023_6",0,0
 NA,"Private","The Treehouse","Cowdenbeath","Fife","Children","03/05/2024",4,4,4,4,"08/04/2024","2023_6",0,0
-NA,"Private","Bright Sparks Childminding Service","Hamilton","South Lanarkshire","Children",NA,NA,NA,NA,NA,NA,"2023_6",0,0
+NA,"Private","Bright Sparks Childminding Service","Hamilton","South Lanarkshire","Children","25/06/2025",5,5,5,5,"09/06/2025","2023_6",0,0
 NA,"Private","Natasha Leggatt","Dundee","Angus","Children","14/05/2025",4,4,3,4,"23/04/2025","2023_6",0,0
 NA,"Private","Julie Watson","Erskine","Renfrewshire","Children",NA,NA,NA,NA,NA,NA,"2023_6",1,0
-NA,"Private","Seona Scott Childminding","Beauly","Highland","Children",NA,NA,NA,NA,NA,NA,"2023_6",0,0
-NA,"Private","Your Home to Our Home","Hamilton","South Lanarkshire","Children",NA,NA,NA,NA,NA,NA,"2023_6",0,0
-NA,"Private","Little Pandas","Irvine","North Ayrshire","Children",NA,NA,NA,NA,NA,NA,"2023_6",0,0
 NA,"Private","Lisa Coli Childminding","Strathpeffer","Highland","Children","22/08/2024",5,5,5,5,"11/07/2024","2023_6",0,0
 NA,"Private","The Nurture Neuk","Bonnyrigg","Midlothian","Children",NA,NA,NA,NA,NA,NA,"2023_7",0,0
 NA,"Private","Michelles Little Explorers","Kirkcaldy","Fife","Children","12/11/2024",5,5,5,5,"18/10/2024","2023_7",0,0
@@ -2624,7 +2569,6 @@ NA,"Private","The Kids Club","Alford","Aberdeenshire","Children","01/08/2024",4,
 NA,"Private","Little Minds Childminding","Musselburgh","East Lothian","Children",NA,NA,NA,NA,NA,NA,"2023_8",0,0
 NA,"Private","Nanny Mack childminding","St. Andrews","Fife","Children","11/12/2024",5,5,5,5,"08/11/2024","2023_8",0,0
 NA,"Private","Clare's childminding","Campbeltown","Argyll & Bute","Children",NA,NA,NA,NA,NA,NA,"2023_9",0,0
-NA,"Private","Fun Time Childminding","Inverness","Highland","Children",NA,NA,NA,NA,NA,NA,"2023_9",0,0
 NA,"Private","Happy Kids Childcare","Hamilton","South Lanarkshire","Children",NA,NA,NA,NA,NA,NA,"2023_9",0,0
 NA,"Private","Carrie's Childcare","Edinburgh","City of Edinburgh","Children",NA,NA,NA,NA,NA,NA,"2023_9",0,0
 NA,"Private","Little Bees Childminding Services","Glasgow","East Renfrewshire","Children",NA,NA,NA,NA,NA,NA,"2023_9",0,0
@@ -2639,18 +2583,19 @@ NA,"Private","Nourish and Grow Childminding","Ellon","Aberdeenshire","Children",
 NA,"Private","Wendy's Childminding","Lossiemouth","Moray","Children","10/09/2024",5,4,4,4,"08/08/2024","2023_9",0,0
 NA,"Private","Heron Heights Childcare","Alford","Aberdeenshire","Children",NA,NA,NA,NA,NA,NA,"2023_9",0,0
 NA,"Private","Michele Smales","Lasswade","Midlothian","Children",NA,NA,NA,NA,NA,NA,"2023_9",0,0
+NA,"Private","Chloe's Childminding Services","Lanark","South Lanarkshire","Children",NA,NA,NA,NA,NA,NA,"2023_9",0,0
 NA,"Private","Emmas Angels","Inverurie","Aberdeenshire","Children",NA,NA,NA,NA,NA,NA,"2023_9",0,0
 NA,"Private","Brambling Bairns Childminding","Dunfermline","Fife","Children","05/09/2024",5,5,4,4,"29/07/2024","2023_10",0,0
 NA,"Private","Liz Creelie Childminding","Edinburgh","City of Edinburgh","Children",NA,NA,NA,NA,NA,NA,"2023_10",0,0
 NA,"Private","Nicola's Childminding","Gorebridge","Midlothian","Children",NA,NA,NA,NA,NA,NA,"2023_10",0,0
 NA,"Private","Madele Childminding","Edinburgh","City of Edinburgh","Children","02/08/2024",4,4,4,4,"04/07/2024","2023_10",0,0
 NA,"Private","Niema Faisal","Glasgow","Glasgow City","Children",NA,NA,NA,NA,NA,NA,"2023_10",0,0
-NA,"Private","Jolly Jungle Childminding","Musselburgh","East Lothian","Children",NA,NA,NA,NA,NA,NA,"2023_10",0,0
+NA,"Private","Jolly Jungle Childminding","Musselburgh","East Lothian","Children","16/06/2025",5,5,5,5,"22/04/2025","2023_10",0,0
 NA,"Private","Elaines Amazing Spaces","Dundee","Dundee City","Children",NA,NA,NA,NA,NA,NA,"2023_10",0,0
 NA,"Private","The Wee Adventurers","Thurso","Highland","Children",NA,NA,NA,NA,NA,NA,"2023_10",0,0
 NA,"Private","Michelle's Little Blossoms","Glasgow","North Lanarkshire","Children",NA,NA,NA,NA,NA,NA,"2023_10",0,0
 NA,"Private","Stockbridge Childminding","Edinburgh","City of Edinburgh","Children",NA,NA,NA,NA,NA,NA,"2023_10",0,0
-NA,"Private","Kumalo Bears Childminding","Kilmacolm","Inverclyde","Children",NA,NA,NA,NA,NA,NA,"2023_10",0,0
+NA,"Private","Kumalo Bears Childminding","Kilmacolm","Inverclyde","Children","26/06/2025",4,4,4,4,"26/05/2025","2023_10",0,0
 NA,"Private","Laurens Childminding Service","Larbert","Falkirk","Children",NA,NA,NA,NA,NA,NA,"2023_11",0,0
 NA,"Private","Hollie Wilkie Childminding","Dundee","Perth & Kinross","Children","15/05/2024",4,4,4,4,"25/04/2024","2023_11",0,0
 NA,"Private","Little Wonders Childminding Service","Hawick","Scottish Borders","Children","08/05/2025",4,5,4,4,"23/04/2025","2023_11",0,0
@@ -2660,7 +2605,7 @@ NA,"Private","Kate Ross Childminding","Newton Stewart","Dumfries & Galloway","Ch
 NA,"Private","Nikki Harness Childminding","Lossiemouth","Moray","Children",NA,NA,NA,NA,NA,NA,"2023_11",0,0
 NA,"Private","Almond Tree Childminding Services","Edinburgh","City of Edinburgh","Children",NA,NA,NA,NA,NA,NA,"2023_11",0,0
 NA,"Private","Fiona Martin Childminding","Glenrothes","Fife","Children","05/02/2025",4,4,4,4,"31/01/2025","2023_11",0,0
-NA,"Private","Tommy's Den","Livingston","West Lothian","Children",NA,NA,NA,NA,NA,NA,"2023_11",0,0
+NA,"Private","Tommy's Den","Livingston","West Lothian","Children","18/06/2025",5,5,5,5,"02/06/2025","2023_11",0,0
 NA,"Private","Roz's home from home childminding","Edinburgh","City of Edinburgh","Children",NA,NA,NA,NA,NA,NA,"2023_11",0,0
 NA,"Private","Karly Brann","Larbert","Falkirk","Children",NA,NA,NA,NA,NA,NA,"2023_11",0,0
 NA,"Private","Chiara's Childminding","Stirling","Stirling","Children",NA,NA,NA,NA,NA,NA,"2023_11",0,0
@@ -2692,26 +2637,25 @@ NA,"Private","Kids Klub Childminding","Alloa","Clackmannanshire","Children",NA,N
 NA,"Private","Helen Chambers Childminding","Kilmarnock","East Ayrshire","Children",NA,NA,NA,NA,NA,NA,"2024_2",0,0
 NA,"Private","Happy and Joyful Care","Edinburgh","City of Edinburgh","Children",NA,NA,NA,NA,NA,NA,"2024_2",0,0
 NA,"Private","Bright Beginnings Childminding","Musselburgh","East Lothian","Children",NA,NA,NA,NA,NA,NA,"2024_2",0,0
-NA,"Private","Lauren's Little Learners","Arbroath","Angus","Children",NA,NA,NA,NA,NA,NA,"2024_2",0,0
 NA,"Private","Helping Hands Child Care","Dumfries","Dumfries & Galloway","Children",NA,NA,NA,NA,NA,NA,"2024_2",0,0
-NA,"Private","Chloes Childcare","Dundee","Angus","Children",NA,NA,NA,NA,NA,NA,"2024_2",0,0
+NA,"Private","Chloes Childcare","Dundee","Angus","Children","04/06/2025",5,5,4,4,"19/05/2025","2024_2",0,0
 NA,"Private","Happy Angels Childminding","Edinburgh","City of Edinburgh","Children",NA,NA,NA,NA,NA,NA,"2024_2",0,0
 NA,"Private","Little Buddies Childcare","Kilmarnock","East Ayrshire","Children",NA,NA,NA,NA,NA,NA,"2024_2",0,0
 NA,"Private","Little Bear Childcare","Livingston","West Lothian","Children",NA,NA,NA,NA,NA,NA,"2024_2",0,0
 NA,"Private","Safe Hands Childminding Services","Glasgow","Glasgow City","Children","20/12/2024",4,4,4,4,"14/11/2024","2024_2",0,0
 NA,"Private","Birralee Childcare","Dunbar","East Lothian","Children",NA,NA,NA,NA,NA,NA,"2024_2",0,0
 NA,"Private","Little Nest Childminding","Wallyford","East Lothian","Children","06/05/2025",4,4,3,3,"02/04/2025","2024_2",0,0
-NA,"Private","Butterflies Childminding","Pitlochry","Perth & Kinross","Children",NA,NA,NA,NA,NA,NA,"2024_3",0,0
+NA,"Private","Butterflies Childminding","Pitlochry","Perth & Kinross","Children","10/06/2025",4,4,3,4,"13/05/2025","2024_3",0,0
 NA,"Private","Mama Murphy's","Airdrie","North Lanarkshire","Children",NA,NA,NA,NA,NA,NA,"2024_3",0,0
 NA,"Private","Caroline Whelan Childminding","Coatbridge","North Lanarkshire","Children","27/05/2025",4,5,4,5,"20/05/2025","2024_3",0,0
 NA,"Private","Nanny Naj's Nook","Edinburgh","City of Edinburgh","Children",NA,NA,NA,NA,NA,NA,"2024_3",0,0
+NA,"Private","Love&Care Childminding","Aberdeen","Aberdeen City","Children",NA,NA,NA,NA,NA,NA,"2024_3",0,0
 NA,"Private","Curious Kiddos","Aberdeen","Aberdeen City","Children","26/05/2025",5,5,5,5,"29/04/2025","2024_3",0,0
 NA,"Private","Angel Faces","Inverness","Highland","Children",NA,NA,NA,NA,NA,NA,"2024_3",0,0
-NA,"Private","School's Out Club","Tain","Highland","Children",NA,NA,NA,NA,NA,NA,"2024_3",0,0
 NA,"Private","Lorraines childminding","Glasgow","East Dunbartonshire","Children",NA,NA,NA,NA,NA,NA,"2024_3",0,0
 NA,"Private","Paula Glass Childminding","Canonbie","Dumfries & Galloway","Children",NA,NA,NA,NA,NA,NA,"2024_3",0,0
 NA,"Private","The Little Heroes","Glasgow","Glasgow City","Children",NA,NA,NA,NA,NA,NA,"2024_3",0,0
-NA,"Private","Christys Creche","Glenrothes","Fife","Children",NA,NA,NA,NA,NA,NA,"2024_4",0,0
+NA,"Private","Christys Creche","Glenrothes","Fife","Children",NA,NA,NA,NA,NA,NA,"2024_4",1,0
 NA,"Private","Emma Maclean","Isle Of Lewis","Na h-Eileanan Siar","Children",NA,NA,NA,NA,NA,NA,"2024_4",0,0
 NA,"Private","Rebecca Irvine Childminding","Innerleithen","Scottish Borders","Children",NA,NA,NA,NA,NA,NA,"2024_4",0,0
 NA,"Private","Amys Little Angels","Macduff","Aberdeenshire","Children",NA,NA,NA,NA,NA,NA,"2024_4",0,0
@@ -2911,3 +2855,20 @@ NA,"Private","Nurture in Nature Glasgow","Glasgow","Glasgow City","Children",NA,
 NA,"Private","Mhairi's Childminding","Biggar","South Lanarkshire","Children",NA,NA,NA,NA,NA,NA,"2025_5",0,0
 NA,"Private","Bankton Babies Childminding","Livingston","West Lothian","Children",NA,NA,NA,NA,NA,NA,"2025_5",0,0
 NA,"Private","Louise Orr Childminding","Linlithgow","West Lothian","Children",NA,NA,NA,NA,NA,NA,"2025_5",0,0
+NA,"Private","Rose's Childminding","Glasgow","Glasgow City","Children",NA,NA,NA,NA,NA,NA,"2025_6",0,0
+NA,"Private","GO Childcare","Denny","Falkirk","Children",NA,NA,NA,NA,NA,NA,"2025_6",0,0
+NA,"Private","Annabel's Childminding","Kilbirnie","North Ayrshire","Children",NA,NA,NA,NA,NA,NA,"2025_6",0,0
+NA,"Private","Bright Horizons Early Education and Childcare","Stranraer","Dumfries & Galloway","Children",NA,NA,NA,NA,NA,NA,"2025_6",0,0
+NA,"Private","Ethan McLean Childminding","Livingston","West Lothian","Children",NA,NA,NA,NA,NA,NA,"2025_6",0,0
+NA,"Private","Sara's Little Explorers","Inverkeithing","Fife","Children",NA,NA,NA,NA,NA,NA,"2025_6",0,0
+NA,"Private","Nicola's Little Explorers","Rothes","Moray","Children",NA,NA,NA,NA,NA,NA,"2025_6",0,0
+NA,"Private","Amber Sultana","Glasgow","Glasgow City","Children",NA,NA,NA,NA,NA,NA,"2025_6",0,0
+NA,"Private","Little Angels Childcare","Alford","Aberdeenshire","Children",NA,NA,NA,NA,NA,NA,"2025_6",0,0
+NA,"Private","Mini Mates Childminding service","Glasgow","North Lanarkshire","Children",NA,NA,NA,NA,NA,NA,"2025_6",0,0
+NA,"Private","N.A Childminding","Cumnock","East Ayrshire","Children",NA,NA,NA,NA,NA,NA,"2025_6",0,0
+NA,"Private","Leah's Little Learners","Shotts","North Lanarkshire","Children",NA,NA,NA,NA,NA,NA,"2025_6",0,0
+NA,"Private","Kirstin's Childminding","Glenrothes","Fife","Children",NA,NA,NA,NA,NA,NA,"2025_6",0,0
+NA,"Private","Little Roots Childminding","Aboyne","Aberdeenshire","Children",NA,NA,NA,NA,NA,NA,"2025_6",0,0
+NA,"Private","Chloe's Childminding","Larbert","Falkirk","Children",NA,NA,NA,NA,NA,NA,"2025_6",0,0
+NA,"Private","Curious Minds Islay","Isle Of Islay","Argyll & Bute","Children",NA,NA,NA,NA,NA,NA,"2025_6",0,0
+NA,"Private","SG Childcare","Kirkcaldy","Fife","Children",NA,NA,NA,NA,NA,NA,"2025_7",0,0

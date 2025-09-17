@@ -1,5 +1,5 @@
 "Subtype","Provider","Name","Town","Council","Grades published","Wellbeing support","Care and support","Setting","Staffing","Leadership","Last_inspection_Date","Registered","Complaints upheld since 23/24","Enforcements since 23/24"
-"Mental Health Problems","Voluntary or Not for Profit","Arrdeir","Aberdeen","Aberdeen City","12/05/2022",4,5,5,5,5,"28/04/2022","2002_4",0,0
+"Mental Health Problems","Voluntary or Not for Profit","Arrdeir","Aberdeen","Aberdeen City","25/08/2025",5,5,5,5,5,"07/08/2025","2002_4",0,0
 "Mental Health Problems","Voluntary or Not for Profit","Northfield Lodge","Aberdeen","Aberdeen City","03/02/2025",5,4,4,5,5,"10/01/2025","2002_4",0,0
 "Mental Health Problems","Voluntary or Not for Profit","VSA,450 Holburn Street","Aberdeen","Aberdeen City","06/09/2024",4,5,4,5,5,"07/08/2024","2002_4",0,0
 "Mental Health Problems","Voluntary or Not for Profit","40 Ellon Road","Aberdeen","Aberdeen City","19/02/2025",5,5,6,5,4,"28/01/2025","2002_4",0,0
@@ -8,8 +8,8 @@
 "Alcohol & Drug Misuse","Voluntary or Not for Profit","Wernham House","Aberdeen","Aberdeen City","21/05/2024",5,5,3,5,4,"12/04/2024","2002_4",0,0
 "Physical and Sensory Impairment","Voluntary or Not for Profit","Blackwood Care - Raeden Court Care Home","Aberdeen","Aberdeen City","25/07/2025",4,4,4,4,4,"17/07/2025","2002_4",0,0
 "Mental Health Problems","Voluntary or Not for Profit","Leggart Terrace Service","Aberdeen","Aberdeen City","28/02/2024",4,4,4,4,4,"29/01/2024","2002_4",0,0
-"Learning Disabilities","Voluntary or Not for Profit","153 Victoria Street","Aberdeen","Aberdeen City","21/07/2025",3,5,5,4,5,"29/05/2025","2002_4",0,0
-"Learning Disabilities","Voluntary or Not for Profit","Berryden Mills","Aberdeen","Aberdeen City","10/06/2025",4,4,3,4,4,"15/05/2025","2002_4",0,0
+"Learning Disabilities","Voluntary or Not for Profit","153 Victoria Street","Aberdeen","Aberdeen City","26/08/2025",3,4,3,4,4,"29/05/2025","2002_4",0,0
+"Learning Disabilities","Voluntary or Not for Profit","Berryden Mills","Aberdeen","Aberdeen City","12/08/2025",4,4,3,4,4,"07/08/2025","2002_4",0,0
 "Learning Disabilities","Voluntary or Not for Profit","71 Westburn Road","Aberdeen","Aberdeen City","05/05/2025",5,5,3,5,3,"28/03/2025","2002_4",0,0
 "Learning Disabilities","Voluntary or Not for Profit","31 Two Mile Cross","Aberdeen","Aberdeen City","27/06/2025",4,4,5,4,4,"16/06/2025","2002_4",0,0
 "Mental Health Problems","Voluntary or Not for Profit","Seabank House","Aberdeen","Aberdeen City","25/03/2025",5,5,4,5,4,"09/12/2024","2002_4",0,0
@@ -17,10 +17,10 @@
 "Learning Disabilities","Voluntary or Not for Profit","CSA Young Adult Residential Care","Aberdeen","Aberdeen City","26/09/2023",5,5,5,5,5,"01/09/2023","2002_4",1,0
 "Older People","Voluntary or Not for Profit","Simeon Care for the Elderly Limited","Aberdeen","Aberdeen City","02/05/2024",5,4,4,4,5,"26/03/2024","2002_4",0,0
 "Older People","Private","Summerhill Home","Aberdeen","Aberdeen City","29/11/2023",4,5,5,5,4,"17/11/2023","2002_4",0,0
-"Learning Disabilities","Voluntary or Not for Profit","Tigh-A'Chomainn","Peterculter","Aberdeen City","19/06/2025",2,2,3,3,2,"07/05/2025","2002_4",2,2
+"Learning Disabilities","Voluntary or Not for Profit","Tigh-A'Chomainn","Peterculter","Aberdeen City","07/08/2025",1,2,3,2,1,"09/07/2025","2002_4",2,2
 "Learning Disabilities","Voluntary or Not for Profit","The Bungalow","Stonehaven","Aberdeenshire","18/03/2025",3,3,5,4,3,"25/02/2025","2002_4",0,0
 "Older People","Voluntary or Not for Profit","Balmedie House","Aberdeen","Aberdeenshire","15/11/2024",3,3,3,3,3,"04/11/2024","2002_4",0,0
-"Older People","Voluntary or Not for Profit","Clashfarquhar House","Stonehaven","Aberdeenshire","11/09/2024",4,4,4,5,4,"14/02/2024","2002_4",0,0
+"Older People","Voluntary or Not for Profit","Clashfarquhar House","Stonehaven","Aberdeenshire","27/08/2025",4,4,4,5,4,"21/08/2025","2002_4",0,0
 "Older People","Voluntary or Not for Profit","Bellfield Home","Banchory","Aberdeenshire","10/01/2025",4,4,4,4,4,"12/12/2024","2002_4",0,0
 "Learning Disabilities","Voluntary or Not for Profit","6 School Park","Fraserburgh","Aberdeenshire","18/10/2022",4,4,5,4,5,"14/09/2022","2002_4",0,0
 "Learning Disabilities","Voluntary or Not for Profit","2 Park Vale","Peterhead","Aberdeenshire","14/04/2025",4,5,5,4,4,"24/03/2025","2002_4",0,0
@@ -37,21 +37,20 @@
 "Mental Health Problems","Private","Allandale House","Peterhead","Aberdeenshire","15/01/2025",5,5,5,6,6,"11/12/2024","2002_4",0,0
 "Learning Disabilities","Voluntary or Not for Profit","16 Auchmore Road","Ellon","Aberdeenshire","01/04/2025",5,5,5,5,5,"16/03/2025","2002_4",0,0
 "Learning Disabilities","Voluntary or Not for Profit","12 Carronhall","Stonehaven","Aberdeenshire","29/04/2024",4,4,4,4,4,"18/04/2024","2002_4",0,0
-"Learning Disabilities","Voluntary or Not for Profit","Ellon Respite Services","Ellon","Aberdeenshire","14/11/2022",4,5,5,5,4,"14/10/2022","2002_4",0,0
 "Learning Disabilities","Voluntary or Not for Profit","33 Malcolms Mount","Stonehaven","Aberdeenshire","12/11/2024",5,5,5,4,5,"23/10/2024","2002_4",0,0
-"Learning Disabilities","Voluntary or Not for Profit","Inspire Bredero Drive","Banchory","Aberdeenshire","01/04/2025",3,3,4,3,3,"09/07/2025","2002_4",0,0
+"Learning Disabilities","Voluntary or Not for Profit","Inspire Bredero Drive","Banchory","Aberdeenshire","04/08/2025",5,5,4,5,5,"09/07/2025","2002_4",0,0
 "Learning Disabilities","Voluntary or Not for Profit","2 Carolines Crescent","Ellon","Aberdeenshire","24/07/2025",5,4,4,4,4,"17/07/2025","2002_4",0,0
 "Learning Disabilities","Voluntary or Not for Profit","Inspire- Eden Drive","Peterhead","Aberdeenshire","13/02/2025",4,5,3,5,5,"03/02/2025","2002_4",0,0
 "Learning Disabilities","Voluntary or Not for Profit","Beannachar","Aberdeen","Aberdeenshire","25/05/2023",4,5,4,5,4,"11/05/2023","2002_4",0,0
-"Older People","Voluntary or Not for Profit","Alexander Scott's Hospital Eventide Home","Huntly","Aberdeenshire","10/08/2022",5,5,4,5,5,"22/07/2022","2002_4",0,0
+"Older People","Voluntary or Not for Profit","Alexander Scott's Hospital Eventide Home","Huntly","Aberdeenshire","10/08/2022",5,5,4,5,5,"13/08/2025","2002_4",0,0
 "Older People","Local Authority","Kinloch Care Centre","Carnoustie","Angus","03/07/2025",3,4,5,3,3,"28/05/2025","2002_4",0,0
 "Learning Disabilities","Local Authority","The Gables","Forfar","Angus","25/07/2024",4,4,4,4,4,"04/07/2024","2002_4",0,0
 "Older People","Local Authority","Seaton Grove","Arbroath","Angus","03/09/2024",4,4,4,5,5,"29/08/2024","2002_4",1,0
 "Older People","Private","Braehill Lodge","Carnoustie","Angus","18/09/2024",4,4,4,5,4,"02/09/2024","2002_4",0,0
-"Learning Disabilities","Private","St. Vigeans","Arbroath","Angus","12/09/2023",5,4,4,5,5,"29/08/2023","2002_4",0,0
+"Learning Disabilities","Private","St. Vigeans","Arbroath","Angus","08/08/2025",4,4,4,5,5,"04/08/2025","2002_4",0,0
 "Older People","Private","Tarriebank House","Arbroath","Angus","18/12/2024",4,4,4,4,4,"27/11/2024","2002_4",1,0
 "Older People","Private","Willowbank","Carnoustie","Angus","08/08/2024",4,4,4,4,5,"22/07/2024","2002_4",4,0
-"Older People","Private","Northwood House Care Home","Helensburgh","Argyll & Bute","03/02/2025",5,5,4,5,5,"25/11/2024","2002_4",0,0
+"Older People","Private","Northwood House Care Home","Helensburgh","Argyll & Bute","19/08/2025",5,5,3,5,5,"17/07/2025","2002_4",0,0
 "Older People","Local Authority","Gortanvogie Residential Home","Isle Of Islay","Argyll & Bute","13/05/2025",4,4,4,3,3,"17/04/2025","2002_4",0,0
 "Older People","Local Authority","Struan Lodge","Dunoon","Argyll & Bute","10/01/2025",5,5,5,5,5,"06/12/2024","2002_4",0,0
 "Older People","Local Authority","Thomson Court","Isle Of Bute","Argyll & Bute","22/05/2025",4,4,2,3,4,"10/04/2025","2002_4",0,0
@@ -66,17 +65,17 @@
 "Older People","Private","Graceland","Kilmarnock","East Ayrshire","27/11/2024",5,5,5,5,5,"08/11/2024","2002_8",0,0
 "Learning Disabilities","Private","The Elms - Crosshouse","Kilmarnock","East Ayrshire","24/07/2024",4,4,4,4,4,"08/07/2024","2002_4",1,0
 "Older People","Private","Thorntoun Estate Nursing Home","Kilmarnock","East Ayrshire","31/07/2024",4,4,4,4,4,"28/06/2024","2002_4",2,0
-"Learning Disabilities","Private","Newhouse","Kilmarnock","East Ayrshire","28/08/2024",5,5,4,5,5,"19/08/2024","2002_4",0,0
+"Learning Disabilities","Private","Newhouse","Kilmarnock","East Ayrshire","19/08/2025",4,5,4,5,5,"08/08/2025","2002_4",0,0
 "Learning Disabilities","Private","Kirklea","Kilmarnock","East Ayrshire","11/04/2025",5,4,5,5,4,"20/03/2025","2002_4",0,0
 "Older People","Private","Abbotsford House","Glasgow","East Dunbartonshire","21/07/2025",5,4,4,5,4,"01/07/2025","2002_4",1,0
 "Mental Health Problems","Voluntary or Not for Profit","Ashfield House","Glasgow","East Dunbartonshire","21/02/2023",5,5,5,4,4,"27/01/2023","2002_4",0,0
-"Learning Disabilities","Local Authority","John Street House","Glasgow","East Dunbartonshire","09/06/2025",3,3,4,3,3,"09/05/2025","2002_4",1,0
+"Learning Disabilities","Local Authority","John Street House","Glasgow","East Dunbartonshire","09/06/2025",3,3,4,3,3,"14/07/2025","2002_4",1,0
 "Older People","Private","Westlea Care Home","Glasgow","East Renfrewshire","27/03/2023",5,4,5,4,4,"23/03/2023","2002_4",1,0
 "Older People","Voluntary or Not for Profit","Williamwood","Glasgow","East Renfrewshire","19/05/2025",5,5,5,4,5,"12/05/2025","2002_4",1,0
 "Older People","Private","Craigend Gardens Care Home","Glasgow","Glasgow City","22/07/2025",4,4,4,4,4,"16/07/2025","2002_4",0,0
 "Older People","Voluntary or Not for Profit","David Cargill House","Glasgow","Glasgow City","07/05/2025",5,4,4,5,4,"18/04/2025","2002_4",0,0
 "Learning Disabilities","Voluntary or Not for Profit","Balshagray House","Glasgow","Glasgow City","19/12/2023",5,5,5,5,5,"16/11/2023","2002_4",0,0
-"Learning Disabilities","Voluntary or Not for Profit","Esmond Street Advanced Support Service","Glasgow","Glasgow City","17/06/2024",5,5,5,5,5,"02/05/2024","2002_4",0,0
+"Learning Disabilities","Voluntary or Not for Profit","Esmond Street Advanced Support Service","Glasgow","Glasgow City","14/08/2025",5,5,4,5,5,"11/07/2025","2002_4",0,0
 "Physical and Sensory Impairment","Voluntary or Not for Profit","Hayfield Residential Services","Glasgow","Glasgow City","27/03/2024",5,5,5,5,4,"19/02/2024","2002_4",0,0
 "Learning Disabilities","Voluntary or Not for Profit","Daniel House","Glasgow","Glasgow City","30/01/2025",5,5,5,5,4,"10/01/2025","2002_4",0,0
 "Physical and Sensory Impairment","Voluntary or Not for Profit","Blackwood Care - Belses Gardens Care Home","Glasgow","Glasgow City","05/02/2025",4,4,4,4,3,"21/01/2025","2002_4",0,0
@@ -94,12 +93,11 @@
 "Alcohol & Drug Misuse","Voluntary or Not for Profit","CrossReach Abstinence Recovery Service","Glasgow","Glasgow City","16/04/2025",5,4,4,5,4,"27/03/2025","2002_4",0,0
 "Mental Health Problems","Voluntary or Not for Profit","Balmoral Gate","Glasgow","Glasgow City","22/04/2025",5,4,5,5,5,"14/03/2025","2002_4",0,0
 "Mental Health Problems","Voluntary or Not for Profit","Oakley Terrace Scheme","Glasgow","Glasgow City","14/02/2025",5,5,4,5,4,"09/01/2025","2002_4",0,0
-"Mental Health Problems","Voluntary or Not for Profit","Woodside Community Mental Health Project","Glasgow","Glasgow City","18/12/2024",5,5,5,5,5,"13/11/2024","2002_4",0,0
 "Mental Health Problems","Voluntary or Not for Profit","Supported Living Services Glasgow South","Glasgow","Glasgow City","02/12/2024",5,5,5,5,5,"12/11/2024","2002_4",0,0
 "Alcohol & Drug Misuse","Voluntary or Not for Profit","Buchanan Lodge","Glasgow","Glasgow City","24/03/2025",5,4,4,5,4,"19/02/2025","2002_4",0,0
 "Mental Health Problems","Voluntary or Not for Profit","Riverside Project","Glasgow","Glasgow City","24/06/2024",4,4,4,4,4,"17/05/2024","2002_4",0,0
 "Older People","Local Authority","Hawthorn House","Glasgow","Glasgow City","28/11/2024",4,3,4,4,4,"28/10/2024","2002_4",1,0
-"Older People","Private","Oxton House Residential Home For Older People","Glasgow","Glasgow City","12/06/2025",3,3,2,3,2,"10/06/2025","2002_4",0,0
+"Older People","Private","Oxton House Residential Home For Older People","Glasgow","Glasgow City","26/08/2025",3,3,3,3,3,"12/08/2025","2002_4",0,0
 "Older People","Private","Swintonhill Residential Home","Glasgow","Glasgow City","26/03/2025",5,4,4,5,4,"21/02/2025","2002_4",0,0
 "Older People","Voluntary or Not for Profit","Campbell Snowdon House","Bridge Of Weir","Inverclyde","12/05/2025",5,6,5,5,4,"18/04/2025","2002_4",0,0
 "Mental Health Problems","Voluntary or Not for Profit","Lynedoch House","Greenock","Inverclyde","11/04/2025",3,3,5,3,4,"27/03/2025","2002_4",0,0
@@ -113,8 +111,8 @@
 "Older People","Local Authority","Montrose House","Isle Of Arran","North Ayrshire","21/11/2024",4,3,4,3,4,"31/10/2024","2002_4",0,0
 "Learning Disabilities","Private","Phew","Motherwell","North Lanarkshire","17/03/2025",5,4,4,4,4,"06/02/2025","2002_4",2,0
 "Physical and Sensory Impairment","Voluntary or Not for Profit","Wallace Court","Johnstone","Renfrewshire","22/04/2025",4,3,5,4,3,"20/03/2025","2002_4",0,0
-"Older People","Voluntary or Not for Profit","Adams House","Johnstone","Renfrewshire","06/01/2025",4,3,4,3,3,"05/12/2024","2002_4",0,0
-"Learning Disabilities","Private","Beechmount","Johnstone","Renfrewshire","25/09/2023",5,4,4,4,5,"30/08/2023","2002_4",0,0
+"Older People","Voluntary or Not for Profit","Adams House","Johnstone","Renfrewshire","19/08/2025",3,3,3,3,3,"28/07/2025","2002_4",0,0
+"Learning Disabilities","Private","Beechmount","Johnstone","Renfrewshire","08/08/2025",5,5,5,5,5,"05/06/2025","2002_4",0,0
 "Older People","Local Authority","Hillcrest Residential Unit","Girvan","South Ayrshire","09/06/2025",5,5,4,4,5,"26/05/2025","2002_4",0,0
 "Learning Disabilities","Local Authority","Chalmers Road","Ayr","South Ayrshire","13/01/2025",5,5,5,5,4,"09/01/2025","2002_4",0,0
 "Learning Disabilities","Voluntary or Not for Profit","Shawburn","Prestwick","South Ayrshire","24/07/2024",5,4,4,4,4,"08/07/2024","2002_4",0,0
@@ -132,44 +130,42 @@
 "Older People","Voluntary or Not for Profit","Abbeyfield Rutherglen Society Limited","Glasgow","South Lanarkshire","11/11/2024",3,4,4,3,3,"30/10/2024","2002_4",0,0
 "Learning Disabilities","Voluntary or Not for Profit","Clannalba","Biggar","South Lanarkshire","11/04/2025",4,4,4,4,5,"23/03/2025","2002_4",0,0
 "Learning Disabilities","Voluntary or Not for Profit","New Ridgepark","Lanark","South Lanarkshire","10/06/2025",4,4,4,4,4,"22/05/2025","2002_4",0,0
-"Learning Disabilities","Private","Castle Street Care Home, Living Ambitions Limited","Glasgow","South Lanarkshire","02/09/2024",3,3,4,4,4,"02/08/2024","2002_4",0,0
+"Learning Disabilities","Private","Castle Street Care Home, Living Ambitions Limited","Glasgow","South Lanarkshire","29/08/2025",4,4,4,4,4,"04/08/2025","2002_4",0,0
 "Mental Health Problems","Voluntary or Not for Profit","Sheriff Park Service","Glasgow","South Lanarkshire","10/12/2024",5,6,6,6,5,"14/11/2024","2002_4",0,0
 "Learning Disabilities","Voluntary or Not for Profit","Lanark Project","Lanark","South Lanarkshire","01/05/2025",4,4,5,5,5,"27/03/2025","2002_4",0,0
 "Learning Disabilities","Voluntary or Not for Profit","Threshold Support Services - Residential","Hamilton","South Lanarkshire","15/01/2025",4,4,4,4,3,"09/12/2024","2002_4",0,0
 "Older People","Private","Strathleven Care Home","Dumbarton","West Dunbartonshire","16/07/2025",5,4,4,5,5,"15/07/2025","2002_4",1,0
 "Older People","Local Authority","Ladywalk House","Anstruther","Fife","19/09/2023",4,4,4,4,4,"16/08/2023","2002_4",0,0
-"Older People","Local Authority","Matthew Fyfe Care Home","Dunfermline","Fife","21/11/2024",4,4,4,3,5,"01/11/2024","2002_4",0,0
+"Older People","Local Authority","Matthew Fyfe Care Home","Dunfermline","Fife","21/08/2025",5,4,4,4,5,"27/06/2025","2002_4",0,0
 "Older People","Local Authority","Northeden House","Cupar","Fife","23/10/2024",4,3,4,4,3,"18/09/2024","2002_4",0,0
 "Older People","Local Authority","Methilhaven Care Home","Methil","Fife","10/04/2024",5,4,5,5,5,"14/03/2024","2002_4",0,0
 "Respite Care and Short Breaks","Local Authority","78 Broad Street","Cowdenbeath","Fife","20/11/2023",4,5,4,3,5,"30/10/2023","2002_4",0,0
 "Older People","Private","Villa Atina","Burntisland","Fife","08/12/2023",4,4,3,5,4,"23/11/2023","2002_4",0,0
-"Older People","Private","Orchardhead House","Rosyth","Fife","12/03/2025",5,5,5,3,5,"24/01/2025","2002_4",0,0
 "Older People","Voluntary or Not for Profit","Abbeyfield House Care Home","Kirkcaldy","Fife","14/03/2025",4,5,5,5,5,"07/03/2025","2002_4",0,0
 "Older People","Private","Glendale Lodge","Dunfermline","Fife","20/12/2024",5,5,5,5,5,"05/12/2024","2002_4",1,0
 "Older People","Voluntary or Not for Profit","Abbeyfield Ballachulish (Care Home)","Ballachulish","Highland","09/01/2023",5,6,6,6,5,"09/12/2022","2002_4",1,0
 "Older People","Voluntary or Not for Profit","Cameron House (Care Home)","Inverness","Highland","09/04/2025",3,3,3,3,3,"20/02/2025","2002_4",1,0
 "Older People","Voluntary or Not for Profit","Whinnieknowe (Care Home)","Nairn","Highland","11/03/2025",5,4,4,4,4,"19/02/2025","2002_4",0,0
-"Older People","Voluntary or Not for Profit","Oversteps (Care Home)","Dornoch","Highland","11/06/2025",4,4,4,4,4,"13/05/2025","2002_4",2,0
+"Older People","Voluntary or Not for Profit","Oversteps (Care Home)","Dornoch","Highland","19/08/2025",4,4,4,4,4,"30/07/2025","2002_4",2,0
 "Alcohol & Drug Misuse","Voluntary or Not for Profit","Beechwood House","Inverness","Highland","01/09/2022",4,5,5,4,4,"16/08/2022","2002_4",0,0
-"Older People","Voluntary or Not for Profit","Aden House (Care Home)","Inverness","Highland","28/03/2025",4,4,4,4,4,"21/02/2025","2002_4",0,0
-"Older People","Voluntary or Not for Profit","Ballifeary House","Inverness","Highland","19/05/2025",4,4,4,3,4,"29/04/2025","2002_4",0,0
+"Older People","Voluntary or Not for Profit","Aden House (Care Home)","Inverness","Highland","28/03/2025",4,4,4,4,4,"21/02/2025","2002_4",1,0
+"Older People","Voluntary or Not for Profit","Ballifeary House","Inverness","Highland","22/08/2025",4,4,4,4,4,"05/08/2025","2002_4",0,0
 "Older People","Private","Kintyre House (Care Home)","Invergordon","Highland","26/11/2024",4,5,2,4,4,"01/10/2024","2002_4",1,0
-"Older People","Private","Mull Hall (Care Home)","Invergordon","Highland","16/06/2025",5,4,4,4,4,"06/05/2025","2002_4",0,0
 "Older People","Private","Strathallan House (Care Home)","Strathpeffer","Highland","06/08/2024",5,4,4,5,4,"10/06/2024","2002_4",0,0
 "Physical and Sensory Impairment","Voluntary or Not for Profit","Cheshire House (Care Home)","Inverness","Highland","23/07/2025",4,4,3,4,4,"27/06/2025","2002_4",0,0
-"Learning Disabilities","Voluntary or Not for Profit","Fram House","Beauly","Highland","04/12/2023",5,5,5,5,4,"21/11/2023","2002_4",0,0
+"Learning Disabilities","Voluntary or Not for Profit","Fram House","Beauly","Highland","04/12/2023",5,5,5,5,4,"01/08/2025","2002_4",0,0
 "Respite Care and Short Breaks","Voluntary or Not for Profit","Birchview Respite Unit","Elgin","Moray","09/05/2025",4,5,4,4,4,"18/03/2025","2002_4",0,0
 "Older People","Private","Glenisla Home","Keith","Moray","17/06/2025",5,5,5,5,5,"12/05/2025","2002_4",0,0
 "Older People","Private","Netherha' House","Buckie","Moray","11/10/2023",4,5,4,5,5,"29/09/2023","2002_4",0,0
 "Older People","Private","Speyside (Care Home)","Aberlour","Moray","15/07/2025",5,4,5,5,5,"16/06/2025","2002_4",1,0
 "Older People","Local Authority","Hamnavoe House","Orkney","Orkney Islands","23/07/2025",4,4,5,3,4,"25/06/2025","2002_4",0,0
-"Older People","Local Authority","St. Rognvalds House","Kirkwall","Orkney Islands","02/05/2025",2,2,3,3,2,"03/04/2025","2002_4",0,0
+"Older People","Local Authority","St. Rognvalds House","Kirkwall","Orkney Islands","21/08/2025",3,3,3,3,4,"15/07/2025","2002_4",0,0
 "Learning Disabilities","Voluntary or Not for Profit","Enable Scotland (Leading the Way) - Old Scapa Road","Kirkwall","Orkney Islands","27/06/2025",4,4,5,5,5,"16/05/2025","2002_4",0,0
 "Learning Disabilities","Voluntary or Not for Profit","Garvald Home Farm","West Linton","Scottish Borders","05/12/2024",4,5,5,4,4,"21/11/2024","2002_4",0,0
 "Learning Disabilities","Voluntary or Not for Profit","Garvald West Linton","West Linton","Scottish Borders","13/11/2024",4,5,4,4,4,"25/10/2024","2002_4",1,0
 "Older People","Private","Grange Hall","Melrose","Scottish Borders","03/06/2025",5,4,5,5,4,"29/05/2025","2002_4",0,0
 "Older People","Private","Queens House","Kelso","Scottish Borders","02/12/2024",4,4,4,5,4,"29/10/2024","2002_4",0,0
-"Older People","Local Authority","Edward Thomason & Taing Support Services","Shetland","Shetland Islands","23/10/2024",4,4,4,4,4,"17/09/2024","2002_4",2,0
+"Older People","Local Authority","Edward Thomason & Taing Support Services","Shetland","Shetland Islands","14/08/2025",5,4,5,4,4,"14/07/2025","2002_4",2,0
 "Older People","Voluntary or Not for Profit","Walter & Joan Gray (Care Home)","Shetland","Shetland Islands","09/04/2025",3,3,3,3,3,"27/02/2025","2002_4",0,0
 "Older People","Local Authority","St Brendan's (Care Home)","Isle Of Barra","Na h-Eileanan Siar","23/05/2025",4,4,4,4,4,"22/04/2025","2002_4",0,0
 "Learning Disabilities","Local Authority","Ardseileach","Stornoway","Na h-Eileanan Siar","27/02/2025",4,4,5,5,4,"12/02/2025","2002_4",0,0
@@ -182,8 +178,8 @@
 "Older People","Private","Ashdene House","Crieff","Perth & Kinross","06/02/2024",4,4,4,4,4,"18/01/2024","2002_4",0,0
 "Learning Disabilities","Voluntary or Not for Profit","Corbenic Camphill Community","Dunkeld","Perth & Kinross","03/04/2023",5,3,3,3,5,"14/03/2023","2002_4",1,0
 "Older People","Private","Dalginross House","Crieff","Perth & Kinross","02/12/2024",4,4,2,3,2,"04/11/2024","2002_4",0,0
-"Older People","Private","Glencairn House","Auchterarder","Perth & Kinross","26/03/2025",2,4,4,4,2,"06/03/2025","2002_4",0,0
-"Learning Disabilities","Private","ASC The Grange","Perth","Perth & Kinross","28/04/2025",2,3,2,3,2,"24/06/2025","2002_4",2,0
+"Older People","Private","Glencairn House","Auchterarder","Perth & Kinross","26/08/2025",2,2,4,3,2,"24/07/2025","2002_4",0,1
+"Learning Disabilities","Private","ASC The Grange","Perth","Perth & Kinross","06/08/2025",2,3,3,3,2,"24/06/2025","2002_4",2,0
 "Older People","Voluntary or Not for Profit","Hope Park House","Blairgowrie","Perth & Kinross","27/02/2024",5,4,4,4,4,"08/02/2024","2002_4",0,0
 "Older People","Voluntary or Not for Profit","Kincarrathie House","Perth","Perth & Kinross","17/02/2025",4,3,4,4,3,"12/02/2025","2002_4",0,0
 "Older People","Private","North Inch House","Perth","Perth & Kinross","15/01/2025",3,3,4,3,3,"16/12/2024","2002_4",3,0
@@ -195,18 +191,18 @@
 "Older People","Voluntary or Not for Profit","Bagatelle","Greenock","Inverclyde","03/01/2024",5,5,4,4,5,"14/12/2023","2002_4",0,0
 "Older People","Private","Inchinnan Care Home","Renfrew","Renfrewshire","07/11/2024",5,4,4,4,5,"26/09/2024","2002_4",0,0
 "Older People","Private","Nightingale House","Paisley","Renfrewshire","24/03/2025",4,4,4,5,4,"25/02/2025","2002_4",0,0
-"Older People","Private","Morar Lodge Nursing Home","Helensburgh","Argyll & Bute","23/05/2024",4,4,4,4,4,"05/04/2024","2002_4",0,0
+"Older People","Private","Morar Lodge Nursing Home","Helensburgh","Argyll & Bute","29/08/2025",3,3,3,3,3,"05/08/2025","2002_4",0,0
 "Older People","Private","Abbotsford Nursing Home","Ardrossan","North Ayrshire","04/02/2025",6,5,5,6,5,"28/01/2025","2002_4",0,0
 "Older People","Private","Ainslie Manor Nursing Home","Girvan","South Ayrshire","23/07/2025",4,4,4,4,4,"27/06/2025","2002_4",3,0
 "Older People","Private","Bellevue Nursing Home","Ayr","South Ayrshire","03/06/2024",5,5,4,5,5,"10/05/2024","2002_4",0,0
-"Older People","Private","Buckreddan Care Centre","Kilwinning","North Ayrshire","22/05/2025",4,4,3,4,4,"16/04/2025","2002_4",6,0
+"Older People","Private","Buckreddan Care Centre","Kilwinning","North Ayrshire","18/08/2025",4,4,3,4,4,"09/07/2025","2002_4",6,0
 "Older People","Private","Howard House Nursing & Residential Home","Kilmarnock","East Ayrshire","29/04/2024",5,4,5,5,5,"15/04/2024","2002_4",0,0
 "Older People","Private","Redford Nursing Home","Ayr","South Ayrshire","21/05/2025",4,4,4,4,4,"28/04/2025","2002_4",0,0
-"Older People","Private","Suncourt Nursing Home","Troon","South Ayrshire","14/07/2025",3,2,4,3,3,"02/07/2025","2002_4",3,0
+"Older People","Private","Suncourt Nursing Home","Troon","South Ayrshire","14/07/2025",3,2,4,3,3,"29/08/2025","2002_4",3,0
 "Older People","Private","Temple House Care Home","Ayr","South Ayrshire","04/07/2025",5,5,4,5,5,"06/06/2025","2002_4",1,0
 "Learning Disabilities","Private","Townend Nursing Home","Symington","South Ayrshire","13/02/2025",4,4,5,4,5,"17/01/2025","2002_4",1,0
 "Older People","Private","Galashiels Nursing Home","Galashiels","Scottish Borders","08/08/2024",4,4,4,4,4,"07/08/2024","2002_4",2,0
-"Older People","Private","Knowesouth Care Centre","Jedburgh","Scottish Borders","15/04/2025",4,4,4,4,4,"10/04/2025","2002_4",1,0
+"Older People","Private","Knowesouth Care Centre","Jedburgh","Scottish Borders","15/04/2025",4,4,4,4,4,"10/04/2025","2002_4",2,0
 "Older People","Private","Riverside Healthcare Centre","Selkirk","Scottish Borders","13/12/2024",4,3,4,4,3,"27/11/2024","2002_4",0,0
 "Older People","Private","Bandrum Nursing Home","Dunfermline","Fife","04/06/2025",4,4,5,5,4,"23/05/2025","2002_4",0,0
 "Older People","Private","Pitlair House Nursing Home","Cupar","Fife","20/03/2025",5,4,4,4,5,"03/03/2025","2002_4",0,0
@@ -219,7 +215,7 @@
 "Older People","Private","Birdston","Glasgow","East Dunbartonshire","06/01/2025",5,5,5,5,4,"09/12/2024","2002_4",0,0
 "Older People","Private","Lillyburn","Glasgow","East Dunbartonshire","18/01/2024",5,5,5,5,5,"23/11/2023","2002_4",0,0
 "Mental Health Problems","Private","Southview","Glasgow","South Lanarkshire","08/07/2024",3,3,3,3,3,"02/07/2024","2002_4",0,0
-"Older People","Private","Greencross","Glasgow","South Lanarkshire","02/04/2024",5,4,4,4,4,"21/03/2024","2002_4",0,0
+"Older People","Private","Greencross","Glasgow","South Lanarkshire","02/04/2024",5,4,4,4,4,"08/08/2025","2002_4",0,0
 "Older People","Private","Edinbarnet","Clydebank","West Dunbartonshire","29/10/2024",4,4,4,5,4,"17/10/2024","2002_4",0,0
 "Older People","Private","Chester Park Care Home","Glasgow","Glasgow City","23/05/2023",5,4,4,5,5,"28/04/2023","2002_4",1,0
 "Older People","Private","Florence House","Glasgow","Glasgow City","02/10/2024",5,5,5,5,5,"12/09/2024","2002_4",1,0
@@ -233,15 +229,15 @@
 "Mental Health Problems","Voluntary or Not for Profit","Birchwood Highland Recovery Centre","Inverness","Highland","03/09/2024",4,3,4,4,3,"12/08/2024","2002_4",0,0
 "Older People","Private","Southside Care Home","Inverness","Highland","10/04/2025",5,4,4,5,4,"21/03/2025","2002_4",1,0
 "Older People","Private","Craig En Goyne","Glasgow","North Lanarkshire","07/01/2025",4,4,5,5,4,"05/12/2024","2002_4",1,0
-"Older People","Private","Cumbernauld Care Home","Glasgow","North Lanarkshire","27/05/2025",3,4,4,3,4,"07/05/2025","2002_4",2,0
+"Older People","Private","Cumbernauld Care Home","Glasgow","North Lanarkshire","26/08/2025",3,4,4,3,4,"19/08/2025","2002_4",2,0
 "Older People","Voluntary or Not for Profit","Darroch Nursing Home","Glasgow","North Lanarkshire","28/10/2024",5,4,4,5,4,"18/09/2024","2002_4",2,0
-"Older People","Private","Clinton House Nursing Home","Larkhall","South Lanarkshire","20/11/2023",4,4,4,4,4,"25/10/2023","2002_4",1,0
+"Older People","Private","Clinton House Nursing Home","Larkhall","South Lanarkshire","29/08/2025",4,3,4,4,4,"01/08/2025","2002_4",1,0
 "Older People","Private","Greenhills Care Home","Biggar","South Lanarkshire","06/05/2025",4,4,4,4,4,"03/04/2025","2002_4",1,0
 "Older People","Private","Netherton Court Nursing Home","Wishaw","North Lanarkshire","12/06/2025",5,4,4,5,5,"05/06/2025","2002_4",1,0
 "Older People","Private","Rawyards House Care Home","Airdrie","North Lanarkshire","19/09/2024",4,4,5,4,4,"09/09/2024","2002_4",1,0
 "Older People","Private","Westwood House Nursing Home","Glasgow","South Lanarkshire","10/06/2025",5,4,4,4,4,"22/05/2025","2002_4",0,0
 "Older People","Private","Ashley Court Care Home","Edinburgh","City of Edinburgh","17/12/2024",4,4,5,4,4,"04/12/2024","2002_4",0,0
-"Older People","Private","Belgrave Lodge Nursing Home","Edinburgh","City of Edinburgh","08/10/2024",4,4,4,4,3,"01/10/2024","2002_4",1,0
+"Older People","Private","Belgrave Lodge Nursing Home","Edinburgh","City of Edinburgh","13/08/2025",4,4,4,5,3,"11/08/2025","2002_4",1,0
 "Older People","Private","Blackfaulds House Nursing Home Ltd","Falkirk","West Lothian","23/10/2024",5,4,4,5,5,"03/10/2024","2002_4",0,0
 "Older People","Private","Broxburn Nursing Home","Broxburn","West Lothian","17/04/2025",3,4,3,4,3,"12/03/2025","2002_4",1,0
 "Older People","Private","Cameron Park Nursing Home","Edinburgh","City of Edinburgh","09/06/2023",5,5,4,5,5,"05/06/2023","2002_4",0,0
@@ -249,18 +245,17 @@
 "Older People","Private","Claremont Park Nursing Home","Edinburgh","City of Edinburgh","16/10/2024",4,4,4,5,4,"14/10/2024","2002_4",1,0
 "Older People","Private","Cluny Lodge Nursing Home","Edinburgh","City of Edinburgh","18/12/2024",6,5,5,5,5,"06/12/2024","2002_4",0,0
 "Older People","Private","Drummond Grange Nursing Home","Lasswade","Midlothian","31/07/2024",5,4,4,5,5,"25/07/2024","2002_4",3,0
-"Older People","Voluntary or Not for Profit","Erskine Edinburgh Home","Edinburgh","City of Edinburgh","05/12/2023",4,5,5,5,4,"08/11/2023","2002_4",0,0
-"Older People","Private","Peacock Nursing Home","Livingston","West Lothian","23/05/2025",3,3,4,4,4,"05/05/2025","2002_4",2,0
+"Older People","Voluntary or Not for Profit","Erskine Edinburgh Home","Edinburgh","City of Edinburgh","21/08/2025",4,5,5,5,4,"01/08/2025","2002_4",0,0
+"Older People","Private","Peacock Nursing Home","Livingston","West Lothian","19/08/2025",3,3,4,4,4,"05/08/2025","2002_4",2,0
 "Older People","Voluntary or Not for Profit","St. Raphael's Care Home","Edinburgh","City of Edinburgh","18/03/2025",5,5,4,4,4,"26/02/2025","2002_4",0,0
 "Older People","Private","Struan Lodge Nursing Home","Edinburgh","City of Edinburgh","15/04/2025",4,4,4,4,5,"10/04/2025","2002_4",1,0
 "Older People","Private","Woodlands Nursing Home","Livingston","West Lothian","11/07/2024",5,5,5,5,5,"06/06/2024","2002_4",0,0
 "Older People","Private","Harestane Nursing Home","Dundee","Dundee City","09/12/2024",5,5,5,5,6,"03/12/2024","2002_3",0,0
-"Older People","Private","Bridge View House Nursing Home","Dundee","Dundee City","12/06/2025",3,4,4,5,4,"22/01/2025","2002_4",1,0
-"Older People","Private","Benholm Nursing Home","Forfar","Angus","05/12/2024",4,4,4,4,4,"02/07/2025","2002_4",1,0
+"Older People","Private","Benholm Nursing Home","Forfar","Angus","01/08/2025",4,3,3,3,3,"02/07/2025","2002_4",1,0
 "Older People","Private","Lisden","Kirriemuir","Angus","25/06/2025",4,4,4,4,4,"28/05/2025","2002_4",2,0
 "Older People","Private","Benvie Care Home","Dundee","Dundee City","08/01/2025",4,4,4,4,3,"20/11/2024","2002_4",4,1
 "Older People","Private","Bankfoot House","Moffat","Dumfries & Galloway","29/01/2025",4,3,4,4,3,"15/01/2025","2002_4",1,0
-"Older People","Private","Abbey Gardens Nursing Home","Dumfries","Dumfries & Galloway","14/06/2022",5,5,4,5,5,"27/05/2022","2002_4",0,0
+"Older People","Private","Abbey Gardens Nursing Home","Dumfries","Dumfries & Galloway","13/08/2025",5,5,4,5,5,"10/07/2025","2002_4",0,0
 "Physical and Sensory Impairment","Voluntary or Not for Profit","Atkinson Road Respite","Dumfries","Dumfries & Galloway","13/06/2025",5,5,5,5,4,"23/05/2025","2002_4",0,0
 "Older People","Private","Dryfemount Care Home","Lockerbie","Dumfries & Galloway","16/12/2024",4,4,4,5,4,"05/12/2024","2002_4",0,0
 "Older People","Private","Senwick House","Kirkcudbright","Dumfries & Galloway","12/11/2024",4,5,5,5,3,"16/10/2024","2002_4",1,0
@@ -275,7 +270,7 @@
 "Older People","Local Authority","Ferrylee","Edinburgh","City of Edinburgh","14/12/2023",5,4,4,4,5,"23/10/2023","2002_4",0,0
 "Older People","Local Authority","Jewel House","Edinburgh","City of Edinburgh","09/06/2025",4,4,4,4,4,"27/05/2025","2002_4",0,0
 "Learning Disabilities","Local Authority","Castle Crags (Short Breaks)","Edinburgh","City of Edinburgh","18/02/2020",5,4,4,4,4,"18/12/2019","2002_4",0,0
-"Physical and Sensory Impairment","Voluntary or Not for Profit","Leonard Cheshire Disability - Newhaven Road","Edinburgh","City of Edinburgh","29/02/2024",5,5,5,5,5,"20/06/2025","2002_4",0,0
+"Physical and Sensory Impairment","Voluntary or Not for Profit","Leonard Cheshire Disability - Newhaven Road","Edinburgh","City of Edinburgh","01/08/2025",4,4,4,4,5,"20/06/2025","2002_4",0,0
 "Learning Disabilities","Voluntary or Not for Profit","Leonard Cheshire Disability - Letham Court - Respite","Livingston","West Lothian","28/04/2025",5,5,4,4,5,"04/04/2025","2002_4",0,0
 "Learning Disabilities","Voluntary or Not for Profit","Leonard Cheshire Disability - Argyle Street","Edinburgh","City of Edinburgh","20/02/2024",4,5,4,4,4,"19/01/2024","2002_4",0,0
 "Learning Disabilities","Voluntary or Not for Profit","Leonard Cheshire Disability - Bath Street","Edinburgh","City of Edinburgh","18/03/2024",5,5,5,5,6,"14/02/2024","2002_4",0,0
@@ -286,7 +281,7 @@
 "Learning Disabilities","Voluntary or Not for Profit","Enable Scotland (Leading the Way) - Dunlin Brae","Livingston","West Lothian","26/03/2024",5,5,6,6,4,"23/02/2024","2002_4",0,0
 "Learning Disabilities","Voluntary or Not for Profit","Enable Scotland (Leading the Way) - Rosehill Place","Livingston","West Lothian","26/03/2024",5,4,5,5,4,"23/02/2024","2002_4",0,0
 "Learning Disabilities","Voluntary or Not for Profit","Parkside Court","Dalkeith","Midlothian","23/10/2023",4,4,4,4,4,"10/10/2023","2002_4",0,0
-"Learning Disabilities","Voluntary or Not for Profit","Plover Brae","Livingston","West Lothian","04/12/2024",4,4,4,4,4,"22/10/2024","2002_4",0,0
+"Learning Disabilities","Voluntary or Not for Profit","Plover Brae","Livingston","West Lothian","21/08/2025",5,4,4,4,4,"22/07/2025","2002_4",0,0
 "Learning Disabilities","Voluntary or Not for Profit","Muirs Court","Broxburn","West Lothian","24/03/2025",5,4,4,4,5,"12/03/2025","2002_4",0,0
 "Learning Disabilities","Voluntary or Not for Profit","Mill Road","Bathgate","West Lothian","24/10/2023",4,4,5,5,5,"02/10/2023","2002_4",0,0
 "Learning Disabilities","Voluntary or Not for Profit","Lismore House","Bathgate","West Lothian","24/10/2023",5,4,5,5,5,"02/10/2023","2002_4",0,0
@@ -305,7 +300,7 @@
 "Mental Health Problems","Voluntary or Not for Profit","Gaberston House","Stirling","Stirling","22/01/2024",5,5,4,5,5,"15/12/2023","2002_4",0,0
 "Older People","Local Authority","Cunningham House","Grangemouth","Falkirk","25/02/2025",5,4,3,5,5,"20/02/2025","2002_4",0,0
 "Older People","Voluntary or Not for Profit","Westerlands","Stirling","Stirling","24/02/2025",5,4,4,5,4,"19/02/2025","2002_4",0,0
-"Respite Care and Short Breaks","Local Authority","Thornton Gardens","Falkirk","Falkirk","04/02/2025",5,4,5,5,5,"16/01/2025","2002_4",0,0
+"Respite Care and Short Breaks","Local Authority","Thornton Gardens","Falkirk","Falkirk","26/08/2025",5,5,4,5,5,"14/08/2025","2002_4",0,0
 "Mental Health Problems","Voluntary or Not for Profit","SAMH - Mayfield","Denny","Falkirk","12/12/2024",5,5,5,5,5,"06/11/2024","2002_4",0,0
 "Older People","Private","Summerdale","Falkirk","Falkirk","28/08/2024",4,4,3,4,4,"15/05/2024","2002_4",1,0
 "Mental Health Problems","Voluntary or Not for Profit","SAMH - Whins Of Milton","Stirling","Stirling","08/01/2024",5,5,5,5,5,"29/11/2023","2002_4",0,0
@@ -322,13 +317,13 @@
 "Older People","Private","Parklands (Care Home) - Buckie","Buckie","Moray","09/05/2025",5,4,4,5,5,"04/03/2025","2002_4",2,0
 "Older People","Private","Banff Care Home","Banff","Aberdeenshire","13/03/2025",3,3,3,3,3,"19/02/2025","2002_4",1,1
 "Older People","Local Authority","Ardfenaig Residential Home","Ardrishaig","Argyll & Bute","20/02/2023",4,4,4,4,5,"18/01/2023","2002_4",0,0
-"Older People","Private","Oakview Manor Care Home","Glasgow","Glasgow City","31/10/2024",3,4,4,3,3,"17/10/2024","2002_4",0,0
+"Older People","Private","Oakview Manor Care Home","Glasgow","Glasgow City","28/08/2025",3,3,3,3,3,"19/08/2025","2002_4",0,0
 "Older People","Voluntary or Not for Profit","St. Margarets Home","Falkirk","Falkirk","24/03/2025",4,5,5,4,4,"07/03/2025","2002_4",0,0
 "Learning Disabilities","Voluntary or Not for Profit","Scottish Autism - South West Area Services - Staikhill","Lanark","South Lanarkshire","21/05/2024",4,4,4,4,4,"10/05/2024","2002_4",0,0
-"Physical and Sensory Impairment","Private","Ardencraig Care Home","Glasgow","Glasgow City","11/04/2025",4,3,3,4,3,"27/02/2025","2002_12",1,0
+"Physical and Sensory Impairment","Private","Ardencraig Care Home","Glasgow","Glasgow City","11/04/2025",4,3,3,4,3,"12/08/2025","2002_12",1,0
 "Learning Disabilities","Local Authority","Willowbank Bungalows 1,2&3","Peterhead","Aberdeenshire","25/03/2025",5,4,5,5,5,"07/02/2025","2002_4",0,0
 "Mental Health Problems","Voluntary or Not for Profit","St. Aubins","Aberdeen","Aberdeen City","12/05/2025",5,5,4,5,5,"30/04/2025","2002_4",0,0
-"Mental Health Problems","Voluntary or Not for Profit","Claremont House","Dumfries","Dumfries & Galloway","12/08/2024",4,4,4,3,3,"12/04/2024","2002_4",1,0
+"Mental Health Problems","Voluntary or Not for Profit","Claremont House","Dumfries","Dumfries & Galloway","19/08/2025",4,4,4,4,4,"25/07/2025","2002_4",1,0
 "Physical and Sensory Impairment","Voluntary or Not for Profit","Lanarkshire Houses","Carluke","South Lanarkshire","06/02/2023",4,5,5,5,4,"26/01/2023","2003_7",0,0
 "Learning Disabilities","Voluntary or Not for Profit","Leonard Cheshire Disability - Alemoor Crescent","Edinburgh","City of Edinburgh","22/04/2025",5,4,5,5,5,"11/03/2025","2002_4",0,0
 "Older People","Private","Bonchester Bridge Care Centre","Hawick","Scottish Borders","20/06/2025",4,4,4,4,4,"19/06/2025","2003_2",1,0
@@ -342,14 +337,13 @@
 "Older People","Private","Abbey Lodge Care Home","Glasgow","South Lanarkshire","25/11/2024",5,4,4,5,4,"13/11/2024","2003_6",1,0
 "Respite Care and Short Breaks","Voluntary or Not for Profit","South Lanarkshire Short Break Service","Glasgow","South Lanarkshire","13/02/2020",5,4,5,5,5,"27/04/2022","2003_7",0,0
 "Older People","Private","Meigle Country House","Blairgowrie","Perth & Kinross","30/04/2024",4,4,4,4,4,"26/02/2024","2003_9",0,0
-"Older People","Private","Rosturk House","Cupar","Fife","17/07/2024",4,4,4,3,4,"21/06/2024","2004_10",2,0
+"Older People","Private","Rosturk House","Cupar","Fife","25/08/2025",4,4,5,4,5,"07/07/2025","2004_10",2,0
 "Older People","Private","Lennel House","Coldstream","Scottish Borders","01/07/2025",4,5,4,4,4,"26/06/2025","2003_11",0,0
 "Older People","Local Authority","Bonnyton House - Busby","Glasgow","East Renfrewshire","27/10/2023",4,4,5,5,4,"26/09/2023","2002_4",0,0
 "Older People","Private","Belmont Care Centre","Stranraer","Dumfries & Galloway","10/06/2025",5,5,3,4,4,"04/06/2025","2003_12",0,0
 "Older People","Private","Whitehills Care Home","Glasgow","South Lanarkshire","21/10/2024",3,3,3,3,3,"16/10/2024","2003_9",1,0
 "Older People","Private","Ashley House","Kinross","Perth & Kinross","12/03/2025",5,5,5,5,4,"09/03/2025","2003_9",0,0
 "Older People","Private","Buccleuch Care Centre","Hawick","Scottish Borders","15/11/2024",5,4,4,4,5,"11/11/2024","2003_12",0,0
-"Older People","Private","The Meadows (Care Home)","Dornoch","Highland","11/07/2023",4,4,4,4,4,"20/06/2023","2004_2",0,0
 "Older People","Private","Lindsayfield Lodge","Glasgow","South Lanarkshire","19/04/2024",5,5,5,5,4,"01/03/2024","2004_3",0,0
 "Older People","Local Authority","Burngrange Care Home","West Calder","West Lothian","23/07/2024",5,4,4,5,4,"15/07/2024","2004_2",0,0
 "Mental Health Problems","Voluntary or Not for Profit","Hopeman Avenue Service","Glasgow","Glasgow City","20/12/2024",5,5,5,5,5,"27/11/2024","2004_5",0,0
@@ -357,14 +351,14 @@
 "Learning Disabilities","Private","Southfields","Falkirk","Falkirk","17/01/2025",5,4,4,5,5,"09/01/2025","2004_5",0,0
 "Older People","Private","Ardenlee","Dunoon","Argyll & Bute","28/02/2025",4,4,3,3,4,"27/01/2025","2004_7",0,0
 "Learning Disabilities","Local Authority","Short Breaks, 32/34 Pickaquoy Loan","Kirkwall","Orkney Islands","24/05/2024",4,4,4,4,4,"25/04/2024","2002_4",0,0
-"Learning Disabilities","Voluntary or Not for Profit","Elderslie Project","Johnstone","Renfrewshire","09/05/2024",5,5,4,5,5,"08/04/2024","2004_3",0,0
+"Learning Disabilities","Voluntary or Not for Profit","Elderslie Project","Johnstone","Renfrewshire","28/08/2025",5,5,5,5,5,"25/07/2025","2004_3",0,0
 "Older People","Private","Pittendreich Care Home","Lasswade","Midlothian","04/11/2024",3,4,3,4,4,"31/10/2024","2004_6",0,0
 "Older People","Private","St Andrews House Care Home","St. Andrews","Fife","06/06/2024",4,4,4,3,4,"30/05/2024","2004_4",1,0
 "Older People","Private","Dalmellington Care Centre","Ayr","East Ayrshire","24/02/2025",6,5,5,6,5,"17/02/2025","2004_7",0,0
 "Older People","Private","Ashdene Court","Crieff","Perth & Kinross","06/02/2024",4,4,4,4,4,"18/01/2024","2004_7",0,0
 "Older People","Private","Westfield","Lockerbie","Dumfries & Galloway","12/03/2025",3,3,3,3,3,"20/02/2025","2004_8",2,0
 "Physical and Sensory Impairment","Private","The Beeches","Kilmarnock","East Ayrshire","27/02/2025",4,4,4,4,4,"14/02/2025","2005_6",0,0
-"Older People","Private","West Park Care Home","Glenrothes","Fife","16/11/2023",5,4,4,4,5,"11/10/2023","2004_9",1,0
+"Older People","Private","West Park Care Home","Glenrothes","Fife","16/11/2023",5,4,4,4,5,"27/06/2025","2004_9",1,0
 "Older People","Private","Blair House Care Home","Coatbridge","North Lanarkshire","22/04/2025",5,4,4,5,5,"17/04/2025","2004_10",0,0
 "Older People","Private","Lydiafield Care Home","Annan","Dumfries & Galloway","15/04/2024",4,4,4,4,4,"06/03/2024","2004_8",1,0
 "Older People","Private","Burnfoot Coach House","Lockerbie","Dumfries & Galloway","20/06/2024",4,5,4,5,4,"24/05/2024","2004_8",1,0
@@ -381,13 +375,13 @@
 "Older People","Private","Rosehall Manor","Shotts","North Lanarkshire","22/04/2025",4,4,5,3,4,"10/04/2025","2005_7",0,0
 "Older People","Local Authority","Smiddybrae House","Orkney","Orkney Islands","17/07/2025",5,5,5,4,4,"22/04/2025","2005_11",0,0
 "Learning Disabilities","Private","Mayfield Lodge","Inverness","Highland","25/07/2025",3,3,3,3,3,"27/06/2025","2005_8",0,0
-"Older People","Local Authority","Fernlea, The Wishart Anderson (Care Home)","Shetland","Shetland Islands","14/04/2025",4,3,5,4,3,"27/02/2025","2005_8",0,0
+"Older People","Local Authority","Fernlea, The Wishart Anderson (Care Home)","Shetland","Shetland Islands","27/08/2025",4,3,5,4,3,"10/07/2025","2005_8",0,0
 "Older People","Local Authority","Overtonlea (Care Home)","Shetland","Shetland Islands","26/05/2025",4,5,4,4,4,"07/04/2025","2005_8",0,0
 "Older People","Local Authority","North Haven (Care Home)","Shetland","Shetland Islands","14/05/2025",2,3,4,4,2,"28/11/2024","2005_8",0,0
-"Older People","Local Authority","Isleshavn (Care Home)","Shetland","Shetland Islands","02/05/2025",3,3,3,3,2,"07/03/2025","2005_8",0,0
+"Older People","Local Authority","Isleshavn (Care Home)","Shetland","Shetland Islands","19/08/2025",4,4,4,4,3,"10/07/2025","2005_8",0,0
 "Older People","Local Authority","Wastview (Care Home)","Shetland","Shetland Islands","29/07/2025",3,5,4,3,4,"16/04/2025","2005_8",0,0
 "Older People","Local Authority","Nordalea (Care Home)","Shetland","Shetland Islands","15/05/2025",3,5,4,4,3,"10/04/2025","2005_8",0,0
-"Older People","Private","Lochleven Care Home","Dundee","Dundee City","11/09/2024",4,4,5,3,3,"15/07/2025","2006_5",10,0
+"Older People","Private","Lochleven Care Home","Dundee","Dundee City","05/08/2025",4,4,5,3,3,"15/07/2025","2006_5",10,0
 "Learning Disabilities","Voluntary or Not for Profit","Sense Scotland Dundee Respite","Dundee","Dundee City","15/01/2024",5,6,6,6,4,"22/11/2023","2006_1",0,0
 "Older People","Private","Arberglen Care Home","Hamilton","South Lanarkshire","02/07/2024",3,3,3,3,3,"20/06/2024","2005_10",0,0
 "Older People","Private","Barlochan House Care Home","Castle Douglas","Dumfries & Galloway","22/04/2025",5,5,4,4,5,"11/04/2025","2005_10",1,0
@@ -408,19 +402,19 @@
 "Older People","Private","Notwen House","Lockerbie","Dumfries & Galloway","15/05/2025",5,4,4,5,5,"02/05/2025","2006_10",0,0
 "Older People","Local Authority","Hunterhill Care Home","Paisley","Renfrewshire","13/06/2025",4,4,4,4,3,"20/05/2025","2008_1",0,0
 "Older People","Private","Fairknowe","Maybole","South Ayrshire","07/04/2025",3,3,3,3,3,"25/03/2025","2006_7",4,2
-"Older People","Voluntary or Not for Profit","Crannog Care Home","Glasgow","Glasgow City","08/01/2024",5,5,4,5,5,"30/11/2023","2006_12",1,0
+"Older People","Voluntary or Not for Profit","Crannog Care Home","Glasgow","Glasgow City","08/01/2024",5,5,4,5,5,"06/08/2025","2006_12",1,0
 "Older People","Private","Airthrey Care","Falkirk","Falkirk","25/02/2025",5,5,5,4,5,"13/02/2025","2006_9",0,0
 "Older People","Private","Louisebrae","Perth","Perth & Kinross","10/06/2025",5,5,5,5,5,"07/06/2025","2007_8",0,0
 "Mental Health Problems","Voluntary or Not for Profit","Penumbra Supported Accommodation (ARBD) Care Home","Glasgow","Glasgow City","04/06/2025",5,5,4,4,5,"16/05/2025","2006_11",0,0
 "Learning Disabilities","Local Authority","Newcraigielea","Shetland","Shetland Islands","06/09/2023",5,5,4,5,5,"03/08/2023","2007_1",0,0
-"Older People","Private","St. Andrew's Care Home","Hawick","Scottish Borders","07/07/2025",4,4,4,4,4,"02/06/2025","2007_1",2,0
+"Older People","Private","St. Andrew's Care Home","Hawick","Scottish Borders","07/07/2025",4,4,4,4,4,"02/06/2025","2007_1",2,1
 "Older People","Private","Woodhurst Care Centre","Carluke","South Lanarkshire","15/05/2024",4,4,3,4,3,"09/05/2024","2006_12",1,0
-"Older People","Private","Morningside Care Home","Wishaw","North Lanarkshire","17/02/2025",3,3,4,3,3,"28/01/2025","2007_7",5,0
+"Older People","Private","Morningside Care Home","Wishaw","North Lanarkshire","20/08/2025",4,5,4,4,5,"22/07/2025","2007_7",5,0
 "Older People","Private","Windyhall Nursing Home","Ayr","South Ayrshire","04/10/2024",4,4,4,4,4,"17/09/2024","2007_1",1,0
 "Mental Health Problems","Voluntary or Not for Profit","Hoddam ARBD Service","Glasgow","Glasgow City","17/03/2025",4,5,4,4,5,"20/02/2025","2007_5",0,0
 "Older People","Voluntary or Not for Profit","Marian House","Edinburgh","City of Edinburgh","02/06/2025",5,5,5,5,5,"22/05/2025","2007_1",0,0
 "Learning Disabilities","Voluntary or Not for Profit","Riddrievale Service","Glasgow","Glasgow City","26/08/2024",4,4,4,4,4,"31/07/2024","2007_2",0,0
-"Learning Disabilities","Private","Collisdene Care Centre","Strathaven","South Lanarkshire","06/05/2025",4,3,3,4,3,"09/04/2025","2006_11",0,0
+"Learning Disabilities","Private","Collisdene Care Centre","Strathaven","South Lanarkshire","18/08/2025",4,3,3,4,3,"24/07/2025","2006_11",0,0
 "Older People","Private","Blenham House Care Home","Edinburgh","City of Edinburgh","03/06/2024",5,5,5,4,5,"28/05/2024","2006_11",0,0
 "Older People","Private","The Glade","Brechin","Angus","11/11/2024",5,5,5,5,5,"16/10/2024","2007_3",0,0
 "Older People","Private","Springboig Care Home","Glasgow","Glasgow City","12/02/2025",5,5,4,4,4,"30/01/2025","2007_8",5,0
@@ -428,29 +422,29 @@
 "Older People","Private","Lochduhar","Dumfries","Dumfries & Galloway","09/03/2023",4,4,4,5,5,"31/01/2023","2007_1",0,0
 "Older People","Private","Balclutha Court Care Home","Greenock","Inverclyde","15/01/2025",4,4,4,4,4,"17/12/2024","2007_1",0,0
 "Older People","Private","Fairview House Care Home","Aberdeen","Aberdeen City","21/05/2025",4,4,4,4,4,"24/04/2025","2007_1",6,1
-"Older People","Private","Four Hills Care Home","Glasgow","Glasgow City","17/07/2025",4,4,4,4,4,"19/06/2025","2007_1",9,0
+"Older People","Private","Four Hills Care Home","Glasgow","Glasgow City","17/07/2025",4,4,4,4,4,"19/06/2025","2007_1",10,0
 "Older People","Private","Highview Care Home","Inverness","Highland","06/11/2024",5,5,5,5,5,"03/10/2024","2007_1",0,0
 "Older People","Private","Kirkburn Court Care Home","Peterhead","Aberdeenshire","06/02/2024",5,5,5,5,5,"16/01/2024","2007_1",0,0
 "Older People","Private","Lethen Park Nursing Home","Aberdeen","Aberdeenshire","13/02/2025",5,4,5,4,4,"21/01/2025","2007_1",2,0
 "Older People","Private","Fordmill Care Home","Montrose","Angus","16/12/2024",6,5,5,5,5,"04/12/2024","2007_1",0,0
 "Older People","Private","Ochil Care Home","Perth","Perth & Kinross","20/12/2024",4,4,4,4,4,"17/12/2024","2007_1",0,0
-"Older People","Private","South Grange Care Home","Dundee","Angus","05/12/2024",3,5,5,5,5,"24/07/2025","2007_1",1,0
+"Older People","Private","South Grange Care Home","Dundee","Angus","01/08/2025",4,4,4,5,5,"24/07/2025","2007_1",1,0
 "Older People","Private","Pentland View - Highland","Thurso","Highland","04/11/2024",5,5,4,5,4,"17/10/2024","2007_1",1,0
 "Older People","Private","Seaview House Nursing Home","Wick","Highland","05/11/2024",5,5,4,5,5,"17/10/2024","2007_1",0,0
 "Older People","Private","Woodside Care Home","Coatbridge","North Lanarkshire","08/05/2025",2,2,3,4,2,"16/04/2025","2007_9",8,0
 "Older People","Private","Archview Lodge Care Home","Dalkeith","Midlothian","13/05/2024",4,4,4,4,4,"12/04/2024","2007_2",1,0
 "Older People","Private","Strachan House Care Home","Edinburgh","City of Edinburgh","21/08/2024",5,5,4,5,5,"17/07/2024","2007_2",2,0
 "Respite Care and Short Breaks","Local Authority","Deans House","Livingston","West Lothian","02/05/2025",5,5,5,4,4,"02/04/2025","2008_8",0,0
-"Older People","Local Authority","Marionville Court","Edinburgh","City of Edinburgh","27/08/2024",4,4,4,4,4,"30/07/2024","2007_8",0,0
+"Older People","Local Authority","Marionville Court","Edinburgh","City of Edinburgh","14/08/2025",5,4,4,4,4,"30/07/2025","2007_8",0,0
 "Learning Disabilities","Local Authority","Dunmuir Park Respite Unit","Castle Douglas","Dumfries & Galloway","27/02/2025",4,3,4,4,3,"06/02/2025","2008_8",0,0
 "Older People","Private","Fodderty House","Dingwall","Highland","03/12/2024",4,4,4,5,4,"07/11/2024","2008_7",0,0
-"Older People","Private","Thistleknowe Care Home","Beith","North Ayrshire","20/06/2025",4,4,4,4,5,"16/05/2025","2007_11",1,0
+"Older People","Private","Thistleknowe Care Home","Beith","North Ayrshire","20/06/2025",4,4,4,4,5,"16/05/2025","2007_11",2,0
 "Older People","Private","Auchtermairnie Care Home","Leven","Fife","06/06/2024",5,6,6,4,5,"16/05/2024","2007_7",0,0
 "Older People","Private","Millbrae Care Home","Coatbridge","North Lanarkshire","08/05/2025",4,4,4,4,4,"11/04/2025","2008_3",4,0
-"Older People","Private","Rivendell Care Service","Dunkeld","Perth & Kinross","26/02/2025",4,4,4,4,4,"27/01/2025","2007_12",1,0
+"Older People","Private","Rivendell Care Service","Dunkeld","Perth & Kinross","26/02/2025",4,4,4,4,4,"27/01/2025","2007_12",3,0
 "Learning Disabilities","Voluntary or Not for Profit","34 and 36 Hazel Avenue","Kirkcaldy","Fife","18/04/2023",5,5,6,6,5,"13/03/2023","2007_11",0,0
 "Older People","Private","Benore Care Home","Lochgelly","Fife","15/07/2024",6,4,4,6,5,"28/06/2024","2008_3",1,0
-"Older People","Private","Viewpark","Edinburgh","City of Edinburgh","02/09/2024",5,4,5,5,5,"20/08/2024","2007_10",0,0
+"Older People","Private","Viewpark","Edinburgh","City of Edinburgh","02/09/2024",5,4,5,5,5,"20/08/2024","2007_10",1,0
 "Older People","Private","Spring Gardens","Edinburgh","City of Edinburgh","03/10/2024",4,4,4,4,6,"12/08/2024","2007_10",1,0
 "Older People","Private","Marchmont Care Home Limited","Port Glasgow","Inverclyde","16/07/2025",4,4,4,4,4,"11/06/2025","2007_12",1,0
 "Older People","Private","Argyll House Nursing Home","Kilmarnock","East Ayrshire","05/06/2024",4,4,4,4,4,"29/05/2024","2008_5",2,0
@@ -472,7 +466,7 @@
 "Older People","Private","Links View","Burntisland","Fife","22/07/2025",3,3,2,3,3,"04/06/2025","2008_9",4,0
 "Older People","Private","Stanely Park Care Home","Paisley","Renfrewshire","04/01/2024",5,5,4,5,5,"04/12/2023","2009_5",1,0
 "Learning Disabilities","Private","Clare House","Dunblane","Stirling","17/07/2024",4,4,4,4,4,"05/07/2024","2009_6",0,0
-"Older People","Local Authority","Montfield Support Services","Shetland","Shetland Islands","10/08/2023",4,4,4,4,4,"02/08/2023","2010_8",0,0
+"Older People","Local Authority","Montfield Support Services","Shetland","Shetland Islands","21/08/2025",4,4,4,4,3,"30/07/2025","2010_8",0,0
 "Older People","Private","Glenlivet Gardens Care Home","Glasgow","Glasgow City","30/11/2023",4,4,4,4,4,"02/11/2023","2009_4",0,0
 "Older People","Private","Dunvegan Lodge Care Home","Glasgow","South Lanarkshire","02/02/2024",4,4,4,5,5,"30/01/2024","2009_1",1,0
 "Older People","Private","Hutton Park Care Home","Largs","North Ayrshire","29/04/2025",5,5,5,5,5,"24/04/2025","2010_1",0,0
@@ -491,7 +485,7 @@
 "Older People","Private","Berelands House Care Home Service","Prestwick","South Ayrshire","29/04/2025",5,5,5,5,5,"10/04/2025","2010_2",0,0
 "Older People","Private","Orchar Nursing Home","Dundee","Dundee City","15/08/2024",5,5,5,5,4,"26/07/2024","2009_9",1,0
 "Older People","Local Authority","Inch View","Edinburgh","City of Edinburgh","25/03/2025",3,3,4,3,3,"23/01/2025","2011_2",5,0
-"Mental Health Problems","Private","Millbank","Alloa","Clackmannanshire","22/08/2023",6,5,6,6,5,"08/07/2025","2010_6",0,0
+"Mental Health Problems","Private","Millbank","Alloa","Clackmannanshire","05/08/2025",6,5,4,6,5,"08/07/2025","2010_6",0,0
 "Physical and Sensory Impairment","Voluntary or Not for Profit","Forward Vision","Edinburgh","City of Edinburgh","27/08/2024",5,4,5,5,5,"24/07/2024","2010_7",0,0
 "Physical and Sensory Impairment","Voluntary or Not for Profit","Cornerstone - Uphall Care Home","Broxburn","West Lothian","09/06/2025",5,5,5,5,5,"20/05/2025","2011_3",0,0
 "Learning Disabilities","Voluntary or Not for Profit","Dunn Street, Duntocher - Respite Service","Clydebank","West Dunbartonshire","25/02/2025",5,4,4,5,5,"20/02/2025","2010_5",0,0
@@ -504,12 +498,12 @@
 "Older People","Private","Alt- Na- Craig House","Greenock","Inverclyde","02/06/2025",5,4,5,4,4,"22/05/2025","2010_4",0,0
 "Older People","Private","Northlands Care Home","Blairgowrie","Perth & Kinross","16/04/2025",5,4,5,5,4,"09/04/2025","2010_6",2,0
 "Mental Health Problems","Private","Hilton Court Care Home","Dunfermline","Fife","05/04/2024",5,5,5,5,5,"19/03/2024","2010_10",0,0
-"Older People","Private","St Modans Care Home","Fraserburgh","Aberdeenshire","02/05/2024",5,4,5,5,4,"24/04/2024","2010_10",1,0
+"Older People","Private","St Modans Care Home","Fraserburgh","Aberdeenshire","12/08/2025",6,4,6,5,4,"18/07/2025","2010_10",1,0
 "Physical and Sensory Impairment","Private","The Manor Care Centre","Nairn","Highland","03/07/2024",4,4,4,4,4,"10/05/2024","2010_10",1,0
 "Older People","Private","Daviot Care Home","Inverness","Highland","06/01/2025",4,4,5,5,4,"05/12/2024","2010_10",0,0
 "Older People","Private","Caledonia Care Home","Saltcoats","North Ayrshire","22/05/2025",4,4,3,4,4,"25/04/2025","2010_9",2,0
 "Older People","Private","The Grove","Elgin","Moray","31/07/2024",4,4,5,5,5,"12/07/2024","2010_7",0,0
-"Older People","Private","St Serfs","Newport-On-Tay","Fife","09/05/2025",3,3,3,3,3,"19/03/2025","2010_5",0,0
+"Older People","Private","St Serfs","Newport-On-Tay","Fife","26/08/2025",4,4,4,4,5,"15/08/2025","2010_5",0,0
 "Older People","Voluntary or Not for Profit","Northcote Lodge Care Home","Aberdeen","Aberdeen City","03/10/2024",5,5,5,5,5,"26/09/2024","2010_6",0,0
 "Older People","Private","Isle View Care Home","Achnasheen","Highland","31/07/2024",5,4,4,5,4,"13/06/2024","2010_10",0,0
 "Older People","Private","Holmesview","Broxburn","West Lothian","04/12/2024",5,4,5,4,3,"24/10/2024","2011_1",0,0
@@ -520,15 +514,15 @@
 "Older People","Private","Lizdean Nursing Home","Kilmarnock","East Ayrshire","11/07/2025",4,4,3,4,4,"03/06/2025","2011_2",2,0
 "Older People","Private","Peebles Nursing Home","Peebles","Scottish Borders","16/04/2025",4,3,4,3,3,"25/03/2025","2010_9",1,0
 "Older People","Private","Antiquary House","Arbroath","Angus","03/07/2025",5,5,5,5,5,"23/06/2025","2010_10",3,0
-"Older People","Private","Balhousie Dalnaglar","Crieff","Perth & Kinross","01/05/2025",2,3,3,2,2,"21/03/2025","2010_10",2,0
+"Older People","Private","Balhousie Dalnaglar","Crieff","Perth & Kinross","19/08/2025",1,2,2,1,1,"12/05/2025","2010_10",2,0
 "Older People","Private","Glens Nursing Home","Brechin","Angus","17/06/2025",3,4,4,4,4,"11/06/2025","2010_10",6,0
 "Older People","Private","Balhousie Luncarty Care Home","Perth","Perth & Kinross","29/07/2025",3,4,3,4,4,"05/06/2025","2010_10",1,0
 "Older People","Private","Monkbarns","Arbroath","Angus","19/05/2025",4,3,4,4,4,"29/04/2025","2010_10",5,0
-"Older People","Private","Moyness Nursing Home","Dundee","Dundee City","21/06/2023",4,4,4,4,5,"25/04/2023","2010_10",1,0
+"Older People","Private","Moyness Nursing Home","Dundee","Dundee City","12/08/2025",4,4,4,4,5,"15/07/2025","2010_10",1,0
 "Older People","Private","Balhousie Ruthven Towers","Auchterarder","Perth & Kinross","22/07/2025",4,4,4,4,4,"14/07/2025","2010_10",2,0
 "Older People","Private","Stormont Lodge","Blairgowrie","Perth & Kinross","23/07/2025",4,4,4,4,4,"19/06/2025","2010_10",0,0
-"Older People","Private","Wheatlands","Bonnybridge","Falkirk","10/06/2025",3,4,2,3,3,"16/07/2025","2010_10",5,0
-"Older People","Private","Balhousie Clement Park","Dundee","Dundee City","23/04/2024",4,4,4,4,4,"26/06/2025","2010_11",2,0
+"Older People","Private","Wheatlands","Bonnybridge","Falkirk","01/08/2025",3,4,2,3,3,"16/07/2025","2010_10",5,0
+"Older People","Private","Balhousie Clement Park","Dundee","Dundee City","04/08/2025",3,3,4,4,4,"26/06/2025","2010_11",2,0
 "Older People","Private","Balhousie Coupar Angus","Blairgowrie","Perth & Kinross","25/04/2025",3,4,3,3,3,"16/04/2025","2011_4",5,0
 "Mental Health Problems","Private","William Simpsons","Stirling","Stirling","19/02/2025",5,4,4,5,6,"17/01/2025","2012_5",0,0
 "Older People","Private","Forbes House","Ayr","South Ayrshire","10/09/2024",3,3,4,3,4,"21/08/2024","2011_9",4,0
@@ -537,14 +531,14 @@
 "Older People","Private","Flemington Care Home","Glasgow","South Lanarkshire","04/06/2025",3,3,3,3,3,"08/05/2025","2011_3",2,0
 "Respite Care and Short Breaks","Voluntary or Not for Profit","Leuchie House","North Berwick","East Lothian","14/04/2025",6,5,5,5,5,"18/03/2025","2011_7",0,0
 "Learning Disabilities","Private","ASC Orchard Court and Dalguise","Perth","Perth & Kinross","27/06/2025",3,3,3,3,3,"10/02/2025","2011_10",1,1
-"Older People","Private","Astley House","North Berwick","East Lothian","19/09/2024",5,4,4,5,5,"03/09/2024","2011_8",0,0
+"Older People","Private","Astley House","North Berwick","East Lothian","19/08/2025",5,4,4,5,5,"13/08/2025","2011_8",0,0
 "Older People","Voluntary or Not for Profit","Crosby House","Aberdeen","Aberdeen City","29/07/2025",4,3,4,3,3,"27/06/2025","2011_10",2,0
 "Mental Health Problems","Private","Hillcrest House","Nairn","Highland","07/04/2025",5,5,5,5,5,"24/03/2025","2011_9",0,0
-"Older People","Private","Lorimer House Nursing Home","Edinburgh","City of Edinburgh","13/08/2021",4,4,4,4,4,"06/08/2021","2011_10",0,0
+"Older People","Private","Lorimer House Nursing Home","Edinburgh","City of Edinburgh","21/08/2025",5,5,5,5,5,"15/08/2025","2011_10",0,0
 "Older People","Private","Carnbroe Care Centre","Coatbridge","North Lanarkshire","21/05/2025",4,4,4,3,4,"08/05/2025","2011_10",1,0
-"Older People","Private","Blanefield Care Home","Glasgow","Stirling","03/01/2025",4,4,4,4,4,"18/12/2024","2011_11",1,0
-"Older People","Private","Crossgate Care Centre","Kilmarnock","East Ayrshire","07/01/2025",3,4,4,4,4,"12/12/2024","2011_10",2,0
-"Older People","Private","Annfield House","Stirling","Stirling","22/10/2024",5,4,4,5,4,"20/09/2024","2011_10",0,0
+"Older People","Private","Blanefield Care Home","Glasgow","Stirling","29/08/2025",4,4,4,4,4,"12/08/2025","2011_11",1,0
+"Older People","Private","Crossgate Care Centre","Kilmarnock","East Ayrshire","07/01/2025",3,4,4,4,3,"12/12/2024","2011_10",2,0
+"Older People","Private","Annfield House","Stirling","Stirling","22/10/2024",5,4,4,5,4,"15/08/2025","2011_10",0,0
 "Older People","Private","Barleystone","Falkirk","Falkirk","31/07/2025",4,3,4,4,4,"24/07/2025","2011_10",2,0
 "Older People","Private","Cairnie Lodge","Arbroath","Angus","28/07/2025",4,3,4,4,3,"21/07/2025","2011_10",0,0
 "Older People","Private","Catmoor House","Perth","Perth & Kinross","21/01/2025",4,4,4,5,4,"15/01/2025","2011_10",2,0
@@ -553,11 +547,11 @@
 "Older People","Private","Drummohr Nursing Home","Musselburgh","East Lothian","22/05/2025",4,4,4,4,4,"16/04/2025","2011_10",3,0
 "Older People","Private","Fairview Nursing Home","Stirling","Stirling","04/09/2024",5,4,5,4,5,"08/08/2024","2011_10",0,0
 "Older People","Private","Finavon Court - Forfar","Forfar","Angus","18/12/2024",3,4,3,4,4,"20/11/2024","2011_10",1,0
-"Older People","Private","Forthbank Nursing Home","Stirling","Stirling","02/09/2024",5,5,4,5,4,"29/08/2024","2011_10",2,0
+"Older People","Private","Forthbank Nursing Home","Stirling","Stirling","07/08/2025",4,5,4,5,4,"25/07/2025","2011_10",2,0
 "Older People","Private","Greenfield Park Care Centre","Glasgow","Glasgow City","11/11/2024",3,3,4,4,3,"01/10/2024","2011_10",4,0
 "Older People","Private","Hamewith Lodge","Aberdeen","Aberdeen City","02/07/2025",2,2,2,2,2,"13/06/2025","2011_10",5,0
-"Older People","Private","Hillside View Nursing Home","Paisley","Renfrewshire","30/04/2025",2,3,4,4,4,"12/03/2025","2011_10",2,0
-"Older People","Private","Kinnaird Manor Care Home","Falkirk","Falkirk","20/06/2025",4,2,4,3,2,"18/06/2025","2011_10",2,0
+"Older People","Private","Hillside View Nursing Home","Paisley","Renfrewshire","20/08/2025",3,3,4,4,4,"17/07/2025","2011_10",2,0
+"Older People","Private","Kinnaird Manor Care Home","Falkirk","Falkirk","07/08/2025",4,3,4,4,4,"29/07/2025","2011_10",2,0
 "Older People","Private","Linlithgow Care Home","Linlithgow","West Lothian","14/07/2025",4,3,3,4,4,"08/11/2023","2011_10",0,0
 "Older People","Private","Lomond Court Nursing Home","Glenrothes","Fife","25/11/2024",4,5,4,5,4,"05/11/2024","2011_10",0,0
 "Older People","Private","Lunan Court","Arbroath","Angus","12/06/2025",3,4,4,3,3,"26/05/2025","2011_10",1,0
@@ -570,7 +564,7 @@
 "Older People","Private","The Beeches Nursing Home","Dunfermline","Fife","09/06/2025",4,4,4,4,5,"16/05/2025","2011_10",1,0
 "Older People","Private","The Birches","Crieff","Perth & Kinross","26/03/2025",5,4,5,5,5,"24/03/2025","2011_10",0,0
 "Older People","Private","Orchard Care Centre","Alloa","Clackmannanshire","24/10/2024",4,4,4,4,5,"12/09/2024","2011_10",1,0
-"Older People","Private","The Village Nursing Home","Glasgow","North Lanarkshire","25/06/2025",3,3,3,3,3,"19/06/2025","2011_10",2,0
+"Older People","Private","The Village Nursing Home","Glasgow","North Lanarkshire","26/08/2025",3,3,3,3,3,"18/08/2025","2011_10",2,0
 "Older People","Private","Tranent Care Home","Tranent","East Lothian","22/07/2025",5,4,4,5,5,"23/06/2025","2011_10",3,0
 "Older People","Private","Woodside Court Nursing Home","Glenrothes","Fife","27/06/2025",3,3,4,4,4,"04/06/2025","2011_10",3,0
 "Older People","Private","Tor - Na - Dee Care Home","Aberdeen","Aberdeen City","10/04/2024",5,3,3,3,5,"21/03/2024","2011_10",0,0
@@ -581,14 +575,13 @@
 "Older People","Private","Ballumbie Court","Dundee","Dundee City","23/05/2024",5,5,5,5,5,"08/05/2024","2011_10",0,0
 "Older People","Private","Redmill Nursing Home","Bathgate","West Lothian","04/07/2025",5,4,4,4,5,"17/04/2025","2011_10",3,0
 "Older People","Private","Castle View Nursing Home","Dumbarton","West Dunbartonshire","18/02/2025",5,4,4,4,4,"06/02/2025","2011_10",1,0
-"Older People","Private","Avonbridge Care Home","Hamilton","South Lanarkshire","31/07/2025",3,3,2,3,2,"20/06/2025","2011_10",1,0
 "Older People","Private","Muirton House","Blairgowrie","Perth & Kinross","13/05/2025",3,3,3,3,3,"14/02/2025","2011_10",3,0
 "Older People","Private","Pitkerro Care Centre","Dundee","Dundee City","16/07/2025",4,5,3,5,4,"22/05/2025","2011_11",1,0
 "Older People","Private","Lornebank Care Centre","Hamilton","South Lanarkshire","15/04/2024",4,4,4,4,4,"13/03/2024","2011_11",3,0
 "Older People","Private","Forth View Care Centre","Leven","Fife","14/05/2025",3,3,3,3,3,"27/03/2025","2011_12",3,0
 "Older People","Private","Westerfields Care Home","Paisley","Renfrewshire","23/05/2025",4,3,4,4,3,"11/04/2025","2011_11",6,0
 "Older People","Private","Persley Castle","Aberdeen","Aberdeen City","01/07/2024",4,4,4,4,4,"19/06/2024","2011_11",1,1
-"Older People","Private","Cowdray Club","Aberdeen","Aberdeen City","12/06/2025",3,3,4,4,4,"06/05/2025","2011_11",2,0
+"Older People","Private","Cowdray Club","Aberdeen","Aberdeen City","13/08/2025",4,4,4,4,4,"14/07/2025","2011_11",2,0
 "Older People","Private","Meadowlark","Forres","Moray","14/10/2024",4,5,4,5,5,"23/09/2024","2011_11",2,0
 "Older People","Private","Letham Park Care Home","Edinburgh","City of Edinburgh","24/12/2024",4,4,3,4,4,"28/11/2024","2011_11",2,0
 "Older People","Private","Belhaven House","Troon","South Ayrshire","19/04/2024",5,4,4,4,4,"16/04/2024","2011_12",1,0
@@ -597,17 +590,17 @@
 "Learning Disabilities","Voluntary or Not for Profit","2 The Steading","Kirknewton","West Lothian","17/03/2025",4,4,4,4,4,"21/02/2025","2011_12",0,0
 "Older People","Private","St. Columba's Care Home","Dundee","Dundee City","20/06/2024",3,3,4,3,3,"03/06/2024","2011_11",1,0
 "Older People","Private","Abbey House Residential Care Home","Kirriemuir","Angus","30/10/2024",4,4,4,4,4,"04/09/2024","2012_8",0,0
-"Older People","Private","Duncraggan Care Home","Glasgow","South Lanarkshire","27/02/2025",3,3,3,4,3,"11/02/2025","2012_5",0,0
+"Older People","Private","Duncraggan Care Home","Glasgow","South Lanarkshire","08/08/2025",4,3,3,4,4,"17/07/2025","2012_5",0,0
 "Older People","Private","Goldielea Care Home","Dumfries","Dumfries & Galloway","03/06/2025",4,4,3,4,4,"14/05/2025","2012_9",2,0
 "Older People","Private","Ashgill Care Home","Glasgow","Glasgow City","14/07/2025",3,3,2,3,3,"03/06/2025","2013_4",1,0
 "Older People","Private","3 Bridges Care Home","Glasgow","Glasgow City","11/04/2025",4,5,4,4,5,"11/03/2025","2012_6",0,0
 "Older People","Health Board","Ach-an-Eas (Care Home)","Inverness","Highland","04/02/2025",3,3,4,4,4,"10/01/2025","2012_3",0,0
 "Older People","Health Board","An Acarsaid (Care Home)","Isle Of Skye","Highland","09/07/2025",3,3,4,2,2,"29/05/2025","2012_3",0,0
 "Older People","Health Board","Bayview House (Care Home)","Thurso","Highland","25/03/2025",3,4,4,3,4,"27/02/2025","2012_3",0,0
-"Older People","Health Board","Grant House (Care Home)","Grantown-On-Spey","Highland","11/03/2025",3,4,4,4,4,"21/02/2025","2012_3",1,0
+"Older People","Health Board","Grant House (Care Home)","Grantown-On-Spey","Highland","08/08/2025",4,4,4,4,4,"17/07/2025","2012_3",1,0
 "Older People","Health Board","Invernevis House (Care Home)","Fort William","Highland","31/08/2023",5,4,4,4,4,"07/08/2023","2012_3",0,0
 "Older People","Health Board","Lochbroom House (Care Home)","Ullapool","Highland","05/12/2024",5,5,5,5,5,"05/11/2024","2012_3",0,0
-"Older People","Health Board","Mackintosh Centre (Care Home)","Mallaig","Highland","02/10/2023",4,3,4,4,2,"22/08/2023","2012_3",0,0
+"Older People","Health Board","Mackintosh Centre (Care Home)","Mallaig","Highland","06/08/2025",5,5,4,4,4,"18/07/2025","2012_3",0,0
 "Older People","Health Board","Melvich Community Care Unit (Care Home)","Thurso","Highland","13/06/2025",5,3,4,4,4,"28/05/2025","2012_3",0,0
 "Older People","Health Board","Pulteney House (Care Home)","Wick","Highland","11/03/2025",5,5,5,5,4,"07/03/2025","2012_3",0,0
 "Older People","Health Board","Seaforth House (Care Home)","Golspie","Highland","22/05/2025",5,5,5,5,5,"24/04/2025","2012_3",0,0
@@ -621,23 +614,23 @@
 "Respite Care and Short Breaks","Voluntary or Not for Profit","Hansel Alliance at Red Rose House","Stevenston","North Ayrshire","17/03/2025",4,5,4,4,4,"24/02/2025","2012_9",0,0
 "Older People","Private","Lancefield Care Home","Johnstone","Renfrewshire","12/02/2025",4,4,5,4,4,"21/01/2025","2012_11",0,0
 "Older People","Private","Innis Mhor Care Home","Tain","Highland","04/10/2024",5,5,5,5,5,"28/08/2024","2013_7",0,0
-"Older People","Private","Antonine House","Glasgow","East Dunbartonshire","12/01/2024",4,4,4,4,4,"27/11/2023","2013_6",0,0
+"Older People","Private","Antonine House","Glasgow","East Dunbartonshire","28/08/2025",5,4,5,4,4,"11/07/2025","2013_6",0,0
 "Older People","Private","Urray House","Muir Of Ord","Highland","17/10/2023",5,5,5,5,5,"18/09/2023","2013_7",0,0
 "Older People","Private","Thorburn Manor Nursing Home","Edinburgh","City of Edinburgh","01/04/2025",5,5,5,5,5,"19/03/2025","2013_3",1,0
 "Learning Disabilities","Private","Millburn Homes","Glasgow","South Lanarkshire","03/04/2025",3,4,5,3,3,"17/03/2025","2013_12",0,0
 "Older People","Private","The Bughties","Dundee","Dundee City","04/06/2025",4,3,4,4,4,"19/05/2025","2014_6",0,0
 "Older People","Private","Abbotsford Care, Dunfermline","Dunfermline","Fife","17/07/2025",3,4,4,3,3,"01/07/2025","2013_2",0,0
 "Alcohol & Drug Misuse","Voluntary or Not for Profit","Wheatley Care - Fullarton Service","Glasgow","Glasgow City","27/03/2025",5,4,5,5,4,"08/03/2025","2013_11",0,0
-"Older People","Private","Cairdean House","Edinburgh","City of Edinburgh","17/03/2025",5,4,4,5,5,"20/02/2025","2013_4",0,0
+"Older People","Private","Cairdean House","Edinburgh","City of Edinburgh","17/03/2025",5,4,4,5,5,"20/02/2025","2013_4",1,0
 "Older People","Private","Mosswood Care Home","Paisley","Renfrewshire","16/04/2025",5,5,5,5,5,"25/03/2025","2014_2",0,0
 "Older People","Private","Ailsa Lodge Care Home","Bishopton","Renfrewshire","27/02/2025",4,4,4,4,4,"12/02/2025","2014_4",0,0
 "Older People","Private","Ashgrove Care Home","Dunoon","Argyll & Bute","28/03/2025",4,3,4,5,3,"11/03/2025","2014_2",3,0
-"Older People","Private","Westbank Care Home","Troon","South Ayrshire","24/07/2025",3,4,4,4,3,"02/07/2025","2013_8",1,0
+"Older People","Private","Westbank Care Home","Troon","South Ayrshire","25/08/2025",3,4,4,4,3,"30/07/2025","2013_8",1,0
 "Older People","Private","Newlands Residential Home","Dunfermline","Fife","24/07/2025",5,4,4,5,5,"16/07/2025","2013_8",0,0
-"Older People","Private","The Firs Care Home","Glasgow","East Renfrewshire","20/04/2023",4,4,4,4,4,"27/03/2023","2013_9",0,0
+"Older People","Private","The Firs Care Home","Glasgow","East Renfrewshire","19/08/2025",5,4,5,4,4,"17/07/2025","2013_9",0,0
 "Older People","Private","Bon Accord Care - Balnagask House","Aberdeen","Aberdeen City","01/10/2024",4,4,4,4,4,"20/08/2024","2013_8",1,0
 "Older People","Private","Bon Accord Care - Fergus House","Aberdeen","Aberdeen City","07/03/2025",5,5,4,5,5,"03/02/2025","2013_8",0,0
-"Older People","Private","Eastleigh Care Home","Peterculter","Aberdeen City","26/02/2024",4,4,4,4,4,"13/02/2024","2013_7",0,0
+"Older People","Private","Eastleigh Care Home","Peterculter","Aberdeen City","26/02/2024",4,4,4,4,4,"27/08/2025","2013_7",0,0
 "Older People","Private","Eildon House","Edinburgh","City of Edinburgh","11/12/2024",5,4,4,5,5,"03/12/2024","2013_9",0,0
 "Older People","Private","Tigh-Na-Muirn Limited","Dundee","Angus","19/02/2025",5,5,5,5,5,"07/02/2025","2014_2",1,0
 "Older People","Voluntary or Not for Profit","Nazareth House","Bonnyrigg","Midlothian","22/07/2025",3,4,3,4,4,"16/07/2025","2014_1",0,0
@@ -649,7 +642,7 @@
 "Older People","Private","Scoonie House","Leven","Fife","16/10/2024",5,4,4,4,5,"13/09/2024","2013_8",0,0
 "Older People","Private","Strathview Care Home","Cupar","Fife","08/06/2023",4,4,4,4,4,"02/05/2023","2013_8",0,0
 "Older People","Private","Silverburn Care Home","Glasgow","Glasgow City","21/03/2025",4,4,4,5,4,"20/02/2025","2014_2",0,0
-"Learning Disabilities","Private","Ellen Mhor","Dundee","Dundee City","12/01/2024",4,4,4,4,4,"14/12/2023","2013_9",0,0
+"Learning Disabilities","Private","Ellen Mhor","Dundee","Dundee City","27/08/2025",5,4,5,4,4,"14/08/2025","2013_9",0,0
 "Learning Disabilities","Private","Ranaich House","Dunblane","Stirling","20/11/2024",6,4,4,6,5,"13/11/2024","2013_9",0,0
 "Learning Disabilities","Private","Trinity House","Lockerbie","Dumfries & Galloway","24/04/2025",5,4,4,5,5,"25/03/2025","2013_9",0,0
 "Older People","Private","Deeside Care Home","Aberdeen","Aberdeen City","08/11/2024",5,5,4,5,5,"06/11/2024","2013_10",0,0
@@ -673,22 +666,22 @@
 "Older People","Private","Spiers Care Home","Beith","North Ayrshire","31/07/2025",5,4,4,5,4,"17/07/2025","2014_9",1,0
 "Alcohol & Drug Misuse","Voluntary or Not for Profit","Penumbra Milestone","Edinburgh","City of Edinburgh","01/04/2025",5,5,5,5,5,"16/03/2025","2014_7",0,0
 "Older People","Voluntary or Not for Profit","Bethesda Care Home","Stornoway","Na h-Eileanan Siar","05/05/2025",3,5,5,5,5,"27/03/2025","2014_11",0,0
-"Respite Care and Short Breaks","Private","Bon Accord Care - Clashieknowe","Aberdeen","Aberdeen City","06/07/2022",5,5,5,5,5,"01/06/2022","2015_8",0,0
+"Respite Care and Short Breaks","Private","Bon Accord Care - Clashieknowe","Aberdeen","Aberdeen City","27/08/2025",5,5,5,5,5,"31/07/2025","2015_8",0,0
 "Older People","Private","Harbour Care Home","Kirkcaldy","Fife","06/09/2024",4,4,4,4,4,"26/08/2024","2014_12",4,0
 "Older People","Private","Mossview @ The Opera","Lochgelly","Fife","02/07/2025",4,4,4,3,4,"20/06/2025","2015_4",2,0
 "Older People","Private","Rubislaw Park Care Home","Aberdeen","Aberdeen City","13/02/2025",5,5,4,5,5,"05/02/2025","2015_4",1,0
 "Older People","Private","Balquhidder House","Alexandria","West Dunbartonshire","01/05/2025",4,3,4,3,3,"19/03/2025","2015_7",1,0
-"Older People","Private","St. Ninians Care Home","Blairgowrie","Perth & Kinross","29/09/2023",5,6,5,6,4,"27/09/2023","2015_3",0,0
+"Older People","Private","St. Ninians Care Home","Blairgowrie","Perth & Kinross","11/08/2025",5,6,4,6,4,"30/06/2025","2015_3",0,0
 "Older People","Private","Clarkston House","Glasgow","East Renfrewshire","20/03/2025",5,5,5,4,5,"07/03/2025","2015_5",1,0
 "Older People","Private","Parkhouse Manor Care Home","Glasgow","Glasgow City","16/07/2025",4,4,4,4,4,"03/07/2025","2015_6",4,0
 "Older People","Local Authority","Orchard Grove House","Glasgow","Glasgow City","03/10/2024",4,4,5,4,4,"05/09/2024","2015_10",1,0
 "Older People","Local Authority","Riverside House","Glasgow","Glasgow City","02/07/2025",5,4,5,4,4,"25/06/2025","2017_5",0,0
-"Older People","Private","Raith Manor","Kirkcaldy","Fife","07/05/2025",4,4,3,4,4,"29/04/2025","2015_7",2,0
+"Older People","Private","Raith Manor","Kirkcaldy","Fife","13/08/2025",4,4,3,4,4,"07/08/2025","2015_7",2,0
 "Older People","Local Authority","Bennachie View","Inverurie","Aberdeenshire","10/09/2024",5,5,4,5,5,"13/08/2024","2015_7",2,0
 "Older People","Private","Ashley House Residential Home - Care Home","Aberdeen","Aberdeen City","22/05/2025",5,5,5,5,4,"15/05/2025","2015_9",0,0
 "Older People","Private","Rannoch Lodge Care Home","Glasgow","North Lanarkshire","06/01/2025",5,4,3,4,4,"15/11/2024","2016_10",2,0
 "Mental Health Problems","Private","Riddrie House","Glasgow","Glasgow City","02/04/2025",5,4,4,5,4,"28/02/2025","2015_8",0,0
-"Older People","Local Authority","Ostlers House","Kirkcaldy","Fife","07/05/2024",2,4,5,4,5,"15/04/2024","2015_11",4,0
+"Older People","Local Authority","Ostlers House","Kirkcaldy","Fife","19/08/2025",3,4,5,3,3,"14/07/2025","2015_11",4,0
 "Older People","Private","North Argyll House","Oban","Argyll & Bute","27/03/2025",4,4,5,5,4,"17/02/2025","2016_7",0,0
 "Older People","Private","Wyndwell Care Home","Peterhead","Aberdeenshire","04/06/2025",5,4,4,5,5,"12/05/2025","2015_12",1,0
 "Older People","Private","Avonhaugh Nursing Home","Stonehouse","South Lanarkshire","27/03/2025",4,4,4,5,4,"24/03/2025","2016_10",0,0
@@ -709,17 +702,17 @@
 "Older People","Private","Manor Grange Care Home","Edinburgh","City of Edinburgh","21/10/2024",5,5,5,5,5,"15/10/2024","2016_10",1,0
 "Older People","Private","Deanston House Nursing Home","Coatbridge","North Lanarkshire","17/04/2025",4,4,5,4,4,"19/03/2025","2016_11",0,0
 "Older People","Private","Darnley Court","Glasgow","Glasgow City","20/12/2024",5,4,4,5,5,"05/12/2024","2017_10",1,0
-"Older People","Private","Claremont Care Home","Ayr","South Ayrshire","13/11/2024",3,5,3,5,5,"06/11/2024","2017_10",1,0
+"Older People","Private","Claremont Care Home","Ayr","South Ayrshire","25/08/2025",3,5,3,5,5,"07/08/2025","2017_10",1,0
 "Older People","Private","Eastbank Nursing Home","Glasgow","Glasgow City","20/05/2024",2,4,4,4,4,"08/05/2024","2017_10",1,0
 "Older People","Private","Fullarton Care Home","Irvine","North Ayrshire","11/11/2024",4,4,4,4,4,"23/10/2024","2017_10",1,0
 "Older People","Private","Highgate Care Home","Glasgow","North Lanarkshire","13/05/2024",5,4,4,4,4,"24/04/2024","2017_10",0,0
 "Older People","Private","Balcarres","Dundee","Dundee City","22/12/2023",6,5,5,5,6,"11/12/2023","2017_10",0,0
-"Older People","Private","Ailsa Craig","Glasgow","Glasgow City","28/08/2024",4,4,4,4,4,"21/08/2024","2017_11",3,0
+"Older People","Private","Ailsa Craig","Glasgow","Glasgow City","28/08/2024",3,4,4,4,3,"21/08/2024","2017_11",3,0
 "Older People","Private","Balnacarron","St. Andrews","Fife","10/04/2025",5,4,4,5,4,"14/03/2025","2017_10",2,0
 "Older People","Private","Hatton Lea Nursing Home","Bellshill","North Lanarkshire","10/07/2025",4,4,4,4,4,"08/07/2025","2017_10",2,0
-"Older People","Private","Kirknowe Nursing Home","Wishaw","North Lanarkshire","16/10/2024",5,4,4,5,5,"18/09/2024","2017_11",0,0
+"Older People","Private","Kirknowe Nursing Home","Wishaw","North Lanarkshire","13/08/2025",5,4,5,5,5,"28/07/2025","2017_11",0,0
 "Older People","Private","Wyndford Locks Nursing Home","Glasgow","Glasgow City","12/09/2024",4,4,4,4,4,"08/08/2024","2017_11",2,0
-"Older People","Private","Quayside","Glasgow","Glasgow City","17/03/2025",3,4,4,4,4,"20/07/2025","2017_11",3,0
+"Older People","Private","Quayside","Glasgow","Glasgow City","04/08/2025",4,4,4,4,4,"20/07/2025","2017_11",3,0
 "Older People","Private","Victoria Manor Nursing Home","Edinburgh","City of Edinburgh","09/05/2025",4,4,4,5,5,"05/05/2025","2017_10",3,0
 "Older People","Private","Mugdock House Care Home","Glasgow","East Dunbartonshire","27/02/2025",6,5,NA,5,5,"25/02/2025","2017_10",0,0
 "Older People","Private","Georgia Park Care Home","Glasgow","South Lanarkshire","10/07/2025",3,3,4,4,3,"12/06/2025","2017_1",2,0
@@ -728,10 +721,10 @@
 "Older People","Private","Aaron House Care Home","Penicuik","Midlothian","18/04/2024",4,4,4,5,4,"19/03/2024","2018_1",4,0
 "Older People","Private","Lauder Lodge","Edinburgh","City of Edinburgh","07/10/2024",6,5,5,5,5,"11/09/2024","2017_12",0,0
 "Older People","Private","Culduthel Care Home","Inverness","Highland","21/07/2022",4,4,4,4,5,"24/06/2022","2017_3",0,0
-"Older People","Private","Springhill Care Home","Kilmarnock","East Ayrshire","14/07/2025",3,3,3,3,3,"19/06/2025","2017_7",3,0
+"Older People","Private","Springhill Care Home","Kilmarnock","East Ayrshire","28/08/2025",3,3,3,3,3,"12/08/2025","2017_7",3,0
 "Older People","Local Authority","Crosslet House Care Home","Dumbarton","West Dunbartonshire","14/07/2025",6,5,5,5,5,"20/06/2025","2017_5",0,0
 "Older People","Local Authority","Napier House","Glenrothes","Fife","24/09/2024",5,4,5,5,5,"19/08/2024","2017_9",0,0
-"Older People","Local Authority","Lindsay House","Lumphinnans","Fife","06/12/2024",4,3,5,4,4,"18/11/2024","2018_4",0,0
+"Older People","Local Authority","Lindsay House","Lumphinnans","Fife","06/12/2024",4,3,5,4,4,"29/07/2025","2018_4",0,0
 "Older People","Private","Elizabeth House Residential Care Home","Kirkcaldy","Fife","30/07/2025",4,4,4,4,4,"22/07/2025","2017_6",0,0
 "Older People","Private","Burnfoot Care Home","Patna","East Ayrshire","30/04/2025",5,5,5,5,5,"08/04/2025","2018_6",0,0
 "Older People","Private","Glebe House Care Home","Ayr","East Ayrshire","28/02/2025",5,4,4,5,4,"25/02/2025","2018_6",0,0
@@ -739,7 +732,7 @@
 "Older People","Private","Morningside Manor Care Home","Edinburgh","City of Edinburgh","18/07/2025",5,5,5,4,5,"15/07/2025","2017_11",0,0
 "Learning Disabilities","Voluntary or Not for Profit","Bluebell Cottage","Edinburgh","City of Edinburgh","22/07/2025",5,4,5,5,5,"23/06/2025","2018_3",0,0
 "Older People","Private","Cramond Residence","Edinburgh","City of Edinburgh","19/04/2023",4,4,5,4,4,"30/03/2023","2018_10",2,0
-"Older People","Private","Lynemore","Grantown On Spey","Highland","03/02/2025",3,4,5,4,4,"17/12/2024","2018_9",0,0
+"Older People","Private","Lynemore","Grantown On Spey","Highland","08/08/2025",4,5,5,5,5,"04/07/2025","2018_9",0,0
 "Older People","Private","Milngavie Manor","Glasgow","East Dunbartonshire","05/06/2025",4,4,4,4,3,"02/05/2025","2017_12",3,0
 "Older People","Private","Torrance Lodge","Kilmarnock","East Ayrshire","31/07/2024",4,4,4,4,4,"13/06/2024","2017_10",2,0
 "Older People","Private","Abbeydale Court Care Centre","Hamilton","South Lanarkshire","17/06/2025",5,4,5,4,5,"04/06/2025","2017_12",0,0
@@ -757,12 +750,12 @@
 "Older People","Private","Golfhill Care Home","Glasgow","Glasgow City","23/04/2025",3,3,3,3,3,"16/04/2025","2017_12",7,0
 "Older People","Private","Haydale Nursing Home","Glasgow","Glasgow City","02/06/2025",4,4,4,4,4,"01/05/2025","2017_12",5,0
 "Older People","Private","Hillview Care Home","Clydebank","West Dunbartonshire","07/04/2025",3,3,3,2,2,"20/03/2025","2017_12",8,0
-"Older People","Private","Millview Care Home","Glasgow","East Renfrewshire","04/02/2025",3,3,3,3,3,"14/01/2025","2017_12",2,0
+"Older People","Private","Millview Care Home","Glasgow","East Renfrewshire","04/02/2025",3,3,3,3,3,"14/08/2025","2017_12",2,0
 "Older People","Private","Newcarron Court Nursing Home","Falkirk","Falkirk","01/07/2025",4,3,3,4,4,"11/06/2025","2017_12",4,0
 "Older People","Private","Norwood Care Home","Glasgow","East Renfrewshire","03/02/2025",4,4,4,4,4,"09/01/2025","2017_12",1,0
 "Older People","Private","Rutherglen Care Home","Glasgow","South Lanarkshire","30/06/2025",4,4,3,3,3,"02/05/2025","2017_12",2,0
 "Older People","Private","Braemount Nursing Home","Paisley","Renfrewshire","30/04/2025",3,4,4,3,3,"21/03/2025","2017_12",0,0
-"Older People","Private","Bonnyholm Gardens Care Home","Glasgow","Glasgow City","19/04/2024",4,3,4,4,4,"10/04/2024","2018_9",0,0
+"Older People","Private","Bonnyholm Gardens Care Home","Glasgow","Glasgow City","27/08/2025",4,4,5,4,5,"15/08/2025","2018_9",0,0
 "Older People","Private","Haddington Care Home","Haddington","East Lothian","20/12/2024",4,4,3,4,4,"28/11/2024","2018_6",2,0
 "Learning Disabilities","Voluntary or Not for Profit","Dougall Court","Dalkeith","Midlothian","23/10/2023",4,4,4,4,4,"09/10/2023","2017_12",0,0
 "Older People","Voluntary or Not for Profit","Holy Rosary Care Home","Greenock","Inverclyde","12/03/2025",4,4,3,4,4,"21/01/2025","2018_12",0,0
@@ -771,7 +764,7 @@
 "Older People","Private","Bothwell Castle Care Home","Glasgow","South Lanarkshire","08/02/2024",5,5,5,4,5,"25/01/2024","2018_11",2,0
 "Older People","Private","Glennie House","Cumnock","East Ayrshire","08/12/2023",4,4,4,4,4,"30/11/2023","2018_12",1,0
 "Physical and Sensory Impairment","Voluntary or Not for Profit","Upper Springland Rosiebank Tummel","Perth","Perth & Kinross","11/07/2025",5,5,4,4,5,"04/03/2025","2019_3",0,0
-"Physical and Sensory Impairment","Voluntary or Not for Profit","Upper Springland Tayview","Perth","Perth & Kinross","21/12/2023",5,5,4,5,5,"29/11/2023","2019_3",1,0
+"Physical and Sensory Impairment","Voluntary or Not for Profit","Upper Springland Tayview","Perth","Perth & Kinross","11/08/2025",5,5,4,5,5,"22/07/2025","2019_3",1,0
 "Learning Disabilities","Voluntary or Not for Profit","Inspire Donald Dewar Court","Aberdeen","Aberdeen City","30/04/2024",5,4,4,5,5,"12/04/2024","2018_12",0,0
 "Learning Disabilities","Private","Maple Ridge Care Home","Inverness","Highland","12/10/2023",4,4,4,4,4,"05/10/2023","2019_1",0,0
 "Older People","Local Authority","Bellfield Centre","Stirling","Stirling","25/11/2024",5,4,5,5,4,"22/11/2024","2018_11",1,0
@@ -782,22 +775,22 @@
 "Older People","Private","Glencairn","Edinburgh","City of Edinburgh","28/11/2024",5,5,6,5,5,"12/11/2024","2018_12",0,0
 "Older People","Private","Trinity House Care Home","Edinburgh","City of Edinburgh","28/07/2025",4,3,5,5,4,"07/07/2025","2019_2",3,0
 "Older People","Private","Queens Manor Care Home","Edinburgh","City of Edinburgh","22/04/2024",4,4,4,4,4,"19/04/2024","2019_1",0,0
-"Older People","Private","Beech Manor Care Home","Blairgowrie","Perth & Kinross","03/09/2024",4,4,4,4,5,"13/06/2024","2018_12",0,0
+"Older People","Private","Beech Manor Care Home","Blairgowrie","Perth & Kinross","03/09/2024",4,4,4,4,5,"13/06/2024","2018_12",1,0
 "Older People","Private","Torry Care Home","Aberdeen","Aberdeen City","11/04/2025",4,4,4,4,4,"25/03/2025","2018_12",1,0
 "Older People","Private","Jesmond Care Home","Aberdeen","Aberdeen City","27/05/2025",4,4,4,4,4,"04/03/2025","2018_12",2,0
 "Learning Disabilities","Private","Elm Cottage Care Ltd","Broxburn","West Lothian","11/11/2024",5,4,4,5,4,"09/10/2024","2019_4",0,0
 "Older People","Private","Wilby House","Kirkcaldy","Fife","06/08/2024",5,4,4,5,4,"22/07/2024","2019_7",1,0
-"Older People","Private","Marchmont","Kirkcaldy","Fife","13/11/2024",4,3,4,5,4,"01/10/2024","2019_7",0,0
+"Older People","Private","Marchmont","Kirkcaldy","Fife","13/11/2024",4,3,4,5,4,"13/08/2025","2019_7",0,0
 "Older People","Private","Wallside Grange Care Home","Falkirk","Falkirk","11/12/2024",5,5,4,4,5,"06/12/2024","2019_7",0,0
-"Older People","Local Authority","Victoria Gardens Care Home","Glasgow","Glasgow City","17/06/2024",5,4,4,5,4,"30/05/2024","2019_9",0,0
+"Older People","Local Authority","Victoria Gardens Care Home","Glasgow","Glasgow City","12/08/2025",5,5,5,5,5,"10/07/2025","2019_9",0,0
 "Older People","Private","Ashton Grange","Glasgow","Glasgow City","22/04/2025",4,4,4,4,3,"19/03/2025","2019_5",0,0
 "Older People","Private","Greyfriars Care Centre","Glasgow","Glasgow City","23/08/2024",4,4,4,4,4,"25/07/2024","2019_5",1,0
 "Older People","Local Authority","Meadowburn Care Home","Glasgow","Glasgow City","04/07/2024",4,4,5,4,4,"05/06/2024","2019_10",2,0
 "Older People","Private","Newton House","Glasgow","East Renfrewshire","18/06/2024",4,4,5,5,5,"23/05/2024","2019_5",0,1
 "Older People","Private","Springvale Care Home","Glasgow","East Dunbartonshire","12/03/2025",4,4,4,4,4,"28/02/2025","2019_3",4,0
-"Older People","Private","Bute House Care Home","Cumnock","East Ayrshire","17/02/2025",3,3,3,3,3,"22/01/2025","2020_2",1,0
+"Older People","Private","Bute House Care Home","Cumnock","East Ayrshire","12/08/2025",4,4,4,4,4,"30/07/2025","2020_2",1,0
 "Older People","Private","Northcare Suites","Edinburgh","City of Edinburgh","30/07/2025",5,5,6,5,5,"07/07/2025","2019_9",0,0
-"Older People","Private","Kingsacre Care Home","Clydebank","West Dunbartonshire","28/01/2025",4,3,4,4,5,"20/12/2024","2019_7",1,0
+"Older People","Private","Kingsacre Care Home","Clydebank","West Dunbartonshire","18/08/2025",4,3,4,4,5,"23/07/2025","2019_7",1,0
 "Learning Disabilities","Private","Deanston House","Doune","Stirling","14/02/2025",5,4,4,5,5,"10/01/2025","2019_8",0,0
 "Learning Disabilities","Local Authority","Trindlemoss House","Irvine","North Ayrshire","06/05/2025",4,5,3,4,4,"18/04/2025","2020_2",0,0
 "Older People","Private","Castlehill Care Home","Inverness","Highland","24/06/2025",1,2,2,1,1,"09/05/2025","2019_12",13,2
@@ -812,7 +805,7 @@
 "Older People","Local Authority","St. Ronan's Care Home","Innerleithen","Scottish Borders","28/08/2024",5,5,5,5,5,"13/08/2024","2019_12",0,0
 "Older People","Local Authority","Waverley Care Home","Galashiels","Scottish Borders","23/08/2024",4,4,4,4,4,"07/08/2024","2019_12",1,0
 "Older People","Private","Greenan Manor Care Home","Ayr","South Ayrshire","01/11/2023",4,4,6,5,4,"12/10/2023","2021_1",1,0
-"Older People","Private","Arran View Care Home","Saltcoats","North Ayrshire","26/06/2025",5,4,4,4,5,"13/06/2025","2020_6",2,0
+"Older People","Private","Arran View Care Home","Saltcoats","North Ayrshire","26/06/2025",5,4,4,4,5,"13/06/2025","2020_6",3,0
 "Older People","Private","Kingsmills Care Home","Inverness","Highland","22/08/2024",3,4,4,3,4,"17/07/2024","2020_4",1,1
 "Older People","Private","Livingston Care Home","Livingston","West Lothian","13/05/2024",4,4,4,4,4,"30/04/2024","2020_5",2,0
 "Older People","Private","Abercorn House Care Home","Hamilton","South Lanarkshire","26/02/2024",5,5,5,5,5,"14/02/2024","2020_6",1,0
@@ -824,14 +817,14 @@
 "Learning Disabilities","Private","Park Lodge Care Home","Westhill","Aberdeenshire","11/03/2024",5,5,5,5,5,"29/02/2024","2020_6",0,0
 "Older People","Private","Pitcairn Lodge Nursing Home","Westhill","Aberdeenshire","11/12/2024",4,4,3,4,4,"25/11/2024","2020_6",2,0
 "Older People","Private","Queens Care Home","Prestwick","South Ayrshire","06/03/2025",5,4,4,5,4,"21/02/2025","2020_6",1,0
-"Older People","Private","Tyneholm Stables Care Home","Tranent","East Lothian","07/01/2025",4,4,4,4,4,"04/12/2024","2020_6",1,0
+"Older People","Private","Tyneholm Stables Care Home","Tranent","East Lothian","31/08/2025",4,4,4,3,4,"24/07/2025","2020_6",1,0
 "Older People","Private","Laurels Lodge Care Home","Aberdeen","Aberdeen City","29/07/2025",5,5,5,5,5,"23/06/2025","2020_8",0,0
 "Older People","Private","Buchanan House Care Home","Glasgow","East Dunbartonshire","02/09/2024",4,4,4,4,4,"28/08/2024","2020_8",0,0
 "Older People","Private","Buchanan Lodge Care Home","Glasgow","East Dunbartonshire","15/05/2025",5,4,4,5,4,"13/05/2025","2020_8",0,0
 "Older People","Private","Havencourt Care Home","Stonehaven","Aberdeenshire","29/05/2025",4,4,5,5,5,"16/04/2025","2020_8",2,0
 "Older People","Private","Maryfield West Care Home","Aberdeen","Aberdeen City","30/10/2024",5,4,4,5,4,"18/10/2024","2020_8",0,0
 "Older People","Private","Meadowvale Care Home","Bathgate","West Lothian","24/03/2025",5,4,4,4,5,"18/03/2025","2020_8",0,0
-"Older People","Private","Bearehill Care Home","Brechin","Angus","01/05/2025",3,3,3,3,3,"10/04/2025","2020_8",2,0
+"Older People","Private","Bearehill Care Home","Brechin","Angus","01/05/2025",3,3,3,3,3,"05/08/2025","2020_8",2,0
 "Older People","Private","Craighead Care Home","Newport-On-Tay","Fife","23/04/2024",5,4,4,5,5,"17/04/2024","2020_8",0,0
 "Older People","Private","Dounemount Care Home","Macduff","Aberdeenshire","27/05/2025",4,4,4,4,4,"22/05/2025","2020_8",0,0
 "Older People","Private","Earlsferry House Care Home","Leven","Fife","16/10/2024",5,4,4,4,4,"18/07/2024","2020_8",0,0
@@ -844,19 +837,19 @@
 "Older People","Private","Three Towns Care Home","Stevenson","North Ayrshire","28/10/2024",3,3,4,3,4,"02/10/2024","2020_8",2,0
 "Older People","Private","Beechwood Care Home","Wishaw","North Lanarkshire","06/02/2025",4,4,4,4,4,"30/01/2025","2020_7",0,0
 "Older People","Private","Heatherfield Nursing Home","Armadale","West Lothian","03/02/2025",5,5,4,5,5,"20/01/2025","2020_7",1,0
-"Older People","Private","Almond View Care Home","Glasgow","Glasgow City","16/06/2025",4,4,4,4,4,"07/05/2025","2020_8",1,0
+"Older People","Private","Almond View Care Home","Glasgow","Glasgow City","18/08/2025",4,4,4,4,4,"18/07/2025","2020_8",2,0
 "Older People","Private","Craigielea Care Home","Renfrew","Renfrewshire","01/04/2025",3,3,3,3,3,"07/03/2025","2020_7",5,0
 "Older People","Private","Bankview Care Home","Bonnybridge","Falkirk","10/02/2025",6,4,5,5,5,"23/01/2025","2020_6",0,0
 "Older People","Private","Gowrie House Care Home","Kirkcaldy","Fife","06/09/2024",5,4,5,5,5,"09/08/2024","2020_8",4,0
 "Older People","Voluntary or Not for Profit","St. Mary's Care Home","Dundee","Angus","26/02/2024",5,5,4,5,5,"19/01/2024","2020_11",0,0
 "Older People","Private","Hallhouse Care Home","Kilmarnock","East Ayrshire","26/08/2024",5,5,4,4,5,"16/08/2024","2020_8",3,0
 "Older People","Private","Harbour House Care Home","Musselburgh","East Lothian","23/06/2025",4,4,5,4,4,"28/05/2025","2020_11",1,0
-"Older People","Private","Bridge of Weir Care Home","Bridge Of Weir","Renfrewshire","03/12/2024",4,4,5,3,4,"04/11/2024","2020_11",7,0
+"Older People","Private","Bridge of Weir Care Home","Bridge Of Weir","Renfrewshire","03/12/2024",4,4,5,3,4,"04/11/2024","2020_11",8,0
 "Older People","Local Authority","Queens Quay House","Clydebank","West Dunbartonshire","01/05/2025",4,4,6,4,4,"30/04/2025","2020_12",0,0
 "Older People","Private","Eilean Dubh","Fortrose","Highland","25/11/2024",5,5,5,5,5,"30/09/2024","2021_3",0,0
 "Older People","Private","Renaissance@Malin Court","Girvan","South Ayrshire","07/04/2025",5,4,4,4,5,"20/03/2025","2021_6",0,0
 "Older People","Private","The Manor","Edinburgh","City of Edinburgh","04/03/2025",5,4,5,4,5,"19/02/2025","2021_6",1,0
-"Older People","Private","Kincairney House","Perth","Perth & Kinross","08/01/2025",2,3,5,3,2,"10/12/2024","2021_6",9,0
+"Older People","Private","Kincairney House","Perth","Perth & Kinross","13/08/2025",2,3,5,3,2,"08/07/2025","2021_6",9,0
 "Older People","Health Board","Home Farm Care Home","Isle Of Skye","Highland","27/02/2025",4,3,3,4,3,"10/01/2025","2021_6",0,0
 "Older People","Voluntary or Not for Profit","The General Anderson Trust","Elgin","Moray","17/04/2024",4,4,4,4,4,"12/03/2024","2021_6",0,0
 "Older People","Private","Kirk Lane Nursing Home","West Lothian","West Lothian","28/03/2025",6,5,6,6,6,"07/03/2025","2021_6",1,0
@@ -865,7 +858,7 @@
 "Older People","Private","Oakeshott House","Stirling","Stirling","17/07/2025",4,4,4,3,3,"07/07/2025","2021_9",5,0
 "Older People","Private","Belleaire House","Greenock","Inverclyde","23/12/2024",4,4,4,4,4,"21/11/2024","2021_9",5,0
 "Older People","Private","Kincaid House","Greenock","Inverclyde","24/07/2024",4,4,5,5,5,"28/06/2024","2021_9",1,0
-"Older People","Private","Kynnaird House Care Home","Fraserburgh","Aberdeenshire","22/04/2025",5,5,5,5,5,"27/02/2025","2021_9",1,0
+"Older People","Private","Kynnaird House Care Home","Fraserburgh","Aberdeenshire","21/08/2025",5,5,5,5,5,"20/08/2025","2021_9",1,0
 "Older People","Private","Redwoods Care Home","Alness","Highland","29/08/2024",5,5,5,5,5,"06/08/2024","2021_9",1,0
 "Older People","Private","Parklands Care Home","Alloa","Clackmannanshire","28/04/2025",4,4,5,4,4,"10/04/2025","2021_9",4,0
 "Older People","Private","St Olafs Care Home","Nairn","Highland","16/10/2024",5,4,5,4,4,"11/09/2024","2021_9",0,0
@@ -874,34 +867,34 @@
 "Older People","Private","Crimond Care Home","Fraserburgh","Aberdeenshire","12/06/2025",3,4,4,3,5,"15/05/2025","2021_9",0,0
 "Older People","Private","Auchtercrag Care Home","Ellon","Aberdeenshire","02/05/2025",3,3,3,3,3,"23/04/2025","2021_9",3,0
 "Older People","Private","Leven Beach Care Home","Leven","Fife","07/04/2025",5,4,4,5,5,"20/03/2025","2021_9",4,0
-"Older People","Private","The Grove Care Home","Inverurie","Aberdeenshire","21/05/2025",3,3,4,3,3,"21/03/2025","2021_9",1,0
-"Older People","Private","Carlingwark House","Castle Douglas","Dumfries & Galloway","26/03/2025",3,3,3,3,3,"25/03/2025","2021_10",1,1
-"Older People","Private","Merse House","Kirkcudbright","Dumfries & Galloway","21/07/2025",4,4,4,4,4,"27/06/2025","2021_10",0,1
+"Older People","Private","The Grove Care Home","Inverurie","Aberdeenshire","08/08/2025",4,4,4,4,4,"25/07/2025","2021_9",1,0
+"Older People","Private","Carlingwark House","Castle Douglas","Dumfries & Galloway","19/08/2025",2,3,3,3,3,"22/07/2025","2021_10",1,1
+"Older People","Private","Merse House","Kirkcudbright","Dumfries & Galloway","21/07/2025",4,4,4,4,4,"27/06/2025","2021_10",1,1
 "Older People","Private","Cornwall Park","Newton Stewart","Dumfries & Galloway","11/03/2025",4,4,4,4,4,"20/02/2025","2021_10",1,0
 "Older People","Private","Munches Park House","Dalbeattie","Dumfries & Galloway","25/06/2025",4,4,3,3,3,"30/05/2025","2021_10",0,0
-"Older People","Private","Charnwood Lodge","Dumfries","Dumfries & Galloway","11/06/2025",3,4,3,3,3,"23/04/2025","2021_10",1,0
+"Older People","Private","Charnwood Lodge","Dumfries","Dumfries & Galloway","18/08/2025",3,4,3,3,3,"28/07/2025","2021_10",1,0
 "Older People","Private","Thorney Croft","Stranraer","Dumfries & Galloway","13/02/2025",4,4,3,4,4,"31/01/2025","2021_10",1,0
 "Older People","Private","Elsie Inglis Nursing Home","Edinburgh","City of Edinburgh","31/10/2024",4,4,5,4,4,"10/10/2024","2021_10",1,0
 "Mental Health Problems","Private","Wallacetown Gardens","Ayr","South Ayrshire","16/07/2025",5,4,5,4,4,"09/07/2025","2021_11",0,0
 "Physical and Sensory Impairment","Voluntary or Not for Profit","Eastfields","Glasgow","Glasgow City","24/06/2024",4,4,4,4,4,"05/06/2024","2021_11",1,0
 "Older People","Private","Kingsley Care Home","Paisley","Renfrewshire","03/07/2025",3,3,5,3,3,"04/06/2025","2021_12",1,0
-"Physical and Sensory Impairment","Private","Murdostoun Neurological Care Centre","Wishaw","North Lanarkshire","24/07/2024",4,4,4,5,5,"19/06/2024","2021_3",1,0
+"Physical and Sensory Impairment","Private","Murdostoun Neurological Care Centre","Wishaw","North Lanarkshire","06/08/2025",5,4,5,5,5,"22/07/2025","2021_3",1,0
 "Mental Health Problems","Private","Moorpark Place","Kilbirnie","North Ayrshire","27/02/2025",5,4,4,4,4,"11/02/2025","2021_3",0,0
 "Older People","Private","Hermitage  House","Helensburgh","Argyll & Bute","13/06/2024",5,4,4,5,5,"14/05/2024","2022_1",0,0
-"Older People","Private","Middleton Hall","Edinburgh","West Lothian","08/01/2025",5,NA,3,5,5,"25/11/2024","2022_2",1,0
+"Older People","Private","Middleton Hall","Edinburgh","West Lothian","26/08/2025",5,4,3,5,5,"31/07/2025","2022_2",1,0
 "Older People","Private","Atlantic View Care Home","Ayr","South Ayrshire","13/11/2024",5,5,5,5,5,"05/11/2024","2022_4",0,0
 "Older People","Private","Balmoral By Northcare","Glasgow","Glasgow City","15/05/2025",5,5,5,5,5,"07/05/2025","2022_4",2,0
-"Older People","Private","Creggan Bahn Court","Ayr","South Ayrshire","09/05/2023",5,5,5,5,5,"31/03/2023","2022_6",0,0
+"Older People","Private","Creggan Bahn Court","Ayr","South Ayrshire","12/08/2025",5,5,5,5,5,"14/07/2025","2022_6",0,0
 "Older People","Private","Stobhill Nursing Home","Glasgow","Glasgow City","24/03/2025",4,4,3,3,3,"14/02/2025","2022_8",2,0
-"Older People","Private","Cardonald Care Home","Glasgow","Glasgow City","17/12/2024",3,3,3,3,3,"22/11/2024","2022_8",1,0
-"Older People","Private","Baillieston Care Home","Glasgow","Glasgow City","24/01/2025",4,3,3,4,4,"10/01/2025","2022_8",1,1
+"Older People","Private","Cardonald Care Home","Glasgow","Glasgow City","17/12/2024",3,3,3,3,3,"23/07/2025","2022_8",1,0
+"Older People","Private","Baillieston Care Home","Glasgow","Glasgow City","24/01/2025",4,3,3,4,4,"10/01/2025","2022_8",2,1
 "Older People","Private","Boclair Care Home","Glasgow","East Dunbartonshire","09/06/2025",5,5,5,5,4,"19/05/2025","2022_8",1,0
 "Older People","Voluntary or Not for Profit","Gibson House Care Home","St. Andrews","Fife","17/06/2024",4,4,3,4,4,"07/06/2024","2022_8",1,0
 "Older People","Private","Clarence Court Care Home","Glasgow","Glasgow City","23/04/2025",4,3,4,4,4,"21/03/2025","2022_8",1,0
 "Older People","Private","Tantallon House","North Berwick","East Lothian","28/07/2025",5,4,5,4,5,"22/07/2025","2022_9",5,0
 "Older People","Private","Woodlands Care Home","Aberdeen","Aberdeen City","04/07/2024",4,4,5,5,5,"13/05/2024","2022_9",2,0
 "Alcohol & Drug Misuse","Voluntary or Not for Profit","Phoenix Futures National Specialist Family Service, Harper House","Saltcoats","North Ayrshire","23/07/2025",5,5,4,4,4,"02/07/2025","2022_9",0,0
-"Older People","Private","Clyde Court Care Home","Clydebank","West Dunbartonshire","07/03/2025",3,4,4,3,3,"26/06/2025","2022_10",1,0
+"Older People","Private","Clyde Court Care Home","Clydebank","West Dunbartonshire","08/08/2025",2,3,2,3,2,"26/06/2025","2022_10",2,0
 "Older People","Private","Ryan Meadows Care Home","Glasgow","South Lanarkshire","24/03/2025",4,3,4,3,4,"06/03/2025","2022_10",6,0
 "Alcohol & Drug Misuse","Voluntary or Not for Profit","Mother and Child Recovery House - Tayside","Dundee","Dundee City","28/03/2024",6,NA,NA,NA,5,"27/02/2024","2022_12",0,0
 "Older People","Private","Liberton Brae","Edinburgh","City of Edinburgh","11/10/2024",5,4,5,5,5,"02/10/2024","2022_12",0,0
@@ -911,23 +904,23 @@
 "Older People","Private","Olympia House","Glasgow","Glasgow City","20/11/2023",4,4,4,4,4,"24/10/2023","2023_2",4,0
 "Older People","Private","Northgate House Care Home","Glasgow","Glasgow City","10/12/2024",4,4,4,4,4,"19/11/2024","2023_2",2,0
 "Older People","Private","Craigie Care Home","Kilmarnock","East Ayrshire","26/07/2024",5,5,4,4,4,"13/03/2024","2023_2",0,0
-"Older People","Private","Millfield House","Jedburgh","Scottish Borders","22/03/2024",4,4,NA,NA,4,"12/03/2024","2023_3",1,0
+"Older People","Private","Millfield House","Jedburgh","Scottish Borders","22/03/2024",4,4,NA,NA,4,"20/08/2025","2023_3",1,0
 "Older People","Private","Fernlea Care Home","Lochgelly","Fife","14/07/2025",3,3,4,3,3,"11/06/2025","2023_3",2,0
-"Older People","Private","Preston Care Home","Glenrothes","Fife","18/09/2024",5,4,5,4,5,"29/08/2024","2023_3",2,0
-"Older People","Private","Camilla Care Home.","Kirkcaldy","Fife","01/04/2025",3,4,5,3,3,"21/03/2025","2023_3",3,0
+"Older People","Private","Preston Care Home","Glenrothes","Fife","25/08/2025",5,4,5,4,5,"08/08/2025","2023_3",2,0
+"Older People","Private","Camilla Care Home.","Kirkcaldy","Fife","01/04/2025",3,4,5,3,3,"21/08/2025","2023_3",3,0
 "Older People","Local Authority","Kintyre Care Centre","Campbeltown","Argyll & Bute","15/05/2025",4,3,2,3,3,"17/04/2025","2023_3",1,0
 "Older People","Private","Barrogil House Care Home","Kirkcaldy","Fife","11/07/2025",3,3,4,4,4,"01/07/2025","2023_4",4,0
 "Older People","Private","Finavon Court Care Home","Glenrothes","Fife","12/03/2025",4,5,5,5,5,"19/02/2025","2023_4",0,0
-"Older People","Private","Lomond View Care Home","Cupar","Fife","29/05/2025",3,3,4,3,3,"09/05/2025","2023_4",5,1
+"Older People","Private","Lomond View Care Home","Cupar","Fife","29/05/2025",3,3,4,3,3,"09/05/2025","2023_4",6,1
 "Mental Health Problems","Private","Harbour Care Centre","Kirkcaldy","Fife","06/09/2024",4,4,5,4,4,"26/08/2024","2023_4",0,0
 "Older People","Private","Willow House Care Home","Anstruther","Fife","16/01/2025",3,3,3,3,3,"17/12/2024","2023_4",2,0
 "Older People","Private","Craigie House Care Home","Cowdenbeath","Fife","27/03/2025",3,3,4,3,3,"12/03/2025","2023_5",0,0
 "Older People","Private","Mearns View Care Home","Glasgow","East Renfrewshire","24/06/2024",5,4,5,5,4,"31/05/2024","2023_5",0,0
 "Older People","Private","Methven House Care Home","Kirkcaldy","Fife","28/05/2025",4,4,4,4,4,"16/05/2025","2023_5",4,0
-"Older People","Private","Walton House Care Home","Leven","Fife","19/05/2025",3,4,3,3,2,"24/04/2025","2023_5",1,0
+"Older People","Private","Walton House Care Home","Leven","Fife","19/05/2025",3,4,3,3,2,"27/08/2025","2023_5",1,0
 "Older People","Local Authority","North Merchiston","Edinburgh","City of Edinburgh","01/11/2024",4,4,4,5,4,"17/10/2024","2023_5",0,0
 "Older People","Local Authority","Castlegreen","Edinburgh","City of Edinburgh","14/07/2025",5,4,5,4,5,"10/07/2025","2023_5",2,0
-"Older People","Private","Alexander House Care Home","Cowdenbeath","Fife","07/03/2025",3,3,4,3,3,"17/02/2025","2023_6",1,0
+"Older People","Private","Alexander House Care Home","Cowdenbeath","Fife","07/03/2025",3,3,4,3,3,"12/08/2025","2023_6",1,0
 "Older People","Local Authority","Taigh Shiphoirt","Isle Of Lewis","Na h-Eileanan Siar","01/07/2025",4,4,5,4,4,"11/06/2025","2023_6",0,0
 "Older People","Private","Northcare Residences","Stirling","Stirling","28/07/2025",6,5,6,5,5,"18/07/2025","2023_7",0,0
 "Older People","Private","Riverside Care Home","Aberdeen","Aberdeen City","09/06/2025",4,4,4,4,4,"20/05/2025","2023_8",2,0
@@ -935,7 +928,7 @@
 "Mental Health Problems","Private","Whiteford House","Ayr","South Ayrshire","09/10/2024",5,4,5,5,5,"25/09/2024","2023_9",0,0
 "Older People","Health Board","Mains House","Newtonmore","Highland","30/07/2025",4,4,3,4,4,"11/07/2025","2023_9",0,0
 "Older People","Private","Kendale Hall Care Home","Arbroath","Angus","22/10/2024",5,5,4,4,5,"11/10/2024","2023_12",0,0
-"Older People","Private","Castle Lodge","Montrose","Aberdeenshire","17/10/2024",4,4,3,4,4,"02/10/2024","2023_12",0,0
+"Older People","Private","Castle Lodge","Montrose","Aberdeenshire","06/08/2025",3,4,3,3,4,"17/07/2025","2023_12",0,0
 "Older People","Private","Storyville House","Kirriemuir","Angus","17/02/2025",3,3,3,3,3,"31/01/2025","2023_12",2,0
 "Older People","Private","Carmichael House","Dundee","Dundee City","30/05/2025",4,4,4,4,4,"29/05/2025","2023_12",1,0
 "Older People","Private","Windyedge Care Home","Forfar","Angus","13/01/2025",4,4,3,4,5,"13/12/2024","2023_12",0,0
@@ -950,7 +943,7 @@
 "Older People","Private","Centenary House Care Home","Coatbridge","North Lanarkshire","07/03/2025",4,3,4,3,3,"05/03/2025","2024_7",1,0
 "Alcohol & Drug Misuse","Voluntary or Not for Profit","Mother and Child Recovery House - Falkirk","Falkirk","Falkirk",NA,NA,NA,NA,NA,NA,NA,"2024_8",0,0
 "Older People","Private","Almond Valley Care Home","Livingston","West Lothian",NA,NA,NA,NA,NA,NA,NA,"2024_8",0,0
-"Older People","Private","Pitreavie Castle Care Home","Dunfermline","Fife",NA,NA,NA,NA,NA,NA,NA,"2024_10",1,0
+"Older People","Private","Pitreavie Castle Care Home","Dunfermline","Fife",NA,NA,NA,NA,NA,NA,NA,"2024_10",2,0
 "Older People","Private","Eastwood Court Care Home","Glasgow","East Renfrewshire","20/03/2025",4,4,4,4,4,"13/02/2025","2024_10",0,0
 "Older People","Private","Northcare Residences - Glasgow","Glasgow","Glasgow City",NA,NA,NA,NA,NA,NA,NA,"2024_10",0,0
 "Learning Disabilities","Voluntary or Not for Profit","Waterloo Care Home","Glasgow","East Dunbartonshire",NA,NA,NA,NA,NA,NA,NA,"2024_11",0,0
@@ -962,7 +955,7 @@
 "Older People","Private","Oakbank Care Home","Crieff","Perth & Kinross",NA,NA,NA,NA,NA,NA,NA,"2025_2",0,0
 "Older People","Private","Dalgety Bay Care Home","Dunfermline","Fife",NA,NA,NA,NA,NA,NA,NA,"2025_2",0,0
 "Older People","Private","Roselea Court Care Home","Stirling","Stirling",NA,NA,NA,NA,NA,NA,NA,"2025_2",0,0
-"Older People","Private","Queens View Harbour Care Home","Troon","South Ayrshire",NA,NA,NA,NA,NA,NA,NA,"2025_2",1,0
+"Older People","Private","Queens View Harbour Care Home","Troon","South Ayrshire","11/08/2025",5,4,5,5,4,"10/07/2025","2025_2",1,0
 "Older People","Private","Hilton Lodge","East Lothian","East Lothian",NA,NA,NA,NA,NA,NA,NA,"2025_2",0,0
 "Older People","Private","Ashlea Court Care Home","Larkhall","South Lanarkshire",NA,NA,NA,NA,NA,NA,NA,"2025_3",0,0
 "Older People","Private","Morar at St. Andrews","St Andrews","Fife",NA,NA,NA,NA,NA,NA,NA,"2025_3",0,0
@@ -985,10 +978,15 @@
 "Older People","Private","Bonnyton House Care Home","Ellon","Aberdeenshire",NA,NA,NA,NA,NA,NA,NA,"2025_6",0,0
 "Learning Disabilities","Voluntary or Not for Profit","Parkholme","Lossiemouth","Moray",NA,NA,NA,NA,NA,NA,NA,"2025_5",0,0
 "Older People","Private","Pittyvaich","Inverness","Highland",NA,NA,NA,NA,NA,NA,NA,"2025_6",0,0
-"Older People","Private","Gowanlea","Stirling","Stirling",NA,NA,NA,NA,NA,NA,NA,"2025_6",0,0
-"Older People","Private","Abbey Court Care Home","Glasgow","Glasgow City",NA,NA,NA,NA,NA,NA,NA,"2025_7",0,0
+"Older People","Private","Gowanlea","Stirling","Stirling","20/08/2025",6,5,5,5,5,"17/07/2025","2025_6",0,0
+"Older People","Private","Abbey Court Care Home","Glasgow","Glasgow City","19/08/2025",3,3,4,4,3,"01/08/2025","2025_7",0,0
 "Older People","Private","Bay Court Care Home","Largs","North Ayrshire",NA,NA,NA,NA,NA,NA,NA,"2025_7",0,0
 "Older People","Private","Deveron Way House","Huntly","Aberdeenshire",NA,NA,NA,NA,NA,NA,NA,"2025_7",0,0
 "Older People","Private","Wakefield House","Cullen","Moray",NA,NA,NA,NA,NA,NA,NA,"2025_7",0,0
 "Older People","Private","Weston View","Keith","Moray",NA,NA,NA,NA,NA,NA,NA,"2025_7",0,0
 "Older People","Private","Overdon Nursing Care Home","Inverurie","Aberdeenshire",NA,NA,NA,NA,NA,NA,NA,"2025_7",0,0
+"Older People","Private","Orchardhead Care Home","Dunfermline","Fife",NA,NA,NA,NA,NA,NA,NA,"2025_8",0,0
+"Older People","Private","Avonbridge Care Home","Hamilton","South Lanarkshire",NA,NA,NA,NA,NA,NA,NA,"2025_8",0,0
+"Older People","Private","The Meadows Care Home","Dornoch","Highland",NA,NA,NA,NA,NA,NA,NA,"2025_8",0,0
+"Older People","Private","Bridge View House Nursing Home","Dundee","Dundee City",NA,NA,NA,NA,NA,NA,NA,"2025_8",0,0
+"Older People","Private","Mull Hall Care Home","Invergordon","Highland",NA,NA,NA,NA,NA,NA,NA,"2025_8",0,0
